@@ -1,9 +1,8 @@
 <map id="sparse.hpp" name="sparse.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="480,5,573,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="419,5,512,32"/>
 <area shape="rect" id="node2" href="$graph_2all_8hpp.html" title=" " alt="" coords="432,155,499,181"/>
 <area shape="rect" id="node19" href="$chimera_8hpp.html" title=" " alt="" coords="414,80,517,107"/>
-<area shape="rect" id="node20" href="$converter_8hpp.html" title=" " alt="" coords="659,80,770,107"/>
-<area shape="rect" id="node21" href="$square_8hpp.html" title=" " alt="" coords="541,80,635,107"/>
+<area shape="rect" id="node20" href="$square_8hpp.html" title=" " alt="" coords="541,80,635,107"/>
 <area shape="rect" id="node3" href="$get__solution_8hpp.html" title=" " alt="" coords="121,468,252,495"/>
 <area shape="rect" id="node5" href="$declare_8hpp.html" title=" " alt="" coords="204,617,303,644"/>
 <area shape="rect" id="node7" href="$classical__ising_8hpp.html" title=" " alt="" coords="525,304,669,331"/>

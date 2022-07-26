@@ -1,12 +1,11 @@
 <map id="parse.hpp" name="parse.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="541,5,627,32"/>
-<area shape="rect" id="node2" href="$dense_8hpp.html" title=" " alt="" coords="409,80,498,107"/>
+<area shape="rect" id="node1" title=" " alt="" coords="515,5,602,32"/>
+<area shape="rect" id="node2" href="$dense_8hpp.html" title=" " alt="" coords="431,155,521,181"/>
 <area shape="rect" id="node13" href="$classical__ising__polynomial_8hpp.html" title=" " alt="" coords="397,304,621,331"/>
 <area shape="rect" id="node16" href="$k__local__polynomial_8hpp.html" title=" " alt="" coords="645,304,821,331"/>
-<area shape="rect" id="node21" href="$sparse_8hpp.html" title=" " alt="" coords="280,80,373,107"/>
-<area shape="rect" id="node24" href="$polynomial_8hpp.html" title="Graph class to represent polynomial unconstrained binary model or Ising model with polynomial interac..." alt="" coords="523,80,645,107"/>
-<area shape="rect" id="node3" href="$graph_2all_8hpp.html" title=" " alt="" coords="309,229,376,256"/>
-<area shape="rect" id="node20" href="$converter_8hpp.html" title=" " alt="" coords="398,155,509,181"/>
+<area shape="rect" id="node20" href="$polynomial_8hpp.html" title="Graph class to represent polynomial unconstrained binary model or Ising model with polynomial interac..." alt="" coords="497,80,620,107"/>
+<area shape="rect" id="node21" href="$sparse_8hpp.html" title=" " alt="" coords="252,80,345,107"/>
+<area shape="rect" id="node3" href="$graph_2all_8hpp.html" title=" " alt="" coords="327,229,393,256"/>
 <area shape="rect" id="node4" href="$get__solution_8hpp.html" title=" " alt="" coords="661,543,792,569"/>
 <area shape="rect" id="node6" href="$declare_8hpp.html" title=" " alt="" coords="625,692,724,719"/>
 <area shape="rect" id="node8" href="$classical__ising_8hpp.html" title=" " alt="" coords="244,379,388,405"/>
@@ -21,6 +20,6 @@
 <area shape="rect" id="node12" href="$swendsen__wang_8hpp.html" title=" " alt="" coords="233,461,391,487"/>
 <area shape="rect" id="node11" href="$updater_2all_8hpp.html" title=" " alt="" coords="457,543,524,569"/>
 <area shape="rect" id="node17" href="$k__local_8hpp.html" title=" " alt="" coords="695,379,791,405"/>
-<area shape="rect" id="node22" href="$chimera_8hpp.html" title=" " alt="" coords="153,155,255,181"/>
-<area shape="rect" id="node23" href="$square_8hpp.html" title=" " alt="" coords="279,155,374,181"/>
+<area shape="rect" id="node22" href="$chimera_8hpp.html" title=" " alt="" coords="186,155,289,181"/>
+<area shape="rect" id="node23" href="$square_8hpp.html" title=" " alt="" coords="313,155,407,181"/>
 </map>
