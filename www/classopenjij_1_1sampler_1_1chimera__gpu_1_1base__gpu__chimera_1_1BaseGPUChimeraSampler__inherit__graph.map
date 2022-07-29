@@ -1,4 +1,6 @@
 <map id="openjij.sampler.chimera_gpu.base_gpu_chimera.BaseGPUChimeraSampler" name="openjij.sampler.chimera_gpu.base_gpu_chimera.BaseGPUChimeraSampler">
-<area shape="rect" id="node1" title=" " alt="" coords="5,80,304,136"/>
-<area shape="rect" id="node2" title=" " alt="" coords="85,5,224,32"/>
+<area shape="rect" id="node1" title=" " alt="" coords="192,45,491,101"/>
+<area shape="rect" id="node3" href="$classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sa__sampler_1_1GPUChimeraSASampler.html" title=" " alt="" coords="543,5,792,61"/>
+<area shape="rect" id="node4" href="$classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sqa__sampler_1_1GPUChimeraSQASampler.html" title=" " alt="" coords="539,85,796,141"/>
+<area shape="rect" id="node2" title=" " alt="" coords="5,60,144,87"/>
 </map>
