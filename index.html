@@ -112,10 +112,14 @@ Coverage Graph</h1>
 <h2><a class="anchor" id="autotoc_md4"></a>
 Change &lt;strong&gt;IMPORT&lt;/strong&gt;</h2>
 <ul>
-<li>OpenJij &gt;= v0.5.0 <div class="fragment"><div class="line">import openjij.cxxjij</div>
-</div><!-- fragment --></li>
-<li>OpenJij &lt;= v0.4.9 <div class="fragment"><div class="line">import cxxjij</div>
-</div><!-- fragment --></li>
+<li>OpenJij &gt;= v0.5.0</li>
+</ul>
+<div class="fragment"><div class="line">import openjij.cxxjij</div>
+</div><!-- fragment --><ul>
+<li>OpenJij &lt;= v0.4.9</li>
+</ul>
+<div class="fragment"><div class="line">import cxxjij</div>
+</div><!-- fragment --><ul>
 <li><a href="https://openjij.github.io/OpenJij_Documentation/build/html/">Documents</a></li>
 <li><a href="https://openjij.github.io/OpenJijTutorial/build/html/index.html">Tutorials</a></li>
 <li><a href="https://openjij.github.io/OpenJij-Reference-Page/index.html">C++ Docs</a></li>
@@ -136,8 +140,8 @@ install via pip from source codes</h2>
 <p>To install OpenJij from source codes, please install CMake first then install OpenJij.</p>
 <h3><a class="anchor" id="autotoc_md8"></a>
 cmake setup</h3>
-<p>If you want to use setup.py instead of PIP, You will need to install CMake&gt;=3.22. <br  />
- We are Highly recommended install CMake via PYPI. </p><div class="fragment"><div class="line">$ pip install -U cmake</div>
+<p>If you want to use setup.py instead of PIP, You will need to install CMake&gt;=3.22.\ We are Highly recommended install CMake via PYPI.</p>
+<div class="fragment"><div class="line">$ pip install -U cmake</div>
 </div><!-- fragment --><p>Make sure the enviroment path for CMake is set correctly.</p>
 <h3><a class="anchor" id="autotoc_md9"></a>
 install OpenJij</h3>
@@ -149,7 +153,8 @@ install from github repository</h2>
 <div class="line">$ python -m pip install -vvv .</div>
 </div><!-- fragment --><h1><a class="anchor" id="autotoc_md11"></a>
 For Contributor</h1>
-<p>Use <code>pre-commit</code> for auto chech before git commit. <code>.pre-commit-config.yaml</code> </p><div class="fragment"><div class="line"># pipx install pre-commit </div>
+<p>Use <code>pre-commit</code> for auto chech before git commit. <code>.pre-commit-config.yaml</code></p>
+<div class="fragment"><div class="line"># pipx install pre-commit </div>
 <div class="line"># or </div>
 <div class="line"># pip install pre-commit</div>
 <div class="line">pre-commit install</div>
@@ -179,26 +184,28 @@ C++</h2>
 <div class="line">$ ctest --extra-verbose --parallel --schedule-random</div>
 </div><!-- fragment --><p>Needs: CMake &gt; 3.22, C++17</p>
 <ul>
-<li>Format <div class="fragment"><div class="line">$ pip-compile format-requirements.in</div>
-<div class="line">$ pip-sync format-requirements.txt</div>
-</div><!-- fragment --></li>
+<li>Format</li>
 </ul>
-<div class="fragment"><div class="line">$ python -m isort </div>
+<div class="fragment"><div class="line">$ pip-compile format-requirements.in</div>
+<div class="line">$ pip-sync format-requirements.txt</div>
+</div><!-- fragment --><div class="fragment"><div class="line">$ python -m isort </div>
 <div class="line">$ python -m black </div>
 </div><!-- fragment --><ul>
-<li>Aggressive Format <div class="fragment"><div class="line">$ python -m isort --force-single-line-imports --verbose ./openjij</div>
+<li>Aggressive Format</li>
+</ul>
+<div class="fragment"><div class="line">$ python -m isort --force-single-line-imports --verbose ./openjij</div>
 <div class="line">$ python -m autoflake --in-place --recursive --remove-all-unused-imports --ignore-init-module-imports --remove-unused-variables ./openjij</div>
 <div class="line">$ python -m autopep8 --in-place --aggressive --aggressive  --recursive ./openjij</div>
 <div class="line">$ python -m isort ./openjij</div>
 <div class="line">$ python -m black ./openjij</div>
-</div><!-- fragment --></li>
-<li>Lint <div class="fragment"><div class="line">$ pip-compile setup.cfg</div>
+</div><!-- fragment --><ul>
+<li>Lint</li>
+</ul>
+<div class="fragment"><div class="line">$ pip-compile setup.cfg</div>
 <div class="line">$ pip-compile dev-requirements.in</div>
 <div class="line">$ pip-compile lint-requirements.in</div>
 <div class="line">$ pip-sync requirements.txt dev-requirements.txt lint-requirements.txt</div>
-</div><!-- fragment --></li>
-</ul>
-<div class="fragment"><div class="line">$ python -m flake8</div>
+</div><!-- fragment --><div class="fragment"><div class="line">$ python -m flake8</div>
 <div class="line">$ python -m mypy</div>
 <div class="line">$ python -m pyright</div>
 </div><!-- fragment --><h1><a class="anchor" id="autotoc_md15"></a>
@@ -226,25 +233,17 @@ About us</h1>
 <p><b>Please visit our website for more information!</b> <a href="https://www.j-ij.com/">https://www.j-ij.com/</a></p>
 <h2><a class="anchor" id="autotoc_md19"></a>
 Licences</h2>
-<p>Copyright 2022 Jij Inc. <br  />
-</p>
-<p>Licensed under the Apache License, Version 2.0 (the "License"); <br  />
- you may not use this file except in compliance with the License. <br  />
- You may obtain a copy of the License at <br  />
- </p><pre class="fragment"> http://www.apache.org/licenses/LICENSE-2.0  
-</pre><p>Unless required by applicable law or agreed to in writing, software <br  />
- distributed under the License is distributed on an "AS IS" BASIS, <br  />
- WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. <br  />
- See the License for the specific language governing permissions and <br  />
- limitations under the License. <br  />
- </p>
+<p>Copyright 2022 Jij Inc.</p>
+<p>Licensed under the Apache License, Version 2.0 (the "License");\ you may not use this file except in compliance with the License.\ You may obtain a copy of the License at</p>
+<div class="fragment"><div class="line">http://www.apache.org/licenses/LICENSE-2.0  </div>
+</div><!-- fragment --><p>Unless required by applicable law or agreed to in writing, software\ distributed under the License is distributed on an "AS IS" BASIS,\ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.\ See the License for the specific language governing permissions and\ limitations under the License. </p>
 </div></div><!-- PageDoc -->
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Sun Jul 31 2022 21:46:45 for openjij by
+    <li class="footer">Generated on Mon Aug 1 2022 00:38:23 for openjij by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

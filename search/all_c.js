@@ -5,11 +5,10 @@ var searchData=
   ['linear_5fising_5fschedule_273',['linear_ising_schedule',['../namespaceopenjij_1_1sampler_1_1sqa__sampler.html#ae78de7ec7672523d3532a172a2da7d50',1,'openjij::sampler::sqa_sampler']]],
   ['log_274',['log',['../namespacefmath.html#a8d7e069e304bd8d5dcde3f4927ac41a3',1,'fmath']]],
   ['log2_275',['log2',['../namespacefmath.html#a6d88d47d1bf9930b30d2b20d447b4fd5',1,'fmath']]],
-  ['log_5fn_276',['LOG_N',['../namespacefmath_1_1local.html#a589fa7e3f13d26af5106e4768e57099e',1,'fmath::local']]],
-  ['log_5fpd_277',['log_pd',['../namespacefmath.html#a6477db3793426f1a9416439a69381384',1,'fmath']]],
-  ['log_5fps_278',['log_ps',['../namespacefmath.html#aa231e7a9fff68eb495ba898f74b71504',1,'fmath']]],
-  ['log_5ftable_5fsize_279',['LOG_TABLE_SIZE',['../namespacefmath_1_1local.html#a3b151e66012caa9b107c68c8995ed078',1,'fmath::local']]],
-  ['logger_280',['logger',['../namespaceopenjij_1_1utils_1_1benchmark.html#ab321df4b5801c43d13f2781728792009',1,'openjij::utils::benchmark']]],
-  ['logvar_281',['LogVar',['../structfmath_1_1local_1_1LogVar.html',1,'fmath::local::LogVar&lt; N &gt;'],['../structfmath_1_1local_1_1C.html#a6ed90bdf46a6283346b0759638e37e79',1,'fmath::local::C::logVar()'],['../structfmath_1_1local_1_1LogVar.html#a7a0f2824ba8a62727c51769e5dea1f4d',1,'fmath::local::LogVar::LogVar()']]],
-  ['logvar_3c_20log_5ftable_5fsize_20_3e_282',['LogVar&lt; LOG_TABLE_SIZE &gt;',['../structfmath_1_1local_1_1LogVar.html',1,'fmath::local']]]
+  ['log_5fpd_276',['log_pd',['../namespacefmath.html#a6477db3793426f1a9416439a69381384',1,'fmath']]],
+  ['log_5fps_277',['log_ps',['../namespacefmath.html#aa231e7a9fff68eb495ba898f74b71504',1,'fmath']]],
+  ['log_5ftable_5fsize_278',['LOG_TABLE_SIZE',['../namespacefmath_1_1local.html#a3b151e66012caa9b107c68c8995ed078',1,'fmath::local']]],
+  ['logger_279',['logger',['../namespaceopenjij_1_1utils_1_1benchmark.html#ab321df4b5801c43d13f2781728792009',1,'openjij::utils::benchmark']]],
+  ['logvar_280',['LogVar',['../structfmath_1_1local_1_1LogVar.html',1,'fmath::local::LogVar&lt; N &gt;'],['../structfmath_1_1local_1_1C.html#ae28e2b75d0d0eb48d56832eac7bf44c8',1,'fmath::local::C::logVar()'],['../structfmath_1_1local_1_1LogVar.html#a7a0f2824ba8a62727c51769e5dea1f4d',1,'fmath::local::LogVar::LogVar()']]],
+  ['logvar_3c_20log_5ftable_5fsize_20_3e_281',['LogVar&lt; LOG_TABLE_SIZE &gt;',['../structfmath_1_1local_1_1LogVar.html',1,'fmath::local']]]
 ];

@@ -1,7 +1,5 @@
 var NAVTREEINDEX2 =
 {
-"graph_8hpp.html":[4,0,37],
-"graph_8hpp.html#a367bece07df716fc31c3bb24d9c74174":[4,0,37,1],
 "graph_8hpp.html#a6e7f78b6c411e8367ff996672e8efeae":[4,0,37,4],
 "graph_8hpp.html#a8278a76e143fb61abb6ade277ae8ca7e":[4,0,37,2],
 "graph_8hpp.html#ace188933d1719b22664ab431b0c1c85c":[4,0,37,6],
@@ -124,12 +122,12 @@ var NAVTREEINDEX2 =
 "namespaceopenjij_1_1sampler_1_1sampler.html":[2,0,1,5,4],
 "namespaceopenjij_1_1sampler_1_1sqa__sampler.html":[3,0,1,3,5],
 "namespaceopenjij_1_1sampler_1_1sqa__sampler.html":[2,0,1,5,5],
-"namespaceopenjij_1_1system.html":[3,0,1,4],
 "namespaceopenjij_1_1system.html":[2,0,1,6],
+"namespaceopenjij_1_1system.html":[3,0,1,4],
 "namespaceopenjij_1_1updater.html":[2,0,1,7],
 "namespaceopenjij_1_1updater.html":[3,0,1,5],
-"namespaceopenjij_1_1utility.html":[3,0,1,6],
 "namespaceopenjij_1_1utility.html":[2,0,1,8],
+"namespaceopenjij_1_1utility.html":[3,0,1,6],
 "namespaceopenjij_1_1utils.html":[2,0,1,9],
 "namespaceopenjij_1_1utils.html":[3,0,1,7],
 "namespaceopenjij_1_1utils_1_1benchmark.html":[2,0,1,9,0],
@@ -196,9 +194,9 @@ var NAVTREEINDEX2 =
 "square_8hpp.html#adfb6c50d54400635b2768417ac912907ac97d27cd9c17d9a2960177cdcb2eca63":[4,0,62,2,0],
 "square_8hpp_source.html":[4,0,62],
 "structfmath_1_1local_1_1C.html":[3,0,0,0,0],
-"structfmath_1_1local_1_1C.html#a12cfecf7377b29bb5e9d11eb9d1cd974":[3,0,0,0,0,0],
-"structfmath_1_1local_1_1C.html#a6ed90bdf46a6283346b0759638e37e79":[3,0,0,0,0,2],
-"structfmath_1_1local_1_1C.html#ad9a9c8958d9238f7185120e897cffd7e":[3,0,0,0,0,1],
+"structfmath_1_1local_1_1C.html#a17bdb2a3e7483e73cb3e342f882e5e43":[3,0,0,0,0,1],
+"structfmath_1_1local_1_1C.html#a6d6d59712d335a7a1cc8c313627a0037":[3,0,0,0,0,0],
+"structfmath_1_1local_1_1C.html#ae28e2b75d0d0eb48d56832eac7bf44c8":[3,0,0,0,0,2],
 "structfmath_1_1local_1_1ExpVar.html":[3,0,0,0,3],
 "structfmath_1_1local_1_1ExpVar.html#a056ccb2489ed7e220de04d5e7c29bd93":[3,0,0,0,3,5],
 "structfmath_1_1local_1_1ExpVar.html#a0aa33b1704c2a8638b30670fc8fc4202":[3,0,0,0,3,3],
@@ -249,5 +247,7 @@ var NAVTREEINDEX2 =
 "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a8920ff88b75a34a96e02915ae4677c48":[3,0,1,4,3,1],
 "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a9e422412f3b0af11f32966bf80bf64c5":[3,0,1,4,3,3],
 "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#ac283239725106171c1f62bd864181708":[3,0,1,4,3,7],
-"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#aed9ba964b973e134329d3fa29e45cd74":[3,0,1,4,3,9]
+"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#aed9ba964b973e134329d3fa29e45cd74":[3,0,1,4,3,9],
+"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html":[3,0,1,4,4],
+"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a07cc630849bcced0df91459b11f938c1":[3,0,1,4,4,0]
 };

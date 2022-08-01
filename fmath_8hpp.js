@@ -24,12 +24,10 @@ var fmath_8hpp =
     [ "log_ps", "fmath_8hpp.html#aa231e7a9fff68eb495ba898f74b71504", null ],
     [ "mask", "fmath_8hpp.html#aeeeb445903225ce0c8dadc6c5b5343f6", null ],
     [ "mask64", "fmath_8hpp.html#a6c81f35e06bfa7eb20afe119853626f7", null ],
-    [ "MIE_ALIGN", "fmath_8hpp.html#a4a6bddb9d75d83a70f42b34e0d47de29", null ],
     [ "NumOfArray", "fmath_8hpp.html#acabe20b1d40f8913f310d0392f40b338", null ],
     [ "pow_pd", "fmath_8hpp.html#adf6ad6d23d69da95e121469bbf18c545", null ],
     [ "pow_ps", "fmath_8hpp.html#a114bdd139f7141bd52f60f8261622a4c", null ],
     [ "EXP_TABLE_SIZE", "fmath_8hpp.html#a857232aacb852bf8eee7bd16fef3bb3c", null ],
     [ "EXPD_TABLE_SIZE", "fmath_8hpp.html#a1ede62469f663c4b1736f925ae2f5fdf", null ],
-    [ "LOG_N", "fmath_8hpp.html#a589fa7e3f13d26af5106e4768e57099e", null ],
     [ "LOG_TABLE_SIZE", "fmath_8hpp.html#a3b151e66012caa9b107c68c8995ed078", null ]
 ];
