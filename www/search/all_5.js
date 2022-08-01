@@ -12,8 +12,8 @@ var searchData=
   ['expd_163',['expd',['../namespacefmath.html#a7219b7939e337daebb32955ad7a31c36',1,'fmath']]],
   ['expd_5ftable_5fsize_164',['EXPD_TABLE_SIZE',['../namespacefmath_1_1local.html#a1ede62469f663c4b1736f925ae2f5fdf',1,'fmath::local']]],
   ['expd_5fv_165',['expd_v',['../namespacefmath.html#aca7b2a26214601204474ba7d5c546934',1,'fmath']]],
-  ['expdvar_166',['ExpdVar',['../structfmath_1_1local_1_1ExpdVar.html',1,'fmath::local::ExpdVar&lt; sbit_ &gt;'],['../structfmath_1_1local_1_1C.html#a12cfecf7377b29bb5e9d11eb9d1cd974',1,'fmath::local::C::expdVar()'],['../structfmath_1_1local_1_1ExpdVar.html#a1551bbb086c6e4defb5f6841c25934d7',1,'fmath::local::ExpdVar::ExpdVar()']]],
+  ['expdvar_166',['ExpdVar',['../structfmath_1_1local_1_1ExpdVar.html',1,'fmath::local::ExpdVar&lt; sbit_ &gt;'],['../structfmath_1_1local_1_1C.html#a6d6d59712d335a7a1cc8c313627a0037',1,'fmath::local::C::expdVar()'],['../structfmath_1_1local_1_1ExpdVar.html#a1551bbb086c6e4defb5f6841c25934d7',1,'fmath::local::ExpdVar::ExpdVar()']]],
   ['expdvar_3c_20expd_5ftable_5fsize_20_3e_167',['ExpdVar&lt; EXPD_TABLE_SIZE &gt;',['../structfmath_1_1local_1_1ExpdVar.html',1,'fmath::local']]],
-  ['expvar_168',['ExpVar',['../structfmath_1_1local_1_1ExpVar.html',1,'fmath::local::ExpVar&lt; N &gt;'],['../structfmath_1_1local_1_1C.html#ad9a9c8958d9238f7185120e897cffd7e',1,'fmath::local::C::expVar()'],['../structfmath_1_1local_1_1ExpVar.html#a0aa33b1704c2a8638b30670fc8fc4202',1,'fmath::local::ExpVar::ExpVar()']]],
+  ['expvar_168',['ExpVar',['../structfmath_1_1local_1_1ExpVar.html',1,'fmath::local::ExpVar&lt; N &gt;'],['../structfmath_1_1local_1_1C.html#a17bdb2a3e7483e73cb3e342f882e5e43',1,'fmath::local::C::expVar()'],['../structfmath_1_1local_1_1ExpVar.html#a0aa33b1704c2a8638b30670fc8fc4202',1,'fmath::local::ExpVar::ExpVar()']]],
   ['expvar_3c_20exp_5ftable_5fsize_20_3e_169',['ExpVar&lt; EXP_TABLE_SIZE &gt;',['../structfmath_1_1local_1_1ExpVar.html',1,'fmath::local']]]
 ];

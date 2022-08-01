@@ -1,7 +1,5 @@
 var NAVTREEINDEX3 =
 {
-"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html":[3,0,1,4,4],
-"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a07cc630849bcced0df91459b11f938c1":[3,0,1,4,4,0],
 "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a24395d94993b16d4162bdf6941c344dc":[3,0,1,4,4,1],
 "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a57eede60e388ebdd4354a30c87b6b9c8":[3,0,1,4,4,8],
 "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a64ee85799c58be098194feb80c6b3652":[3,0,1,4,4,3],
@@ -156,9 +154,9 @@ var NAVTREEINDEX3 =
 "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1transverse__field__system_01_4.html#af07dfd74e3b1aac52122ef2d2fc8efdd":[3,0,1,6,13,3],
 "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1transverse__field__system_01_4.html#af91d0e21d2a1a7ea2418e12922d4e4e4":[3,0,1,6,13,4],
 "structopenjij_1_1utility_1_1get__base__class.html":[3,0,1,6,0],
-"structopenjij_1_1utility_1_1get__base__class.html#a294ec1973619f9e2df671287b92c4394":[3,0,1,6,0,0],
+"structopenjij_1_1utility_1_1get__base__class.html#a14dc696275e4303b042fe327e247bee5":[3,0,1,6,0,0],
 "structopenjij_1_1utility_1_1get__base__class_3_01derived__class_00_01base__class_01_4.html":[3,0,1,6,1],
-"structopenjij_1_1utility_1_1get__base__class_3_01derived__class_00_01base__class_01_4.html#a078ad32862a323bb356899fa1b56f4d5":[3,0,1,6,1,0],
+"structopenjij_1_1utility_1_1get__base__class_3_01derived__class_00_01base__class_01_4.html#a43ea15b871d45889c60da6f986226c1d":[3,0,1,6,1,0],
 "structopenjij_1_1utility_1_1get__eigen__matrix__type.html":[3,0,1,6,2],
 "structopenjij_1_1utility_1_1get__eigen__matrix__type_3_01graph_1_1Dense_3_01FloatType_01_4_00_01Options_01_4.html":[3,0,1,6,3],
 "structopenjij_1_1utility_1_1get__eigen__matrix__type_3_01graph_1_1Dense_3_01FloatType_01_4_00_01Options_01_4.html#ae4ee4735074ec6f0371aa61c15959559":[3,0,1,6,3,0],

@@ -86,8 +86,8 @@ var NAVTREEINDEX =
 [
 "____init_____8py.html",
 "classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a49047bbd4e39c367559c32d05d1c21e9",
-"graph_8hpp.html",
-"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html"
+"graph_8hpp.html#a6e7f78b6c411e8367ff996672e8efeae",
+"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a24395d94993b16d4162bdf6941c344dc"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
