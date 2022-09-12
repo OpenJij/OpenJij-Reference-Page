@@ -40,12 +40,13 @@ var NAVTREE =
         [ "Python", "index.html#autotoc_md13", null ],
         [ "C++", "index.html#autotoc_md14", null ]
       ] ],
-      [ "How to use", "index.html#autotoc_md15", [
-        [ "Python example", "index.html#autotoc_md16", null ]
+      [ "Python Documentation", "index.html#autotoc_md15", null ],
+      [ "How to use", "index.html#autotoc_md16", [
+        [ "Python example", "index.html#autotoc_md17", null ]
       ] ],
-      [ "Community", "index.html#autotoc_md17", null ],
-      [ "About us", "index.html#autotoc_md18", [
-        [ "Licences", "index.html#autotoc_md19", null ]
+      [ "Community", "index.html#autotoc_md18", null ],
+      [ "About us", "index.html#autotoc_md19", [
+        [ "Licences", "index.html#autotoc_md20", null ]
       ] ]
     ] ],
     [ "Deprecated List", "deprecated.html", null ],
@@ -87,7 +88,7 @@ var NAVTREEINDEX =
 "____init_____8py.html",
 "classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a49047bbd4e39c367559c32d05d1c21e9",
 "graph_8hpp.html#a6e7f78b6c411e8367ff996672e8efeae",
-"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a24395d94993b16d4162bdf6941c344dc"
+"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a07cc630849bcced0df91459b11f938c1"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

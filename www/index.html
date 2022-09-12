@@ -209,8 +209,18 @@ C++</h2>
 <div class="line">$ python -m mypy</div>
 <div class="line">$ python -m pyright</div>
 </div><!-- fragment --><h1><a class="anchor" id="autotoc_md15"></a>
+Python Documentation</h1>
+<p>Use Juyter Book for build documentation. <br  />
+ Need: Graphviz</p>
+<div class="fragment"><div class="line">$ pip-compile</div>
+<div class="line">$ pip-compile build-requirements.in</div>
+<div class="line">$ pip-compile doc-requirements.in</div>
+<div class="line">$ pip-sync requirements.txt build-requirements.txt doc-requirements.txt</div>
+</div><!-- fragment --><div class="fragment"><div class="line">$ pip install -vvv .</div>
+</div><!-- fragment --><div class="fragment"><div class="line">$ jupyter-book build docs --all</div>
+</div><!-- fragment --><h1><a class="anchor" id="autotoc_md16"></a>
 How to use</h1>
-<h2><a class="anchor" id="autotoc_md16"></a>
+<h2><a class="anchor" id="autotoc_md17"></a>
 Python example</h2>
 <div class="fragment"><div class="line">import openjij as oj</div>
 <div class="line">sampler = oj.SASampler()</div>
@@ -222,16 +232,16 @@ Python example</h2>
 <div class="line">response = sampler.sample_ising(h={&#39;a&#39;: -1}, J={(&#39;a&#39;,&#39;b&#39;): 1})</div>
 <div class="line">[{index: s for index, s in zip(response.indices, state)} for state in response.states]</div>
 <div class="line"># [{&#39;b&#39;: -1, &#39;a&#39;: 1}]</div>
-</div><!-- fragment --><h1><a class="anchor" id="autotoc_md17"></a>
+</div><!-- fragment --><h1><a class="anchor" id="autotoc_md18"></a>
 Community</h1>
 <ul>
 <li><a href="https://join.slack.com/t/openjij/shared_invite/enQtNjQyMjIwMzMwNzA4LTQ5MWRjOWYxYmY1Nzk4YzdiYzlmZjIxYjhhMmMxZjAyMzE3MDc1ZWRkYmI1YjhkNjRlOTM1ODE0NTc5Yzk3ZDA">OpenJij Slack</a></li>
 </ul>
-<h1><a class="anchor" id="autotoc_md18"></a>
+<h1><a class="anchor" id="autotoc_md19"></a>
 About us</h1>
 <p>This product is maintained by Jij Inc.</p>
 <p><b>Please visit our website for more information!</b> <a href="https://www.j-ij.com/">https://www.j-ij.com/</a></p>
-<h2><a class="anchor" id="autotoc_md19"></a>
+<h2><a class="anchor" id="autotoc_md20"></a>
 Licences</h2>
 <p>Copyright 2022 Jij Inc.</p>
 <p>Licensed under the Apache License, Version 2.0 (the "License");\ you may not use this file except in compliance with the License.\ You may obtain a copy of the License at</p>
@@ -243,7 +253,7 @@ Licences</h2>
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
-    <li class="footer">Generated on Mon Sep 12 2022 04:08:51 for openjij by
+    <li class="footer">Generated on Mon Sep 12 2022 04:23:05 for openjij by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

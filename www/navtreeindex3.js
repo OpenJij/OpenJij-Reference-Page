@@ -1,5 +1,6 @@
 var NAVTREEINDEX3 =
 {
+"structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a07cc630849bcced0df91459b11f938c1":[3,0,1,4,4,0],
 "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a24395d94993b16d4162bdf6941c344dc":[3,0,1,4,4,1],
 "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a57eede60e388ebdd4354a30c87b6b9c8":[3,0,1,4,4,8],
 "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a64ee85799c58be098194feb80c6b3652":[3,0,1,4,4,3],
