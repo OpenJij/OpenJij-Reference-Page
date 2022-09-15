@@ -148,11 +148,13 @@ Variables</h2></td></tr>
       </table>
 </div><div class="memdoc">
 <pre class="fragment">Calculate redisual energy from measure energy
+
 Args:
     response (openjij.Response): response from solver (or sampler).
     ref_energy (float): the reference energy (usually use the ground energy)
 Returns:
-    float: Residual energy which is defined as :math:`\\langle E \\rangle - E_0` (:math:`\\langle...\\rangle` represents average, :math:`E_0` is the reference energy (usually use the ground energy)).</pre> 
+    float: Residual energy which is defined as :math:`\\langle E \\rangle - E_0` (:math:`\\langle...\\rangle` represents average, :math:`E_0` is the reference energy (usually use the ground energy)).
+</pre> 
 <p class="reference">Referenced by <a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html#ad1a2c8ce50a30691cc949c4a3f4cd4ad">openjij.utils.benchmark.solver_benchmark()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -210,6 +212,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 <pre class="fragment">Args:
+
     success_prob (float): success probability.
     computation_time (float):
     p_r (float): thereshold probability to calculate time to solution.
@@ -255,6 +258,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 <pre class="fragment">Calculate redisual energy's standard error from measure energy
+
 Args:
     response (openjij.Response): response from solver (or sampler).
     ref_energy (float): the reference energy (usually use the ground energy)
@@ -312,6 +316,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 <pre class="fragment">Calculate success probability's standard error from openjij.response
+
 Args:
     response (openjij.Response): response from solver (or sampler).
     solutions (list[int]): true solutions.
@@ -319,7 +324,8 @@ Returns:
     float: Success probability's standard error.
 
     * When measure_with_energy is False, success is defined as getting the same state as solutions.
-    * When measure_with_energy is True, success is defined as getting a state which energy is below reference energy</pre> 
+    * When measure_with_energy is True, success is defined as getting a state which energy is below reference energy
+</pre> 
 <p class="reference">Referenced by <a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html#ad1a2c8ce50a30691cc949c4a3f4cd4ad">openjij.utils.benchmark.solver_benchmark()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -377,6 +383,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 <pre class="fragment">Args:
+
     success_prob (float): success probability.
     computation_time (float):
     p_r (float): thereshold probability to calculate time to solution.
@@ -458,6 +465,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 <pre class="fragment">Calculate 'success probability', 'TTS', 'Residual energy','Standard Error' with computation time
+
 Args:
     solver (callable): returns openjij.Response, and solver has arguments 'time' and '**args'
     time_list (list):
@@ -477,7 +485,8 @@ Returns:
     * **se_upper_tts**: list of tts's upper standard error at each computation time
     * **se_success_prob**: list of success probability's standard error at each computation time
     * **se_residual_energy**: list of residual_energy's standard error at each computation time
-    * **info** (dict): Parameter information for the benchmark</pre> 
+    * **info** (dict): Parameter information for the benchmark
+</pre> 
 <p class="reference">References <a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html#a2e84b3e38a053bd0db4c0b3f2fa04d8e">openjij.utils.benchmark.residual_energy()</a>, <a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html#a3dd693a303bf5f9ccb97b7914aba99ec">openjij.utils.benchmark.se_lower_tts()</a>, <a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html#aedde20f97ab6e56af03f073b8a88b0d5">openjij.utils.benchmark.se_residual_energy()</a>, <a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html#a142349aac3c8f9c5ee7300e0c77c3692">openjij.utils.benchmark.se_success_probability()</a>, <a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html#a6a37684adbdf6f1038ddb72ae093e542">openjij.utils.benchmark.se_upper_tts()</a>, <a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html#aafbcac77b290a48662a492a486312df1">openjij.utils.benchmark.success_probability()</a>, and <a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html#a22b25708d0f834c941aed4cddd1df493">openjij.utils.benchmark.time_to_solution()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
@@ -535,6 +544,7 @@ Here is the call graph for this function:</div>
       </table>
 </div><div class="memdoc">
 <pre class="fragment">Calculate success probability from openjij.response
+
 Args:
     response (openjij.Response): response from solver (or sampler).
     solutions (list[int]): true solutions.
@@ -542,7 +552,8 @@ Returns:
     float: Success probability.
 
     * When measure_with_energy is False, success is defined as getting the same state as solutions.
-    * When measure_with_energy is True, success is defined as getting a state which energy is below reference energy</pre> 
+    * When measure_with_energy is True, success is defined as getting a state which energy is below reference energy
+</pre> 
 <p class="reference">Referenced by <a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html#ad1a2c8ce50a30691cc949c4a3f4cd4ad">openjij.utils.benchmark.solver_benchmark()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
@@ -588,6 +599,7 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 <pre class="fragment">Args:
+
     success_prob (float): success probability.
     computation_time (float):
     p_r (float): thereshold probability to calculate time to solution.
@@ -628,7 +640,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceopenjij.html">openjij</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1utils.html">utils</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1utils_1_1benchmark.html">benchmark</a></li>
-    <li class="footer">Generated on Wed Sep 14 2022 09:32:30 for openjij by
+    <li class="footer">Generated on Thu Sep 15 2022 23:58:30 for openjij by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>
