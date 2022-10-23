@@ -107,13 +107,14 @@ Inheritance diagram for openjij::graph::Graph:</div>
 <div class="dyncontent">
 <div class="center"><img src="classopenjij_1_1graph_1_1Graph__inherit__graph.png" border="0" usemap="#openjij_1_1graph_1_1Graph_inherit__map" alt="Inheritance graph"/></div>
 <map name="openjij_1_1graph_1_1Graph_inherit__map" id="openjij_1_1graph_1_1Graph_inherit__map">
-<area shape="rect" title="Abstract graph class." alt="" coords="5,111,164,138"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html" title="two&#45;body all&#45;to&#45;all interactions The Hamiltonian is like" alt="" coords="228,5,388,47"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Polynomial.html" title="Polynomial graph class, which can treat many&#45;body interactions." alt="" coords="212,71,404,112"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html" title="Sparse graph: two&#45;body intereactions with O(1) connectivity The Hamiltonian is like." alt="" coords="227,136,389,177"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html" title=" " alt="" coords="227,201,389,243"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Square.html" title="square lattice graph" alt="" coords="457,136,621,177"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Chimera.html" title="chimera lattice graph" alt="" coords="452,201,627,243"/>
+<area shape="rect" title="Abstract graph class." alt="" coords="5,143,164,170"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1CSRSparse.html" title="CSRSparse graph: just store CSR Sparse Matrix (Eigen::Sparse) The Hamiltonian is like." alt="" coords="213,5,403,47"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html" title="two&#45;body all&#45;to&#45;all interactions The Hamiltonian is like" alt="" coords="228,71,388,112"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Polynomial.html" title="Polynomial graph class, which can treat many&#45;body interactions." alt="" coords="212,136,404,177"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html" title="Sparse graph: two&#45;body intereactions with O(1) connectivity The Hamiltonian is like." alt="" coords="227,201,389,243"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html" title=" " alt="" coords="227,267,389,308"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Square.html" title="square lattice graph" alt="" coords="457,201,621,243"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Chimera.html" title="chimera lattice graph" alt="" coords="452,267,627,308"/>
 </map>
 <center><span class="legend">[<a target="top" href="graph_legend.html">legend</a>]</span></center></div>
 <table class="memberdecls">
@@ -271,38 +272,43 @@ template&lt;typename RandomNumberEngine &gt; </div>
 </div><div class="memdoc">
 
 <p>get number of spins </p>
-<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000002">Deprecated:</a></b></dt><dd>please use <a class="el" href="classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins">size()</a></dd></dl>
+<dl class="deprecated"><dt><b><a class="el" href="deprecated.html#_deprecated000003">Deprecated:</a></b></dt><dd>please use <a class="el" href="classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins">size()</a></dd></dl>
 <dl class="section return"><dt>Returns</dt><dd>number of spins </dd></dl>
 
 <p class="reference">References <a class="el" href="classopenjij_1_1graph_1_1Graph.html#a40aaa65f7e9328e8d9b4b558cf571243">_num_spins</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a9e422412f3b0af11f32966bf80bf64c5">openjij::system::ClassicalIsing&lt; graph::Dense&lt; FloatType &gt; &gt;::ClassicalIsing()</a>, <a class="el" href="structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a64ee85799c58be098194feb80c6b3652">openjij::system::ClassicalIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::ClassicalIsing()</a>, <a class="el" href="structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a148f43d6d2405a80ad4cf70e30119ebf">openjij::system::ContinuousTimeIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::ContinuousTimeIsing()</a>, <a class="el" href="classopenjij_1_1graph_1_1Dense.html#a5e44f0e517894774e11b46c4fec4a2c3">openjij::graph::Dense&lt; FloatType &gt;::energy()</a>, <a class="el" href="classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1">openjij::graph::Sparse&lt; double &gt;::energy()</a>, <a class="el" href="namespaceopenjij_1_1utility.html#aada8fa3bd79006de96d95a3a28741e76">openjij::utility::gen_matrix_from_graph()</a>, <a class="el" href="classopenjij_1_1graph_1_1Dense.html#a61cecf6e86b3d06d6ce9f0e6789d409d">openjij::graph::Dense&lt; FloatType &gt;::h()</a>, <a class="el" href="classopenjij_1_1graph_1_1Sparse.html#a6c742b9b2fad5a5a8be230becf27ff11">openjij::graph::Sparse&lt; double &gt;::h()</a>, <a class="el" href="classopenjij_1_1graph_1_1Dense.html#aaec085e0666f41ce6c82fa2164043231">openjij::graph::Dense&lt; FloatType &gt;::J()</a>, <a class="el" href="classopenjij_1_1graph_1_1Sparse.html#a337f18d08a33bdffcfb033e4f3781faf">openjij::graph::Sparse&lt; double &gt;::J()</a>, <a class="el" href="classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093">openjij::graph::Sparse&lt; double &gt;::set_adj_node()</a>, <a class="el" href="classopenjij_1_1graph_1_1Dense.html#a86d50cf33cf572d32e01ae691a5cc92a">openjij::graph::Dense&lt; FloatType &gt;::set_interaction_matrix()</a>, <a class="el" href="classopenjij_1_1graph_1_1Square.html#aa5fd733d248cb0e71c234926b8854015">openjij::graph::Square&lt; FloatType &gt;::to_rc()</a>, and <a class="el" href="classopenjij_1_1graph_1_1Chimera.html#a4dc8b823443468d036e6b12123a896e7">openjij::graph::Chimera&lt; FloatType &gt;::to_rci()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a9e422412f3b0af11f32966bf80bf64c5">openjij::system::ClassicalIsing&lt; graph::Dense&lt; FloatType &gt; &gt;::ClassicalIsing()</a>, <a class="el" href="structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a64ee85799c58be098194feb80c6b3652">openjij::system::ClassicalIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::ClassicalIsing()</a>, <a class="el" href="structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a8221429e71b06fa273fd734198ddb75a">openjij::system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::ClassicalIsing()</a>, <a class="el" href="structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a148f43d6d2405a80ad4cf70e30119ebf">openjij::system::ContinuousTimeIsing&lt; graph::Sparse&lt; FloatType &gt; &gt;::ContinuousTimeIsing()</a>, <a class="el" href="structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#aeda49a59cc855aaef77077fe3d8b22da">openjij::system::ContinuousTimeIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::ContinuousTimeIsing()</a>, <a class="el" href="classopenjij_1_1graph_1_1CSRSparse.html#a44cdc271d044ea9deaf4acba8e3b09fe">openjij::graph::CSRSparse&lt; FloatType &gt;::energy()</a>, <a class="el" href="classopenjij_1_1graph_1_1Dense.html#a5e44f0e517894774e11b46c4fec4a2c3">openjij::graph::Dense&lt; FloatType &gt;::energy()</a>, <a class="el" href="classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1">openjij::graph::Sparse&lt; double &gt;::energy()</a>, <a class="el" href="namespaceopenjij_1_1utility.html#aada8fa3bd79006de96d95a3a28741e76">openjij::utility::gen_matrix_from_graph()</a>, <a class="el" href="classopenjij_1_1graph_1_1Dense.html#a61cecf6e86b3d06d6ce9f0e6789d409d">openjij::graph::Dense&lt; FloatType &gt;::h()</a>, <a class="el" href="classopenjij_1_1graph_1_1Sparse.html#a6c742b9b2fad5a5a8be230becf27ff11">openjij::graph::Sparse&lt; double &gt;::h()</a>, <a class="el" href="classopenjij_1_1graph_1_1Dense.html#aaec085e0666f41ce6c82fa2164043231">openjij::graph::Dense&lt; FloatType &gt;::J()</a>, <a class="el" href="classopenjij_1_1graph_1_1Sparse.html#a337f18d08a33bdffcfb033e4f3781faf">openjij::graph::Sparse&lt; double &gt;::J()</a>, <a class="el" href="classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093">openjij::graph::Sparse&lt; double &gt;::set_adj_node()</a>, <a class="el" href="classopenjij_1_1graph_1_1Dense.html#a86d50cf33cf572d32e01ae691a5cc92a">openjij::graph::Dense&lt; FloatType &gt;::set_interaction_matrix()</a>, <a class="el" href="classopenjij_1_1graph_1_1Square.html#aa5fd733d248cb0e71c234926b8854015">openjij::graph::Square&lt; FloatType &gt;::to_rc()</a>, and <a class="el" href="classopenjij_1_1graph_1_1Chimera.html#a4dc8b823443468d036e6b12123a896e7">openjij::graph::Chimera&lt; FloatType &gt;::to_rci()</a>.</p>
 <div class="dynheader">
 Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="classopenjij_1_1graph_1_1Graph_a965df938bd88f3ebd33ecd98418b9375_icgraph.png" border="0" usemap="#classopenjij_1_1graph_1_1Graph_a965df938bd88f3ebd33ecd98418b9375_icgraph" alt=""/></div>
 <map name="classopenjij_1_1graph_1_1Graph_a965df938bd88f3ebd33ecd98418b9375_icgraph" id="classopenjij_1_1graph_1_1Graph_a965df938bd88f3ebd33ecd98418b9375_icgraph">
-<area shape="rect" title="get number of spins" alt="" coords="775,450,933,491"/>
-<area shape="rect" href="structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a9e422412f3b0af11f32966bf80bf64c5" title="Constructor to initialize spin and interaction." alt="" coords="473,5,705,61"/>
-<area shape="rect" href="structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a64ee85799c58be098194feb80c6b3652" title="Constructor to initialize spin and interaction." alt="" coords="472,85,707,141"/>
-<area shape="rect" href="structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a148f43d6d2405a80ad4cf70e30119ebf" title="ContinuousTimeIsing constructor." alt="" coords="452,165,727,221"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#a5e44f0e517894774e11b46c4fec4a2c3" title="calculate total energy" alt="" coords="509,246,669,287"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1" title="calculate total energy" alt="" coords="508,311,671,353"/>
-<area shape="rect" href="namespaceopenjij_1_1utility.html#aada8fa3bd79006de96d95a3a28741e76" title="generate Eigen Dense Matrix from Dense graph" alt="" coords="15,438,170,479"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#a61cecf6e86b3d06d6ce9f0e6789d409d" title="access h_{i} (local field)" alt="" coords="228,445,404,472"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html#a6c742b9b2fad5a5a8be230becf27ff11" title="access h_{i} (local field)" alt="" coords="508,479,671,521"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#aaec085e0666f41ce6c82fa2164043231" title="access J_{ij}" alt="" coords="503,545,675,572"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html#a337f18d08a33bdffcfb033e4f3781faf" title="access J_{ij}" alt="" coords="508,597,671,638"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="494,662,685,703"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#a86d50cf33cf572d32e01ae691a5cc92a" title="set interaction matrix from Eigen Matrix." alt="" coords="501,727,678,769"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Square.html#aa5fd733d248cb0e71c234926b8854015" title="convert from global index to (row x column) index" alt="" coords="507,793,671,834"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Chimera.html#a4dc8b823443468d036e6b12123a896e7" title="convert from global index to (row x column x in&#45;chimera) index" alt="" coords="502,858,677,899"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#a8c0d5e22b44fa0c0f9cc78eb7035abf6" title="calculate total energy" alt="" coords="236,214,396,255"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#a76b5bd5d350228f43d19d077cd4df4a3" title=" " alt="" coords="236,279,396,321"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Square.html#a19c163ece6a11dd7bfddce267e2b8d4b" title="check if the pair has a valid connection" alt="" coords="234,793,398,834"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Square.html#adae56563403f5a039359304a0f573fff" title="Square constructor (from nlohmann::json)" alt="" coords="11,793,175,834"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Chimera.html#a7ca02297cb84a6dd646fca8e318fe3cd" title="check if the pair has a valid connection" alt="" coords="229,858,403,899"/>
-<area shape="rect" href="classopenjij_1_1graph_1_1Chimera.html#a27fb8ff6e7e62287f191a72cda452d59" title="Square constructor (from nlohmann::json)" alt="" coords="5,858,180,899"/>
+<area shape="rect" title="get number of spins" alt="" coords="788,595,947,637"/>
+<area shape="rect" href="structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html#a9e422412f3b0af11f32966bf80bf64c5" title="Constructor to initialize spin and interaction." alt="" coords="487,5,719,61"/>
+<area shape="rect" href="structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a64ee85799c58be098194feb80c6b3652" title="Constructor to initialize spin and interaction." alt="" coords="485,85,720,141"/>
+<area shape="rect" href="structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#a8221429e71b06fa273fd734198ddb75a" title="Constructor to initialize spin and interaction." alt="" coords="489,165,716,221"/>
+<area shape="rect" href="structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a148f43d6d2405a80ad4cf70e30119ebf" title="ContinuousTimeIsing constructor." alt="" coords="465,245,740,301"/>
+<area shape="rect" href="structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html#aeda49a59cc855aaef77077fe3d8b22da" title="ContinuousTimeIsing constructor." alt="" coords="465,325,740,381"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1CSRSparse.html#a44cdc271d044ea9deaf4acba8e3b09fe" title="calculate total energy" alt="" coords="508,406,697,447"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#a5e44f0e517894774e11b46c4fec4a2c3" title="calculate total energy" alt="" coords="523,471,683,513"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1" title="calculate total energy" alt="" coords="521,537,684,578"/>
+<area shape="rect" href="namespaceopenjij_1_1utility.html#aada8fa3bd79006de96d95a3a28741e76" title="generate Eigen Dense Matrix from Dense graph" alt="" coords="15,663,170,705"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#a61cecf6e86b3d06d6ce9f0e6789d409d" title="access h_{i} (local field)" alt="" coords="235,671,411,697"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html#a6c742b9b2fad5a5a8be230becf27ff11" title="access h_{i} (local field)" alt="" coords="521,705,684,746"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#aaec085e0666f41ce6c82fa2164043231" title="access J_{ij}" alt="" coords="517,771,689,797"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html#a337f18d08a33bdffcfb033e4f3781faf" title="access J_{ij}" alt="" coords="521,822,684,863"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="507,887,698,929"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#a86d50cf33cf572d32e01ae691a5cc92a" title="set interaction matrix from Eigen Matrix." alt="" coords="514,953,691,994"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Square.html#aa5fd733d248cb0e71c234926b8854015" title="convert from global index to (row x column) index" alt="" coords="521,1018,685,1059"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Chimera.html#a4dc8b823443468d036e6b12123a896e7" title="convert from global index to (row x column x in&#45;chimera) index" alt="" coords="515,1083,690,1125"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1CSRSparse.html#a0cbf16143729d29ad40f8ecfbc23a948" title="calculate total energy" alt="" coords="228,341,417,382"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1CSRSparse.html#a5d14055257f43382a61836bcf0a30964" title=" " alt="" coords="228,406,417,447"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#a8c0d5e22b44fa0c0f9cc78eb7035abf6" title="calculate total energy" alt="" coords="243,471,403,513"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Dense.html#a76b5bd5d350228f43d19d077cd4df4a3" title=" " alt="" coords="243,537,403,578"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Square.html#a19c163ece6a11dd7bfddce267e2b8d4b" title="check if the pair has a valid connection" alt="" coords="241,1018,405,1059"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Square.html#adae56563403f5a039359304a0f573fff" title="Square constructor (from nlohmann::json)" alt="" coords="11,1018,175,1059"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Chimera.html#a7ca02297cb84a6dd646fca8e318fe3cd" title="check if the pair has a valid connection" alt="" coords="235,1083,410,1125"/>
+<area shape="rect" href="classopenjij_1_1graph_1_1Chimera.html#a27fb8ff6e7e62287f191a72cda452d59" title="Square constructor (from nlohmann::json)" alt="" coords="5,1083,180,1125"/>
 </map>
 </div>
 
@@ -389,7 +395,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceopenjij.html">openjij</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1graph.html">graph</a></li><li class="navelem"><a class="el" href="classopenjij_1_1graph_1_1Graph.html">Graph</a></li>
-    <li class="footer">Generated on Fri Oct 14 2022 08:07:26 for openjij by
+    <li class="footer">Generated on Sun Oct 23 2022 13:23:36 for openjij by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

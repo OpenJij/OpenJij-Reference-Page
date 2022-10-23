@@ -3,13 +3,16 @@ var hierarchy =
     [ "openjij::algorithm::Algorithm< Updater >", "structopenjij_1_1algorithm_1_1Algorithm.html", null ],
     [ "fmath::local::C< EXP_N, LOG_N, EXPD_N >", "structfmath_1_1local_1_1C.html", null ],
     [ "openjij::system::ClassicalIsing< GraphType >", "structopenjij_1_1system_1_1ClassicalIsing.html", null ],
+    [ "openjij::system::ClassicalIsing< graph::CSRSparse< FloatType > >", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::ClassicalIsing< graph::Dense< FloatType > >", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::ClassicalIsing< graph::Sparse< FloatType > >", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::ClassicalIsingPolynomial< GraphType >", "classopenjij_1_1system_1_1ClassicalIsingPolynomial.html", null ],
     [ "openjij::system::ClassicalIsingPolynomial< graph::Polynomial< FloatType > >", "classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::ContinuousTimeIsing< GraphType >", "structopenjij_1_1system_1_1ContinuousTimeIsing.html", null ],
+    [ "openjij::system::ContinuousTimeIsing< graph::CSRSparse< FloatType > >", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::ContinuousTimeIsing< graph::Sparse< FloatType > >", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::updater::ContinuousTimeSwendsenWang< System >", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang.html", null ],
+    [ "openjij::updater::ContinuousTimeSwendsenWang< system::ContinuousTimeIsing< graph::CSRSparse< FloatType > > >", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html", null ],
     [ "openjij::updater::ContinuousTimeSwendsenWang< system::ContinuousTimeIsing< graph::Sparse< FloatType > > >", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra8e0a36304a7a08edfd6f7bc1c47e64ba.html", null ],
     [ "fmath::local::di", "unionfmath_1_1local_1_1di.html", null ],
     [ "fmath::local::ExpdVar< sbit_ >", "structfmath_1_1local_1_1ExpdVar.html", null ],
@@ -29,6 +32,7 @@ var hierarchy =
     [ "openjij::utility::get_eigen_matrix_type< graph::Sparse< FloatType >, Options >", "structopenjij_1_1utility_1_1get__eigen__matrix__type_3_01graph_1_1Sparse_3_01FloatType_01_4_00_01Options_01_4.html", null ],
     [ "openjij::system::get_system_type< System >", "structopenjij_1_1system_1_1get__system__type.html", null ],
     [ "openjij::graph::Graph", "classopenjij_1_1graph_1_1Graph.html", [
+      [ "openjij::graph::CSRSparse< FloatType >", "classopenjij_1_1graph_1_1CSRSparse.html", null ],
       [ "openjij::graph::Dense< FloatType >", "classopenjij_1_1graph_1_1Dense.html", null ],
       [ "openjij::graph::Polynomial< FloatType >", "classopenjij_1_1graph_1_1Polynomial.html", null ],
       [ "openjij::graph::Sparse< FloatType >", "classopenjij_1_1graph_1_1Sparse.html", [
@@ -83,8 +87,10 @@ var hierarchy =
       ] ]
     ] ],
     [ "openjij::updater::SwendsenWang< System >", "structopenjij_1_1updater_1_1SwendsenWang.html", null ],
+    [ "openjij::updater::SwendsenWang< system::ClassicalIsing< graph::CSRSparse< FloatType > > >", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4_01_4.html", null ],
     [ "openjij::updater::SwendsenWang< system::ClassicalIsing< graph::Sparse< FloatType > > >", "structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4_01_4.html", null ],
     [ "openjij::system::TransverseIsing< GraphType >", "structopenjij_1_1system_1_1TransverseIsing.html", null ],
+    [ "openjij::system::TransverseIsing< graph::CSRSparse< FloatType > >", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::TransverseIsing< graph::Dense< FloatType > >", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::TransverseIsing< graph::Sparse< FloatType > >", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html", null ],
     [ "true_type", null, [

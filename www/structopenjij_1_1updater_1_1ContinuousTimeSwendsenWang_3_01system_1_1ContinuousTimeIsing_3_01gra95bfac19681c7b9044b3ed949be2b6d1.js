@@ -1,0 +1,11 @@
+var structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1 =
+[
+    [ "CTIsing", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#ab6a0e8e9e309e9ae39aa15ce9b3e4292", null ],
+    [ "CutPoint", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#ab4a27fa14c226711fd76bc7553f67aff", null ],
+    [ "GraphType", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#aa904a90190bf10f515c5bfc0998d1122", null ],
+    [ "TimeType", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#ace6721f3a4e0978354a41f6cb9db8945", null ],
+    [ "create_timeline", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#a64d8478b7618000bb457f8e4ef06bc15", null ],
+    [ "create_timeline_easy", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#aeb35f0b588f61323a5fba3a25d035048", null ],
+    [ "generate_poisson_points", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#a589d0f803e9b0001441df39307f6a1f5", null ],
+    [ "update", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#a5ce39dff4e3463f51b8b1ca6ae852965", null ]
+];

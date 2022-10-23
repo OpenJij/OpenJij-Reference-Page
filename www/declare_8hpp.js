@@ -8,6 +8,7 @@ var declare_8hpp =
     [ "declare_ClassicalIsingPolynomial", "declare_8hpp.html#a0e65968a00113912a7b8d8130eccc63e", null ],
     [ "declare_ClassicalUpdaterParameter", "declare_8hpp.html#a9d2f1670307c9dc900aeb72ffdd7cd45", null ],
     [ "declare_ContinuousTimeIsing", "declare_8hpp.html#a5a57502db0bc86471cc676c43d8bc74e", null ],
+    [ "declare_CSRSparse", "declare_8hpp.html#a44239bd041309455c39118bb8564d156", null ],
     [ "declare_Dense", "declare_8hpp.html#a40295df4719a63a4544e69a4a51de429", null ],
     [ "declare_Dir", "declare_8hpp.html#a01fed2ff595b4d69d004145352375eba", null ],
     [ "declare_get_solution", "declare_8hpp.html#a9426be96d5a84f7b1ec4fa5269d306ab", null ],

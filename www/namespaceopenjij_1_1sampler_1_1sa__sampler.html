@@ -104,8 +104,8 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
-<tr class="memitem:a768b1b29eead76ad4bc27a46fa7cf5cd"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1sampler_1_1sa__sampler.html#a768b1b29eead76ad4bc27a46fa7cf5cd">geometric_ising_beta_schedule</a> (<a class="el" href="namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658">openjij.model.model.BinaryQuadraticModel</a> model, beta_max=None, beta_min=None, num_sweeps=1000)</td></tr>
-<tr class="separator:a768b1b29eead76ad4bc27a46fa7cf5cd"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a8b49acd2b2f9fbdd14a642deb03def2c"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1sampler_1_1sa__sampler.html#a8b49acd2b2f9fbdd14a642deb03def2c">geometric_ising_beta_schedule</a> (Union[openjij.cxxjij.graph.Dense, openjij.cxxjij.graph.CSRSparse] cxxgraph, beta_max=None, beta_min=None, num_sweeps=1000)</td></tr>
+<tr class="separator:a8b49acd2b2f9fbdd14a642deb03def2c"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9ef1c6b599701db5d7ad82be539aec3f"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1sampler_1_1sa__sampler.html#a9ef1c6b599701db5d7ad82be539aec3f">geometric_hubo_beta_schedule</a> (sa_system, beta_max, beta_min, num_sweeps)</td></tr>
 <tr class="separator:a9ef1c6b599701db5d7ad82be539aec3f"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
@@ -161,8 +161,8 @@ Here is the caller graph for this function:</div>
 
 </div>
 </div>
-<a id="a768b1b29eead76ad4bc27a46fa7cf5cd"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a768b1b29eead76ad4bc27a46fa7cf5cd">&#9670;&nbsp;</a></span>geometric_ising_beta_schedule()</h2>
+<a id="a8b49acd2b2f9fbdd14a642deb03def2c"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a8b49acd2b2f9fbdd14a642deb03def2c">&#9670;&nbsp;</a></span>geometric_ising_beta_schedule()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -170,8 +170,8 @@ Here is the caller graph for this function:</div>
         <tr>
           <td class="memname">def openjij.sampler.sa_sampler.geometric_ising_beta_schedule </td>
           <td>(</td>
-          <td class="paramtype"><a class="el" href="namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658">openjij.model.model.BinaryQuadraticModel</a>&#160;</td>
-          <td class="paramname"><em>model</em>, </td>
+          <td class="paramtype">Union[openjij.cxxjij.graph.Dense, openjij.cxxjij.graph.CSRSparse]&#160;</td>
+          <td class="paramname"><em>cxxgraph</em>, </td>
         </tr>
         <tr>
           <td class="paramkey"></td>
@@ -201,24 +201,13 @@ Here is the caller graph for this function:</div>
 <pre class="fragment">Make geometric cooling beta schedule.
 
 Args:
-    model (openjij.model.BinaryQuadraticModel)
+    cxxgraph (Union[openjij.cxxjij.graph.Dense, openjij.cxxjij.graph.CSRSparse]): Ising graph, must be either `Dense` or `CSRSparse`.
     beta_max (float, optional): [description]. Defaults to None.
     beta_min (float, optional): [description]. Defaults to None.
     num_sweeps (int, optional): [description]. Defaults to 1000.
 Returns:
     list of cxxjij.utility.ClassicalSchedule, list of beta range [max, min]
 </pre> 
-<p class="reference">References <a class="el" href="namespaceopenjij_1_1utils_1_1graph__utils.html#a1ebf6402a3475b213578eeb744bfcfb5">openjij.utils.graph_utils.qubo_to_ising()</a>.</p>
-<div class="dynheader">
-Here is the call graph for this function:</div>
-<div class="dyncontent">
-<div class="center"><img src="namespaceopenjij_1_1sampler_1_1sa__sampler_a768b1b29eead76ad4bc27a46fa7cf5cd_cgraph.png" border="0" usemap="#namespaceopenjij_1_1sampler_1_1sa__sampler_a768b1b29eead76ad4bc27a46fa7cf5cd_cgraph" alt=""/></div>
-<map name="namespaceopenjij_1_1sampler_1_1sa__sampler_a768b1b29eead76ad4bc27a46fa7cf5cd_cgraph" id="namespaceopenjij_1_1sampler_1_1sa__sampler_a768b1b29eead76ad4bc27a46fa7cf5cd_cgraph">
-<area shape="rect" title=" " alt="" coords="5,5,195,61"/>
-<area shape="rect" href="namespaceopenjij_1_1utils_1_1graph__utils.html#a1ebf6402a3475b213578eeb744bfcfb5" title=" " alt="" coords="243,13,393,54"/>
-</map>
-</div>
-
 </div>
 </div>
 </div><!-- contents -->
@@ -227,7 +216,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceopenjij.html">openjij</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1sampler.html">sampler</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1sampler_1_1sa__sampler.html">sa_sampler</a></li>
-    <li class="footer">Generated on Fri Oct 14 2022 08:07:26 for openjij by
+    <li class="footer">Generated on Sun Oct 23 2022 13:23:36 for openjij by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

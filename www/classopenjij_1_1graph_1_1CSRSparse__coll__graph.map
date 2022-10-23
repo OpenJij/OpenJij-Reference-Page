@@ -1,0 +1,4 @@
+<map id="openjij::graph::CSRSparse&lt; FloatType &gt;" name="openjij::graph::CSRSparse&lt; FloatType &gt;">
+<area shape="rect" id="node1" title="CSRSparse graph: just store CSR Sparse Matrix (Eigen::Sparse) The Hamiltonian is like." alt="" coords="5,80,195,121"/>
+<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Graph.html" title="Abstract graph class." alt="" coords="21,5,179,32"/>
+</map>
