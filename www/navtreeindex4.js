@@ -1,5 +1,7 @@
 var NAVTREEINDEX4 =
 {
+"time__measure_8py.html":[4,0,67],
+"transverse__ising_8hpp.html":[4,0,68],
 "transverse__ising_8hpp.html#a4ef7272a22fc93fbde9560767e89ebf7":[4,0,68,6],
 "transverse__ising_8hpp.html#aa15a829ac457a697db83e32eec4eb095":[4,0,68,5],
 "transverse__ising_8hpp.html#aeaac4045eb5f0409fd68572977cd1943":[4,0,68,4],

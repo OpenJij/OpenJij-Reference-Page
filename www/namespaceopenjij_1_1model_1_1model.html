@@ -107,6 +107,10 @@ Functions</h2></td></tr>
 <tr class="separator:a304965ab5d32a3851449693812343658"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab9afd9610b04584ac1507109f6a2050f"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f">bqm_from_numpy_matrix</a> (mat, list variables=None, offset=0.0, vartype=&quot;BINARY&quot;, **kwargs)</td></tr>
 <tr class="separator:ab9afd9610b04584ac1507109f6a2050f"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a09a1b31e4c31c51b320ecde869ffa8f9"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1model_1_1model.html#a09a1b31e4c31c51b320ecde869ffa8f9">bqm_from_qubo</a> (Q, offset=0.0, **kwargs)</td></tr>
+<tr class="separator:a09a1b31e4c31c51b320ecde869ffa8f9"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:aa79d7be7e5635fe9f315273f53aee2d4"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1model_1_1model.html#aa79d7be7e5635fe9f315273f53aee2d4">bqm_from_ising</a> (linear, quadratic, offset=0.0, **kwargs)</td></tr>
+<tr class="separator:aa79d7be7e5635fe9f315273f53aee2d4"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a6d2a9f2a60c6dac481d02ce2d34321bc"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1model_1_1model.html#a6d2a9f2a60c6dac481d02ce2d34321bc">make_BinaryPolynomialModel</a> (polynomial, index_type=None, tuple_size=0)</td></tr>
 <tr class="separator:a6d2a9f2a60c6dac481d02ce2d34321bc"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ab137908c57aab4fc069a6d9fae25f69b"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1model_1_1model.html#ab137908c57aab4fc069a6d9fae25f69b">make_BinaryPolynomialModel_from_JSON</a> (obj)</td></tr>
@@ -817,16 +821,71 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="namespaceopenjij_1_1model_1_1model_a304965ab5d32a3851449693812343658_icgraph.png" border="0" usemap="#namespaceopenjij_1_1model_1_1model_a304965ab5d32a3851449693812343658_icgraph" alt=""/></div>
 <map name="namespaceopenjij_1_1model_1_1model_a304965ab5d32a3851449693812343658_icgraph" id="namespaceopenjij_1_1model_1_1model_a304965ab5d32a3851449693812343658_icgraph">
-<area shape="rect" title=" " alt="" coords="1025,84,1228,125"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d" title=" " alt="" coords="781,84,977,125"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f" title=" " alt="" coords="234,5,423,47"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86" title=" " alt="" coords="483,51,733,92"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#ab0d6c4ef968eb5df887672a0ac8a0987" title=" " alt="" coords="502,116,714,157"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#a4f711d9b590d7a9673ea7f732d08865d" title=" " alt="" coords="517,257,699,299"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#ac0768c4b6349cc0bc22a30dde9237061" title=" " alt="" coords="5,103,175,144"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#aba4f77fd8d2757731e9bd31540327a13" title=" " alt="" coords="223,173,435,229"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#adbc0543b10d09b1a09b8b7396ad02325" title=" " alt="" coords="19,257,161,299"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#aeab8f056a8d52fd5b14b285c23e3905f" title=" " alt="" coords="238,327,419,383"/>
+<area shape="rect" title=" " alt="" coords="1025,141,1228,183"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d" title=" " alt="" coords="781,141,977,183"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#aa79d7be7e5635fe9f315273f53aee2d4" title=" " alt="" coords="234,76,423,117"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f" title=" " alt="" coords="513,43,703,84"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a09a1b31e4c31c51b320ecde869ffa8f9" title=" " alt="" coords="513,108,703,149"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86" title=" " alt="" coords="483,173,733,215"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#ab0d6c4ef968eb5df887672a0ac8a0987" title=" " alt="" coords="502,239,714,280"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#a4f711d9b590d7a9673ea7f732d08865d" title=" " alt="" coords="517,355,699,396"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#ac0768c4b6349cc0bc22a30dde9237061" title=" " alt="" coords="5,200,175,241"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#aba4f77fd8d2757731e9bd31540327a13" title=" " alt="" coords="223,270,435,326"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#adbc0543b10d09b1a09b8b7396ad02325" title=" " alt="" coords="19,355,161,396"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#aeab8f056a8d52fd5b14b285c23e3905f" title=" " alt="" coords="238,425,419,481"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="aa79d7be7e5635fe9f315273f53aee2d4"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#aa79d7be7e5635fe9f315273f53aee2d4">&#9670;&nbsp;</a></span>bqm_from_ising()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">def openjij.model.model.bqm_from_ising </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>linear</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>quadratic</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>offset</em> = <code>0.0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">**&#160;</td>
+          <td class="paramname"><em>kwargs</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">References <a class="el" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d">openjij.model.model.make_BinaryQuadraticModel()</a>, and <a class="el" href="namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86">openjij.model.model.make_BinaryQuadraticModel_from_JSON()</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_1_1model_1_1model_aa79d7be7e5635fe9f315273f53aee2d4_cgraph.png" border="0" usemap="#namespaceopenjij_1_1model_1_1model_aa79d7be7e5635fe9f315273f53aee2d4_cgraph" alt=""/></div>
+<map name="namespaceopenjij_1_1model_1_1model_aa79d7be7e5635fe9f315273f53aee2d4_cgraph" id="namespaceopenjij_1_1model_1_1model_aa79d7be7e5635fe9f315273f53aee2d4_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,195,47"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d" title=" " alt="" coords="541,5,737,47"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86" title=" " alt="" coords="243,35,493,76"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658" title=" " alt="" coords="785,5,988,47"/>
 </map>
 </div>
 
@@ -876,16 +935,61 @@ Here is the caller graph for this function:</div>
       </table>
 </div><div class="memdoc">
 
-<p class="reference">References <a class="el" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d">openjij.model.model.make_BinaryQuadraticModel()</a>, and <a class="el" href="namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86">openjij.model.model.make_BinaryQuadraticModel_from_JSON()</a>.</p>
+<p class="reference">References <a class="el" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d">openjij.model.model.make_BinaryQuadraticModel()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="namespaceopenjij_1_1model_1_1model_ab9afd9610b04584ac1507109f6a2050f_cgraph.png" border="0" usemap="#namespaceopenjij_1_1model_1_1model_ab9afd9610b04584ac1507109f6a2050f_cgraph" alt=""/></div>
 <map name="namespaceopenjij_1_1model_1_1model_ab9afd9610b04584ac1507109f6a2050f_cgraph" id="namespaceopenjij_1_1model_1_1model_ab9afd9610b04584ac1507109f6a2050f_cgraph">
 <area shape="rect" title=" " alt="" coords="5,5,195,47"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d" title=" " alt="" coords="541,5,737,47"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86" title=" " alt="" coords="243,35,493,76"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658" title=" " alt="" coords="785,5,988,47"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d" title=" " alt="" coords="243,5,439,47"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658" title=" " alt="" coords="487,5,689,47"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a09a1b31e4c31c51b320ecde869ffa8f9"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a09a1b31e4c31c51b320ecde869ffa8f9">&#9670;&nbsp;</a></span>bqm_from_qubo()</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">def openjij.model.model.bqm_from_qubo </td>
+          <td>(</td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>Q</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">&#160;</td>
+          <td class="paramname"><em>offset</em> = <code>0.0</code>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">**&#160;</td>
+          <td class="paramname"><em>kwargs</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">References <a class="el" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d">openjij.model.model.make_BinaryQuadraticModel()</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_1_1model_1_1model_a09a1b31e4c31c51b320ecde869ffa8f9_cgraph.png" border="0" usemap="#namespaceopenjij_1_1model_1_1model_a09a1b31e4c31c51b320ecde869ffa8f9_cgraph" alt=""/></div>
+<map name="namespaceopenjij_1_1model_1_1model_a09a1b31e4c31c51b320ecde869ffa8f9_cgraph" id="namespaceopenjij_1_1model_1_1model_a09a1b31e4c31c51b320ecde869ffa8f9_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,195,47"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d" title=" " alt="" coords="243,5,439,47"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658" title=" " alt="" coords="487,5,689,47"/>
 </map>
 </div>
 
@@ -1205,7 +1309,7 @@ Returns:
 </pre> 
 <p class="reference">References <a class="el" href="namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658">openjij.model.model.BinaryQuadraticModel()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658">openjij.model.model.BinaryQuadraticModel()</a>, <a class="el" href="namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f">openjij.model.model.bqm_from_numpy_matrix()</a>, <a class="el" href="namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86">openjij.model.model.make_BinaryQuadraticModel_from_JSON()</a>, <a class="el" href="namespaceopenjij_1_1model_1_1chimera__model.html#ab0d6c4ef968eb5df887672a0ac8a0987">openjij.model.chimera_model.make_ChimeraModel()</a>, and <a class="el" href="namespaceopenjij_1_1model_1_1king__graph.html#a4f711d9b590d7a9673ea7f732d08865d">openjij.model.king_graph.make_KingGraph()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658">openjij.model.model.BinaryQuadraticModel()</a>, <a class="el" href="namespaceopenjij_1_1model_1_1model.html#aa79d7be7e5635fe9f315273f53aee2d4">openjij.model.model.bqm_from_ising()</a>, <a class="el" href="namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f">openjij.model.model.bqm_from_numpy_matrix()</a>, <a class="el" href="namespaceopenjij_1_1model_1_1model.html#a09a1b31e4c31c51b320ecde869ffa8f9">openjij.model.model.bqm_from_qubo()</a>, <a class="el" href="namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86">openjij.model.model.make_BinaryQuadraticModel_from_JSON()</a>, <a class="el" href="namespaceopenjij_1_1model_1_1chimera__model.html#ab0d6c4ef968eb5df887672a0ac8a0987">openjij.model.chimera_model.make_ChimeraModel()</a>, and <a class="el" href="namespaceopenjij_1_1model_1_1king__graph.html#a4f711d9b590d7a9673ea7f732d08865d">openjij.model.king_graph.make_KingGraph()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1220,16 +1324,18 @@ Here is the caller graph for this function:</div>
 <div class="dyncontent">
 <div class="center"><img src="namespaceopenjij_1_1model_1_1model_af284f1bb8e49635476091f0ecb05037d_icgraph.png" border="0" usemap="#namespaceopenjij_1_1model_1_1model_af284f1bb8e49635476091f0ecb05037d_icgraph" alt=""/></div>
 <map name="namespaceopenjij_1_1model_1_1model_af284f1bb8e49635476091f0ecb05037d_icgraph" id="namespaceopenjij_1_1model_1_1model_af284f1bb8e49635476091f0ecb05037d_icgraph">
-<area shape="rect" title=" " alt="" coords="781,93,977,135"/>
+<area shape="rect" title=" " alt="" coords="781,156,977,197"/>
 <area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658" title=" " alt="" coords="507,5,709,47"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f" title=" " alt="" coords="234,77,423,119"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86" title=" " alt="" coords="483,123,733,164"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#ab0d6c4ef968eb5df887672a0ac8a0987" title=" " alt="" coords="502,188,714,229"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#a4f711d9b590d7a9673ea7f732d08865d" title=" " alt="" coords="517,329,699,371"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#ac0768c4b6349cc0bc22a30dde9237061" title=" " alt="" coords="5,175,175,216"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#aba4f77fd8d2757731e9bd31540327a13" title=" " alt="" coords="223,245,435,301"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#adbc0543b10d09b1a09b8b7396ad02325" title=" " alt="" coords="19,329,161,371"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#aeab8f056a8d52fd5b14b285c23e3905f" title=" " alt="" coords="238,399,419,455"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#aa79d7be7e5635fe9f315273f53aee2d4" title=" " alt="" coords="234,156,423,197"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f" title=" " alt="" coords="513,123,703,164"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a09a1b31e4c31c51b320ecde869ffa8f9" title=" " alt="" coords="513,188,703,229"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86" title=" " alt="" coords="483,253,733,295"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#ab0d6c4ef968eb5df887672a0ac8a0987" title=" " alt="" coords="502,319,714,360"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#a4f711d9b590d7a9673ea7f732d08865d" title=" " alt="" coords="517,435,699,476"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#ac0768c4b6349cc0bc22a30dde9237061" title=" " alt="" coords="5,280,175,321"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1chimera__model.html#aba4f77fd8d2757731e9bd31540327a13" title=" " alt="" coords="223,350,435,406"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#adbc0543b10d09b1a09b8b7396ad02325" title=" " alt="" coords="19,435,161,476"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1king__graph.html#aeab8f056a8d52fd5b14b285c23e3905f" title=" " alt="" coords="238,505,419,561"/>
 </map>
 </div>
 
@@ -1257,7 +1363,7 @@ Returns:
 </pre> 
 <p class="reference">References <a class="el" href="namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d">openjij.model.model.make_BinaryQuadraticModel()</a>.</p>
 
-<p class="reference">Referenced by <a class="el" href="namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f">openjij.model.model.bqm_from_numpy_matrix()</a>.</p>
+<p class="reference">Referenced by <a class="el" href="namespaceopenjij_1_1model_1_1model.html#aa79d7be7e5635fe9f315273f53aee2d4">openjij.model.model.bqm_from_ising()</a>.</p>
 <div class="dynheader">
 Here is the call graph for this function:</div>
 <div class="dyncontent">
@@ -1274,7 +1380,7 @@ Here is the caller graph for this function:</div>
 <div class="center"><img src="namespaceopenjij_1_1model_1_1model_a4956736a1899352838c2efdf12a57b86_icgraph.png" border="0" usemap="#namespaceopenjij_1_1model_1_1model_a4956736a1899352838c2efdf12a57b86_icgraph" alt=""/></div>
 <map name="namespaceopenjij_1_1model_1_1model_a4956736a1899352838c2efdf12a57b86_icgraph" id="namespaceopenjij_1_1model_1_1model_a4956736a1899352838c2efdf12a57b86_icgraph">
 <area shape="rect" title=" " alt="" coords="243,5,493,47"/>
-<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f" title=" " alt="" coords="5,5,195,47"/>
+<area shape="rect" href="namespaceopenjij_1_1model_1_1model.html#aa79d7be7e5635fe9f315273f53aee2d4" title=" " alt="" coords="5,5,195,47"/>
 </map>
 </div>
 
@@ -1315,7 +1421,7 @@ Here is the caller graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceopenjij.html">openjij</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1model.html">model</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1model_1_1model.html">model</a></li>
-    <li class="footer">Generated on Mon Oct 24 2022 01:27:24 for openjij by
+    <li class="footer">Generated on Tue Oct 25 2022 00:37:58 for openjij by
     <a href="http://www.doxygen.org/index.html">
     <img class="footer" src="doxygen.png" alt="doxygen"/></a> 1.8.17 </li>
   </ul>

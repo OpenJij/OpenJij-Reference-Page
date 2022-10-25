@@ -88,8 +88,8 @@ var NAVTREEINDEX =
 "____init_____8py.html",
 "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#aa5cd16c3774036f5d322da427c872793",
 "get__solution_8hpp.html#aa51a819e2bc825c5f9334adf8bea30bb",
-"structopenjij_1_1algorithm_1_1Algorithm.html",
-"transverse__ising_8hpp.html#a4ef7272a22fc93fbde9560767e89ebf7"
+"structfmath_1_1local_1_1LogVar.html#aa24563c8eb6e1b6717ea5ff45e4ce5b9",
+"time__measure_8py.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

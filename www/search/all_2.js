@@ -14,5 +14,7 @@ var searchData=
   ['block_5fcol_60',['BLOCK_COL',['../namespaceopenjij.html#ac9cf6ca61d7f59134c3dd5411c294b69',1,'openjij']]],
   ['block_5frow_61',['BLOCK_ROW',['../namespaceopenjij.html#a455fa7deb47fc2f1718efe0d3a0d9970',1,'openjij']]],
   ['block_5ftrot_62',['BLOCK_TROT',['../namespaceopenjij.html#ac440735c29c7b13aefb1afe63c4ade5d',1,'openjij']]],
-  ['bqm_5ffrom_5fnumpy_5fmatrix_63',['bqm_from_numpy_matrix',['../namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f',1,'openjij::model::model']]]
+  ['bqm_5ffrom_5fising_63',['bqm_from_ising',['../namespaceopenjij_1_1model_1_1model.html#aa79d7be7e5635fe9f315273f53aee2d4',1,'openjij::model::model']]],
+  ['bqm_5ffrom_5fnumpy_5fmatrix_64',['bqm_from_numpy_matrix',['../namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f',1,'openjij::model::model']]],
+  ['bqm_5ffrom_5fqubo_65',['bqm_from_qubo',['../namespaceopenjij_1_1model_1_1model.html#a09a1b31e4c31c51b320ecde869ffa8f9',1,'openjij::model::model']]]
 ];

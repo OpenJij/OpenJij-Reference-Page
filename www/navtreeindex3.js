@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"structfmath_1_1local_1_1LogVar.html#aa24563c8eb6e1b6717ea5ff45e4ce5b9":[3,0,0,0,5,10],
+"structfmath_1_1local_1_1LogVar.html#ad845b1b17fc42a9cbc0201fa8517380c":[3,0,0,0,5,4],
 "structopenjij_1_1algorithm_1_1Algorithm.html":[3,0,1,0,0],
 "structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3":[3,0,1,0,0,0],
 "structopenjij_1_1system_1_1ClassicalIsing.html":[3,0,1,4,2],
@@ -247,7 +249,5 @@ var NAVTREEINDEX3 =
 "system_8hpp_source.html":[4,0,65],
 "thres__hold_8hpp.html":[4,0,66],
 "thres__hold_8hpp.html#a784190db3844e3438127d2d1ce726e53":[4,0,66,0],
-"thres__hold_8hpp_source.html":[4,0,66],
-"time__measure_8py.html":[4,0,67],
-"transverse__ising_8hpp.html":[4,0,68]
+"thres__hold_8hpp_source.html":[4,0,66]
 };
