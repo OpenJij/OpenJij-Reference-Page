@@ -1,0 +1,8 @@
+<map id="openjij::graph::Sparse::energy" name="openjij::graph::Sparse::energy">
+<area shape="rect" id="node1" title=" " alt="" coords="5,142,168,184"/>
+<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1" title="calculate total energy" alt="" coords="216,88,379,129"/>
+<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="864,62,1023,104"/>
+<area shape="rect" id="node4" href="$classopenjij_1_1graph_1_1Sparse.html#a6c742b9b2fad5a5a8be230becf27ff11" title="access h_{i} (local field)" alt="" coords="427,58,605,84"/>
+<area shape="rect" id="node6" href="$classopenjij_1_1graph_1_1Sparse.html#a337f18d08a33bdffcfb033e4f3781faf" title="access J_{ij}" alt="" coords="429,108,603,135"/>
+<area shape="rect" id="node5" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="653,62,816,104"/>
+</map>

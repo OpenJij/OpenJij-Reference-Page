@@ -1,6 +1,5 @@
 var transverse__ising_8hpp =
 [
-    [ "TransverseIsing", "structopenjij_1_1system_1_1TransverseIsing.html", null ],
     [ "TransverseIsing< graph::Dense< FloatType > >", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4" ],
     [ "TransverseIsing< graph::Sparse< FloatType > >", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4" ],
     [ "TransverseIsing< graph::CSRSparse< FloatType > >", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4" ],

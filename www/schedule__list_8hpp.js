@@ -1,6 +1,5 @@
 var schedule__list_8hpp =
 [
-    [ "UpdaterParameter", "structopenjij_1_1utility_1_1UpdaterParameter.html", null ],
     [ "UpdaterParameter< system::classical_system >", "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1classical__system_01_4.html", "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1classical__system_01_4" ],
     [ "UpdaterParameter< system::classical_constraint_system >", "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1classical__constraint__system_01_4.html", "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1classical__constraint__system_01_4" ],
     [ "UpdaterParameter< system::transverse_field_system >", "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1transverse__field__system_01_4.html", "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1transverse__field__system_01_4" ],

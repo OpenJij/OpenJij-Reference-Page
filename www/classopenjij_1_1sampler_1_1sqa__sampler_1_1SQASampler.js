@@ -10,6 +10,5 @@ var classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler =
     [ "_default_params", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a5f86c9257b43bb10574acb436b3cab86", null ],
     [ "_make_system", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#aa101c30318d584ed0edcd5a917c19792", null ],
     [ "_params", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a8151326088aa634ffc4cdb9134d8b2ec", null ],
-    [ "iteration", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a25c4592a6209892252edf83d150a4606", null ],
     [ "schedule_info", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a4445462bbcac1cba78ad572ac8262fca", null ]
 ];

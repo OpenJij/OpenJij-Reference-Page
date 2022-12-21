@@ -1,8 +1,5 @@
 var structfmath_1_1local_1_1ExpVar =
 [
-    [ "s", "structfmath_1_1local_1_1ExpVar.html#a759d39f57b94e755539475f42109b634a120aaee66c4645deef86705ea2f65688", null ],
-    [ "n", "structfmath_1_1local_1_1ExpVar.html#a759d39f57b94e755539475f42109b634a8536b5a252f83b511b30cd9995ceea36", null ],
-    [ "f88", "structfmath_1_1local_1_1ExpVar.html#a759d39f57b94e755539475f42109b634afdf1329890b9668eeb4bad6b931ce991", null ],
     [ "ExpVar", "structfmath_1_1local_1_1ExpVar.html#a0aa33b1704c2a8638b30670fc8fc4202", null ],
     [ "a", "structfmath_1_1local_1_1ExpVar.html#a74cce5817a87e04c5c24bcd526bce60c", null ],
     [ "b", "structfmath_1_1local_1_1ExpVar.html#a056ccb2489ed7e220de04d5e7c29bd93", null ],

@@ -1,0 +1,7 @@
+<map id="openjij::graph::Sparse::Sparse" name="openjij::graph::Sparse::Sparse">
+<area shape="rect" id="node1" title="Sparse constructor (from nlohmann::json)" alt="" coords="5,24,168,65"/>
+<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Sparse.html#a6c742b9b2fad5a5a8be230becf27ff11" title="access h_{i} (local field)" alt="" coords="216,6,395,33"/>
+<area shape="rect" id="node5" href="$classopenjij_1_1graph_1_1Sparse.html#a337f18d08a33bdffcfb033e4f3781faf" title="access J_{ij}" alt="" coords="218,57,393,83"/>
+<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="653,24,812,65"/>
+<area shape="rect" id="node4" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="443,24,605,65"/>
+</map>

@@ -19,7 +19,7 @@ var hierarchy =
     [ "fmath::local::ExpdVar< EXPD_TABLE_SIZE >", "structfmath_1_1local_1_1ExpdVar.html", null ],
     [ "fmath::local::ExpVar< N >", "structfmath_1_1local_1_1ExpVar.html", null ],
     [ "fmath::local::ExpVar< EXP_TABLE_SIZE >", "structfmath_1_1local_1_1ExpVar.html", null ],
-    [ "false_type", null, [
+    [ "std::false_type", null, [
       [ "openjij::utility::is_same_template< class, class >", "structopenjij_1_1utility_1_1is__same__template.html", null ]
     ] ],
     [ "fmath::local::fi", "unionfmath_1_1local_1_1fi.html", null ],
@@ -32,14 +32,14 @@ var hierarchy =
     [ "openjij::utility::get_eigen_matrix_type< graph::Sparse< FloatType >, Options >", "structopenjij_1_1utility_1_1get__eigen__matrix__type_3_01graph_1_1Sparse_3_01FloatType_01_4_00_01Options_01_4.html", null ],
     [ "openjij::system::get_system_type< System >", "structopenjij_1_1system_1_1get__system__type.html", null ],
     [ "openjij::graph::Graph", "classopenjij_1_1graph_1_1Graph.html", [
+      [ "openjij::graph::Sparse< double >", "classopenjij_1_1graph_1_1Sparse.html", [
+        [ "openjij::graph::Chimera< FloatType >", "classopenjij_1_1graph_1_1Chimera.html", null ]
+      ] ],
       [ "openjij::graph::CSRSparse< FloatType >", "classopenjij_1_1graph_1_1CSRSparse.html", null ],
       [ "openjij::graph::Dense< FloatType >", "classopenjij_1_1graph_1_1Dense.html", null ],
       [ "openjij::graph::Polynomial< FloatType >", "classopenjij_1_1graph_1_1Polynomial.html", null ],
       [ "openjij::graph::Sparse< FloatType >", "classopenjij_1_1graph_1_1Sparse.html", [
         [ "openjij::graph::Square< FloatType >", "classopenjij_1_1graph_1_1Square.html", null ]
-      ] ],
-      [ "openjij::graph::Sparse< double >", "classopenjij_1_1graph_1_1Sparse.html", [
-        [ "openjij::graph::Chimera< FloatType >", "classopenjij_1_1graph_1_1Chimera.html", null ]
       ] ]
     ] ],
     [ "openjij::updater::KLocal< System >", "structopenjij_1_1updater_1_1KLocal.html", null ],
@@ -60,7 +60,7 @@ var hierarchy =
     [ "openjij::utility::PairHash", "structopenjij_1_1utility_1_1PairHash.html", null ],
     [ "fmath::PowGenerator", "classfmath_1_1PowGenerator.html", null ],
     [ "openjij::system::realtime_dynamics_system", "structopenjij_1_1system_1_1realtime__dynamics__system.html", null ],
-    [ "Sampler", null, [
+    [ "dimod.Sampler", null, [
       [ "openjij.sampler.sampler.BaseSampler", "classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html", [
         [ "openjij.sampler.sa_sampler.SASampler", "classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html", [
           [ "openjij.sampler.chimera_gpu.gpu_sa_sampler.GPUChimeraSASampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sa__sampler_1_1GPUChimeraSASampler.html", null ]
@@ -71,7 +71,7 @@ var hierarchy =
         ] ]
       ] ]
     ] ],
-    [ "SampleSet", null, [
+    [ "dimod.SampleSet", null, [
       [ "openjij.sampler.response.Response", "classopenjij_1_1sampler_1_1response_1_1Response.html", null ]
     ] ],
     [ "openjij::utility::Schedule< SystemType >", "structopenjij_1_1utility_1_1Schedule.html", null ],
@@ -80,7 +80,7 @@ var hierarchy =
     [ "openjij::updater::SingleSpinFlip< system::ClassicalIsing< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html", null ],
     [ "openjij::updater::SingleSpinFlip< system::ClassicalIsingPolynomial< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsingPolynomial_3_01GraphType_01_4_01_4.html", null ],
     [ "openjij::updater::SingleSpinFlip< system::TransverseIsing< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html", null ],
-    [ "Structured", null, [
+    [ "dimod.Structured", null, [
       [ "openjij.sampler.chimera_gpu.base_gpu_chimera.BaseGPUChimeraSampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1base__gpu__chimera_1_1BaseGPUChimeraSampler.html", [
         [ "openjij.sampler.chimera_gpu.gpu_sa_sampler.GPUChimeraSASampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sa__sampler_1_1GPUChimeraSASampler.html", null ],
         [ "openjij.sampler.chimera_gpu.gpu_sqa_sampler.GPUChimeraSQASampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sqa__sampler_1_1GPUChimeraSQASampler.html", null ]
@@ -93,7 +93,7 @@ var hierarchy =
     [ "openjij::system::TransverseIsing< graph::CSRSparse< FloatType > >", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::TransverseIsing< graph::Dense< FloatType > >", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html", null ],
     [ "openjij::system::TransverseIsing< graph::Sparse< FloatType > >", "structopenjij_1_1system_1_1TransverseIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html", null ],
-    [ "true_type", null, [
+    [ "std::true_type", null, [
       [ "openjij::utility::is_same_template< T, T >", "structopenjij_1_1utility_1_1is__same__template_3_01T_00_01T_01_4.html", null ]
     ] ],
     [ "openjij::utility::UnionFind", "structopenjij_1_1utility_1_1UnionFind.html", null ],

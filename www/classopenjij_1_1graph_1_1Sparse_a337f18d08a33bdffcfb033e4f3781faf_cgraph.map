@@ -1,0 +1,5 @@
+<map id="openjij::graph::Sparse::J" name="openjij::graph::Sparse::J">
+<area shape="rect" id="node1" title="access J_{ij}" alt="" coords="5,13,180,39"/>
+<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="439,5,597,47"/>
+<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="228,35,391,76"/>
+</map>

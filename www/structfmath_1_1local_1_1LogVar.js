@@ -1,6 +1,5 @@
 var structfmath_1_1local_1_1LogVar =
 [
-    [ "LEN", "structfmath_1_1local_1_1LogVar.html#a5ad9a228a44e9c301552f791d22c1448a9cd92b10a14da1491d2ee11b1b990ba5", null ],
     [ "LogVar", "structfmath_1_1local_1_1LogVar.html#a7a0f2824ba8a62727c51769e5dea1f4d", null ],
     [ "app", "structfmath_1_1local_1_1LogVar.html#a744cbc5988664969d3b61960456b7c06", null ],
     [ "c_log2", "structfmath_1_1local_1_1LogVar.html#a964fd8655450dc4307d94d8752b6ec3d", null ],
