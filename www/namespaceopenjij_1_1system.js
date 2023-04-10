@@ -1,5 +1,6 @@
 var namespaceopenjij_1_1system =
 [
+    [ "SASystem< graph::BinaryPolynomialModel< FloatType >, RandType >", "classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html", "classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4" ],
     [ "ClassicalIsing", "structopenjij_1_1system_1_1ClassicalIsing.html", null ],
     [ "ClassicalIsing< graph::Dense< FloatType > >", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4.html", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Dense_3_01FloatType_01_4_01_4" ],
     [ "ClassicalIsing< graph::Sparse< FloatType > >", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4" ],
@@ -9,8 +10,10 @@ var namespaceopenjij_1_1system =
     [ "ContinuousTimeIsing", "structopenjij_1_1system_1_1ContinuousTimeIsing.html", null ],
     [ "ContinuousTimeIsing< graph::Sparse< FloatType > >", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4" ],
     [ "ContinuousTimeIsing< graph::CSRSparse< FloatType > >", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html", "structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4" ],
+    [ "SASystem< graph::IsingPolynomialModel< FloatType >, RandType >", "classopenjij_1_1system_1_1SASystem_3_01graph_1_1IsingPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html", "classopenjij_1_1system_1_1SASystem_3_01graph_1_1IsingPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4" ],
     [ "KLocalPolynomial", "classopenjij_1_1system_1_1KLocalPolynomial.html", null ],
     [ "KLocalPolynomial< graph::Polynomial< FloatType > >", "classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html", "classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4" ],
+    [ "SASystem", "classopenjij_1_1system_1_1SASystem.html", null ],
     [ "mc_system", "structopenjij_1_1system_1_1mc__system.html", null ],
     [ "classical_system", "structopenjij_1_1system_1_1classical__system.html", null ],
     [ "classical_constraint_system", "structopenjij_1_1system_1_1classical__constraint__system.html", null ],

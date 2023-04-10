@@ -1,5 +1,5 @@
 <map id="PYBIND11_MODULE" name="PYBIND11_MODULE">
-<area shape="rect" id="node1" title=" " alt="" coords="5,399,156,425"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,487,156,513"/>
 <area shape="rect" id="node2" href="$namespaceopenjij.html#a4666aedd08c4bfc4e9796e7d73415cbc" title=" " alt="" coords="216,5,437,32"/>
 <area shape="rect" id="node3" href="$namespaceopenjij.html#aa9f55dd713a196b5b966c06b31431eca" title=" " alt="" coords="225,56,428,83"/>
 <area shape="rect" id="node4" href="$namespaceopenjij.html#a0e6500f25dbfcfae1084282e8a0da567" title=" " alt="" coords="223,421,431,462"/>
@@ -7,13 +7,16 @@
 <area shape="rect" id="node7" href="$namespaceopenjij.html#a9d2f1670307c9dc900aeb72ffdd7cd45" title=" " alt="" coords="233,107,420,149"/>
 <area shape="rect" id="node8" href="$namespaceopenjij.html#a5a57502db0bc86471cc676c43d8bc74e" title=" " alt="" coords="225,303,428,345"/>
 <area shape="rect" id="node9" href="$namespaceopenjij.html#a01fed2ff595b4d69d004145352375eba" title=" " alt="" coords="253,369,401,396"/>
-<area shape="rect" id="node10" href="$namespaceopenjij.html#a9426be96d5a84f7b1ec4fa5269d306ab" title=" " alt="" coords="251,589,402,630"/>
+<area shape="rect" id="node10" href="$namespaceopenjij.html#a9426be96d5a84f7b1ec4fa5269d306ab" title=" " alt="" coords="251,719,402,761"/>
 <area shape="rect" id="node12" href="$namespaceopenjij.html#ab32b60ed03b9d5607fe0cdfe1641e5e6" title=" " alt="" coords="243,487,411,513"/>
 <area shape="rect" id="node13" href="$namespaceopenjij.html#a1ca8ea315efc86f59f6bb4a8e54c280c" title=" " alt="" coords="204,537,449,564"/>
-<area shape="rect" id="node14" href="$namespaceopenjij.html#a1b054be06a99e5475d248dfa02c5a7b7" title=" " alt="" coords="227,238,426,279"/>
-<area shape="rect" id="node15" href="$namespaceopenjij_1_1utility.html#aed53c62a9024fd673cf554c62da423f7" title="helper function for making classical constraint schedule list with geometric series of inverse temper..." alt="" coords="248,655,405,711"/>
-<area shape="rect" id="node16" href="$namespaceopenjij_1_1utility.html#a39b02ffdcd5820740b292fccbad9d0b5" title="helper function for making classical schedule list with geometric series of inverse temperatures." alt="" coords="238,735,415,777"/>
-<area shape="rect" id="node17" href="$namespaceopenjij_1_1utility.html#ab3e756b89bb7af83f051410eb1ee74f9" title="helper function for making transverse field system schedule list with arithmetic sequence of annealin..." alt="" coords="214,801,439,842"/>
+<area shape="rect" id="node14" href="$namespaceopenjij.html#a89e3aba06016a07aae97a3ca10e7869a" title=" " alt="" coords="209,589,444,630"/>
+<area shape="rect" id="node15" href="$namespaceopenjij.html#a46002e67f239d2b6af79b622e73607a6" title=" " alt="" coords="221,654,432,695"/>
+<area shape="rect" id="node16" href="$namespaceopenjij.html#a1b054be06a99e5475d248dfa02c5a7b7" title=" " alt="" coords="227,238,426,279"/>
+<area shape="rect" id="node17" href="$namespaceopenjij.html#ab4fd5d8e567c3ee2c835c2d8ac10b4a6" title=" " alt="" coords="214,785,439,812"/>
+<area shape="rect" id="node18" href="$namespaceopenjij_1_1utility.html#aed53c62a9024fd673cf554c62da423f7" title="helper function for making classical constraint schedule list with geometric series of inverse temper..." alt="" coords="248,836,405,892"/>
+<area shape="rect" id="node19" href="$namespaceopenjij_1_1utility.html#a39b02ffdcd5820740b292fccbad9d0b5" title="helper function for making classical schedule list with geometric series of inverse temperatures." alt="" coords="238,917,415,958"/>
+<area shape="rect" id="node20" href="$namespaceopenjij_1_1utility.html#ab3e756b89bb7af83f051410eb1ee74f9" title="helper function for making transverse field system schedule list with arithmetic sequence of annealin..." alt="" coords="214,982,439,1023"/>
 <area shape="rect" id="node5" href="$namespaceopenjij.html#ae430c106f42c4a4912f24e5e3644bb5d" title=" " alt="" coords="499,245,635,272"/>
-<area shape="rect" id="node11" href="$namespaceopenjij_1_1result.html#a31c0f99d40526c635a4451fa78558a84" title="get solution of classical ising system" alt="" coords="497,589,637,630"/>
+<area shape="rect" id="node11" href="$namespaceopenjij_1_1result.html#a31c0f99d40526c635a4451fa78558a84" title="get solution of classical ising system" alt="" coords="497,719,637,761"/>
 </map>

@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['adj_5fnodes_756',['adj_nodes',['../classopenjij_1_1graph_1_1Sparse.html#ac59fe2e6a920dbb898925ad1044abd50',1,'openjij::graph::Sparse']]]
+  ['adj_5fnodes_898',['adj_nodes',['../classopenjij_1_1graph_1_1Sparse.html#ac59fe2e6a920dbb898925ad1044abd50',1,'openjij::graph::Sparse']]]
 ];

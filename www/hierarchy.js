@@ -1,6 +1,7 @@
 var hierarchy =
 [
     [ "openjij::algorithm::Algorithm< Updater >", "structopenjij_1_1algorithm_1_1Algorithm.html", null ],
+    [ "openjij::graph::BinaryPolynomialModel< FloatType >", "classopenjij_1_1graph_1_1BinaryPolynomialModel.html", null ],
     [ "fmath::local::C< EXP_N, LOG_N, EXPD_N >", "structfmath_1_1local_1_1C.html", null ],
     [ "openjij::system::ClassicalIsing< GraphType >", "structopenjij_1_1system_1_1ClassicalIsing.html", null ],
     [ "openjij::system::ClassicalIsing< graph::CSRSparse< FloatType > >", "structopenjij_1_1system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4.html", null ],
@@ -42,6 +43,10 @@ var hierarchy =
         [ "openjij::graph::Square< FloatType >", "classopenjij_1_1graph_1_1Square.html", null ]
       ] ]
     ] ],
+    [ "openjij::utility::IndexHash", "structopenjij_1_1utility_1_1IndexHash.html", null ],
+    [ "openjij::utility::IndexPairHash", "structopenjij_1_1utility_1_1IndexPairHash.html", null ],
+    [ "openjij::utility::IndexVectorHash", "structopenjij_1_1utility_1_1IndexVectorHash.html", null ],
+    [ "openjij::graph::IsingPolynomialModel< FloatType >", "classopenjij_1_1graph_1_1IsingPolynomialModel.html", null ],
     [ "openjij::updater::KLocal< System >", "structopenjij_1_1updater_1_1KLocal.html", null ],
     [ "openjij::updater::KLocal< system::KLocalPolynomial< GraphType > >", "structopenjij_1_1updater_1_1KLocal_3_01system_1_1KLocalPolynomial_3_01GraphType_01_4_01_4.html", null ],
     [ "openjij::system::KLocalPolynomial< GraphType >", "classopenjij_1_1system_1_1KLocalPolynomial.html", null ],
@@ -74,6 +79,10 @@ var hierarchy =
     [ "dimod.SampleSet", null, [
       [ "openjij.sampler.response.Response", "classopenjij_1_1sampler_1_1response_1_1Response.html", null ]
     ] ],
+    [ "openjij::sampler::SASampler< ModelType >", "classopenjij_1_1sampler_1_1SASampler.html", null ],
+    [ "openjij::system::SASystem< ModelType, RandType >", "classopenjij_1_1system_1_1SASystem.html", null ],
+    [ "openjij::system::SASystem< graph::BinaryPolynomialModel< FloatType >, RandType >", "classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html", null ],
+    [ "openjij::system::SASystem< graph::IsingPolynomialModel< FloatType >, RandType >", "classopenjij_1_1system_1_1SASystem_3_01graph_1_1IsingPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html", null ],
     [ "openjij::utility::Schedule< SystemType >", "structopenjij_1_1utility_1_1Schedule.html", null ],
     [ "openjij::system::single_command_system", "structopenjij_1_1system_1_1single__command__system.html", null ],
     [ "openjij::updater::SingleSpinFlip< System >", "structopenjij_1_1updater_1_1SingleSpinFlip.html", null ],
@@ -101,5 +110,6 @@ var hierarchy =
     [ "openjij::utility::UpdaterParameter< system::classical_constraint_system >", "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1classical__constraint__system_01_4.html", null ],
     [ "openjij::utility::UpdaterParameter< system::classical_system >", "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1classical__system_01_4.html", null ],
     [ "openjij::utility::UpdaterParameter< system::transverse_field_system >", "structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1transverse__field__system_01_4.html", null ],
+    [ "openjij::utility::VectorHash", "structopenjij_1_1utility_1_1VectorHash.html", null ],
     [ "openjij::utility::Xorshift", "classopenjij_1_1utility_1_1Xorshift.html", null ]
 ];

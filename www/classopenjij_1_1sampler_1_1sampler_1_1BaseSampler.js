@@ -7,6 +7,6 @@ var classopenjij_1_1sampler_1_1sampler_1_1BaseSampler =
     [ "sample", "classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a7426548e28e86bddfd3fa5e42d9d9330", null ],
     [ "sample_ising", "classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#ae26e9e76ac578367325d3745e0787cb4", null ],
     [ "sample_qubo", "classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a8f27e6f9c03b80b99eb85d3550446cea", null ],
-    [ "parameters", "classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a43ea9e2e4b1f8f0cb2cac81546f56f2f", null ],
-    [ "properties", "classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#aae670a21c20a6b14f08f55dd86ffeb48", null ]
+    [ "parameters", "classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3e447ee54bbe13a966d44e1ebcaa4fcd", null ],
+    [ "properties", "classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a28196d08cf1c2ba9c139c0b7dd8a6d76", null ]
 ];

@@ -1,7 +1,4 @@
 var searchData=
 [
-  ['lambda_1015',['lambda',['../structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1classical__constraint__system_01_4.html#abaa48dba7b59ff42b49e8d24d6411a74',1,'openjij::utility::UpdaterParameter&lt; system::classical_constraint_system &gt;']]],
-  ['log_5ftable_5fsize_1016',['LOG_TABLE_SIZE',['../namespacefmath_1_1local.html#a3b151e66012caa9b107c68c8995ed078',1,'fmath::local']]],
-  ['logger_1017',['logger',['../namespaceopenjij_1_1utils_1_1benchmark.html#ab321df4b5801c43d13f2781728792009',1,'openjij::utils::benchmark']]],
-  ['logvar_1018',['logVar',['../structfmath_1_1local_1_1C.html#ae28e2b75d0d0eb48d56832eac7bf44c8',1,'fmath::local::C']]]
+  ['key_5fvalue_5flist_5f_1230',['key_value_list_',['../classopenjij_1_1graph_1_1BinaryPolynomialModel.html#adf58cfd3c63b52db7977d4f5197a3282',1,'openjij::graph::BinaryPolynomialModel::key_value_list_()'],['../classopenjij_1_1graph_1_1IsingPolynomialModel.html#a2ce1c84c66c0a7375a3b28b670b134ab',1,'openjij::graph::IsingPolynomialModel::key_value_list_()'],['../classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#aafc249c199d864b06c6b73565514f6d6',1,'openjij::system::SASystem&lt; graph::BinaryPolynomialModel&lt; FloatType &gt;, RandType &gt;::key_value_list_()'],['../classopenjij_1_1system_1_1SASystem_3_01graph_1_1IsingPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#a78f0a950286e77ff5fe00debb195c515',1,'openjij::system::SASystem&lt; graph::IsingPolynomialModel&lt; FloatType &gt;, RandType &gt;::key_value_list_()']]]
 ];

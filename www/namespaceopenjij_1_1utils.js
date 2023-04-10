@@ -11,6 +11,11 @@ var namespaceopenjij_1_1utils =
       [ "time_to_solution", "namespaceopenjij_1_1utils_1_1benchmark.html#a22b25708d0f834c941aed4cddd1df493", null ],
       [ "logger", "namespaceopenjij_1_1utils_1_1benchmark.html#ab321df4b5801c43d13f2781728792009", null ]
     ] ],
+    [ "cxx_cast", "namespaceopenjij_1_1utils_1_1cxx__cast.html", [
+      [ "cast_to_cxx_random_number_engine", "namespaceopenjij_1_1utils_1_1cxx__cast.html#ac4676ac049d644314795c003c4c57f6a", null ],
+      [ "cast_to_cxx_temperature_schedule", "namespaceopenjij_1_1utils_1_1cxx__cast.html#abaef5c51c23b59e729bf1a5ef8bf4516", null ],
+      [ "cast_to_cxx_update_method", "namespaceopenjij_1_1utils_1_1cxx__cast.html#a3fbac3b01760c730aad69527dae899e3", null ]
+    ] ],
     [ "decorator", "namespaceopenjij_1_1utils_1_1decorator.html", [
       [ "deprecated_alias", "namespaceopenjij_1_1utils_1_1decorator.html#a52c9e170e3273857ee2e74ba5e2e33fe", null ],
       [ "disabled", "namespaceopenjij_1_1utils_1_1decorator.html#a538fe1b6f5a5e0891dbbfc40d874d192", null ],

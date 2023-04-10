@@ -1,4 +1,4 @@
 var searchData=
 [
-  ['len_1128',['LEN',['../structfmath_1_1local_1_1LogVar.html#a5ad9a228a44e9c301552f791d22c1448a9cd92b10a14da1491d2ee11b1b990ba5',1,'fmath::local::LogVar']]]
+  ['heat_5fbath_1364',['HEAT_BATH',['../namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa52186bba0a3e7af22a70ebb93de1b146',1,'openjij::algorithm']]]
 ];

@@ -93,7 +93,7 @@ $(document).ready(function(){initNavTree('algorithm_8hpp_source.html',''); initR
 <div class="title">algorithm.hpp</div>  </div>
 </div><!--header-->
 <div class="contents">
-<a href="algorithm_8hpp.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">//    Copyright 2021 Jij Inc.</span></div>
+<a href="algorithm_8hpp.html">Go to the documentation of this file.</a><div class="fragment"><div class="line"><a name="l00001"></a><span class="lineno">    1</span>&#160;<span class="comment">//    Copyright 2023 Jij Inc.</span></div>
 <div class="line"><a name="l00002"></a><span class="lineno">    2</span>&#160; </div>
 <div class="line"><a name="l00003"></a><span class="lineno">    3</span>&#160;<span class="comment">//    Licensed under the Apache License, Version 2.0 (the &quot;License&quot;);</span></div>
 <div class="line"><a name="l00004"></a><span class="lineno">    4</span>&#160;<span class="comment">//    you may not use this file except in compliance with the License.</span></div>
@@ -113,52 +113,100 @@ $(document).ready(function(){initNavTree('algorithm_8hpp_source.html',''); initR
 <div class="line"><a name="l00018"></a><span class="lineno">   18</span>&#160; </div>
 <div class="line"><a name="l00019"></a><span class="lineno">   19</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="system_8hpp.html">openjij/system/system.hpp</a>&quot;</span></div>
 <div class="line"><a name="l00020"></a><span class="lineno">   20</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="schedule__list_8hpp.html">openjij/utility/schedule_list.hpp</a>&quot;</span></div>
-<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160; </div>
-<div class="line"><a name="l00022"></a><span class="lineno"><a class="line" href="namespaceopenjij.html">   22</a></span>&#160;<span class="keyword">namespace </span><a class="code" href="namespaceopenjij.html">openjij</a> {</div>
-<div class="line"><a name="l00023"></a><span class="lineno"><a class="line" href="namespaceopenjij_1_1algorithm.html">   23</a></span>&#160;<span class="keyword">namespace </span>algorithm {</div>
-<div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="structopenjij_1_1algorithm_1_1Algorithm.html">   24</a></span>&#160;<span class="keyword">template</span> &lt;<span class="keyword">template</span> &lt;<span class="keyword">typename</span>&gt; <span class="keyword">class </span>Updater&gt; <span class="keyword">struct </span><a class="code" href="structopenjij_1_1algorithm_1_1Algorithm.html">Algorithm</a> {</div>
-<div class="line"><a name="l00025"></a><span class="lineno">   25</span>&#160;  <span class="keyword">template</span> &lt;<span class="keyword">typename</span> System, <span class="keyword">typename</span> RandomNumberEngine&gt;</div>
-<div class="line"><a name="l00026"></a><span class="lineno">   26</span>&#160;  <span class="keyword">static</span> <span class="keywordtype">void</span></div>
-<div class="line"><a name="l00027"></a><span class="lineno"><a class="line" href="structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3">   27</a></span>&#160;  <a class="code" href="structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3">run</a>(System &amp;system, RandomNumberEngine &amp;random_number_engine,</div>
-<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;      <span class="keyword">const</span> <a class="code" href="namespaceopenjij_1_1utility.html#a311abc15ee6ec47d8bd455725c540e04">utility::ScheduleList</a>&lt;</div>
-<div class="line"><a name="l00029"></a><span class="lineno">   29</span>&#160;          <span class="keyword">typename</span> <a class="code" href="structopenjij_1_1system_1_1get__system__type.html#a6225aa0b7e8de6cb74b9f4f64b98dcfa">system::get_system_type&lt;System&gt;::type</a>&gt; &amp;schedule_list,</div>
-<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;      <span class="keyword">const</span> std::function&lt;<span class="keywordtype">void</span>(</div>
-<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;          <span class="keyword">const</span> System &amp;,</div>
-<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;          <span class="keyword">const</span> <a class="code" href="structopenjij_1_1utility_1_1UpdaterParameter.html">utility::UpdaterParameter</a>&lt;</div>
-<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;              <span class="keyword">typename</span> <a class="code" href="structopenjij_1_1system_1_1get__system__type.html#a6225aa0b7e8de6cb74b9f4f64b98dcfa">system::get_system_type&lt;System&gt;::type</a>&gt; &amp;)&gt; &amp;callback =</div>
-<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;          <span class="keyword">nullptr</span>) {</div>
-<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;    <span class="keywordflow">if</span> (callback) {</div>
-<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;      <span class="comment">// with callback</span></div>
-<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;      <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp;&amp;schedule : schedule_list) {</div>
-<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;        <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; schedule.one_mc_step; ++i) {</div>
-<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;          Updater&lt;System&gt;::update(system, random_number_engine,</div>
-<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;                                  schedule.updater_parameter);</div>
-<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;          callback(system, schedule.updater_parameter);</div>
-<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;        }</div>
-<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;      }</div>
-<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;    } <span class="keywordflow">else</span> {</div>
-<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;      <span class="comment">// without callback</span></div>
-<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;      <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp;&amp;schedule : schedule_list) {</div>
-<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;        <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; schedule.one_mc_step; ++i) {</div>
-<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;          Updater&lt;System&gt;::update(system, random_number_engine,</div>
-<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;                                  schedule.updater_parameter);</div>
-<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;        }</div>
-<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;      }</div>
-<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;    }</div>
-<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;  }</div>
-<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;};</div>
-<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160; </div>
-<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;<span class="comment">// type alias (Monte Carlo method)</span></div>
-<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160;<span class="comment">// TODO: Algorithm class will be deprecated shortly.</span></div>
-<div class="line"><a name="l00058"></a><span class="lineno"><a class="line" href="namespaceopenjij_1_1algorithm.html#a92d447fd09fbe02915144cf03d1691e0">   58</a></span>&#160;<span class="keyword">template</span> &lt;<span class="keyword">template</span> &lt;<span class="keyword">typename</span>&gt; <span class="keyword">class </span>Updater&gt; <span class="keyword">using</span> <a class="code" href="structopenjij_1_1algorithm_1_1Algorithm.html">MCMC</a> = <a class="code" href="structopenjij_1_1algorithm_1_1Algorithm.html">Algorithm&lt;Updater&gt;</a>;</div>
-<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160; </div>
-<div class="line"><a name="l00060"></a><span class="lineno">   60</span>&#160;} <span class="comment">// namespace algorithm</span></div>
-<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160;} <span class="comment">// namespace openjij</span></div>
+<div class="line"><a name="l00021"></a><span class="lineno">   21</span>&#160;<span class="preprocessor">#include &quot;<a class="code" href="random_8hpp.html">openjij/utility/random.hpp</a>&quot;</span></div>
+<div class="line"><a name="l00022"></a><span class="lineno">   22</span>&#160; </div>
+<div class="line"><a name="l00023"></a><span class="lineno">   23</span>&#160; </div>
+<div class="line"><a name="l00024"></a><span class="lineno"><a class="line" href="namespaceopenjij.html">   24</a></span>&#160;<span class="keyword">namespace </span><a class="code" href="namespaceopenjij.html">openjij</a> {</div>
+<div class="line"><a name="l00025"></a><span class="lineno"><a class="line" href="namespaceopenjij_1_1algorithm.html">   25</a></span>&#160;<span class="keyword">namespace </span>algorithm {</div>
+<div class="line"><a name="l00026"></a><span class="lineno"><a class="line" href="structopenjij_1_1algorithm_1_1Algorithm.html">   26</a></span>&#160;<span class="keyword">template</span> &lt;<span class="keyword">template</span> &lt;<span class="keyword">typename</span>&gt; <span class="keyword">class </span>Updater&gt; <span class="keyword">struct </span><a class="code" href="structopenjij_1_1algorithm_1_1Algorithm.html">Algorithm</a> {</div>
+<div class="line"><a name="l00027"></a><span class="lineno">   27</span>&#160;  <span class="keyword">template</span> &lt;<span class="keyword">typename</span> System, <span class="keyword">typename</span> RandomNumberEngine&gt;</div>
+<div class="line"><a name="l00028"></a><span class="lineno">   28</span>&#160;  <span class="keyword">static</span> <span class="keywordtype">void</span></div>
+<div class="line"><a name="l00029"></a><span class="lineno"><a class="line" href="structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3">   29</a></span>&#160;  <a class="code" href="structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3">run</a>(System &amp;system, <a class="code" href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604">RandomNumberEngine</a> &amp;random_number_engine,</div>
+<div class="line"><a name="l00030"></a><span class="lineno">   30</span>&#160;      <span class="keyword">const</span> <a class="code" href="namespaceopenjij_1_1utility.html#a311abc15ee6ec47d8bd455725c540e04">utility::ScheduleList</a>&lt;</div>
+<div class="line"><a name="l00031"></a><span class="lineno">   31</span>&#160;          <span class="keyword">typename</span> <a class="code" href="structopenjij_1_1system_1_1get__system__type.html#a6225aa0b7e8de6cb74b9f4f64b98dcfa">system::get_system_type&lt;System&gt;::type</a>&gt; &amp;schedule_list,</div>
+<div class="line"><a name="l00032"></a><span class="lineno">   32</span>&#160;      <span class="keyword">const</span> std::function&lt;<span class="keywordtype">void</span>(</div>
+<div class="line"><a name="l00033"></a><span class="lineno">   33</span>&#160;          <span class="keyword">const</span> System &amp;,</div>
+<div class="line"><a name="l00034"></a><span class="lineno">   34</span>&#160;          <span class="keyword">const</span> <a class="code" href="structopenjij_1_1utility_1_1UpdaterParameter.html">utility::UpdaterParameter</a>&lt;</div>
+<div class="line"><a name="l00035"></a><span class="lineno">   35</span>&#160;              <span class="keyword">typename</span> <a class="code" href="structopenjij_1_1system_1_1get__system__type.html#a6225aa0b7e8de6cb74b9f4f64b98dcfa">system::get_system_type&lt;System&gt;::type</a>&gt; &amp;)&gt; &amp;callback =</div>
+<div class="line"><a name="l00036"></a><span class="lineno">   36</span>&#160;          <span class="keyword">nullptr</span>) {</div>
+<div class="line"><a name="l00037"></a><span class="lineno">   37</span>&#160;    <span class="keywordflow">if</span> (callback) {</div>
+<div class="line"><a name="l00038"></a><span class="lineno">   38</span>&#160;      <span class="comment">// with callback</span></div>
+<div class="line"><a name="l00039"></a><span class="lineno">   39</span>&#160;      <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp;&amp;schedule : schedule_list) {</div>
+<div class="line"><a name="l00040"></a><span class="lineno">   40</span>&#160;        <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; schedule.one_mc_step; ++i) {</div>
+<div class="line"><a name="l00041"></a><span class="lineno">   41</span>&#160;          Updater&lt;System&gt;::update(system, random_number_engine,</div>
+<div class="line"><a name="l00042"></a><span class="lineno">   42</span>&#160;                                  schedule.updater_parameter);</div>
+<div class="line"><a name="l00043"></a><span class="lineno">   43</span>&#160;          callback(system, schedule.updater_parameter);</div>
+<div class="line"><a name="l00044"></a><span class="lineno">   44</span>&#160;        }</div>
+<div class="line"><a name="l00045"></a><span class="lineno">   45</span>&#160;      }</div>
+<div class="line"><a name="l00046"></a><span class="lineno">   46</span>&#160;    } <span class="keywordflow">else</span> {</div>
+<div class="line"><a name="l00047"></a><span class="lineno">   47</span>&#160;      <span class="comment">// without callback</span></div>
+<div class="line"><a name="l00048"></a><span class="lineno">   48</span>&#160;      <span class="keywordflow">for</span> (<span class="keyword">auto</span> &amp;&amp;schedule : schedule_list) {</div>
+<div class="line"><a name="l00049"></a><span class="lineno">   49</span>&#160;        <span class="keywordflow">for</span> (std::size_t i = 0; i &lt; schedule.one_mc_step; ++i) {</div>
+<div class="line"><a name="l00050"></a><span class="lineno">   50</span>&#160;          Updater&lt;System&gt;::update(system, random_number_engine,</div>
+<div class="line"><a name="l00051"></a><span class="lineno">   51</span>&#160;                                  schedule.updater_parameter);</div>
+<div class="line"><a name="l00052"></a><span class="lineno">   52</span>&#160;        }</div>
+<div class="line"><a name="l00053"></a><span class="lineno">   53</span>&#160;      }</div>
+<div class="line"><a name="l00054"></a><span class="lineno">   54</span>&#160;    }</div>
+<div class="line"><a name="l00055"></a><span class="lineno">   55</span>&#160;  }</div>
+<div class="line"><a name="l00056"></a><span class="lineno">   56</span>&#160;};</div>
+<div class="line"><a name="l00057"></a><span class="lineno">   57</span>&#160; </div>
+<div class="line"><a name="l00058"></a><span class="lineno">   58</span>&#160;<span class="comment">// type alias (Monte Carlo method)</span></div>
+<div class="line"><a name="l00059"></a><span class="lineno">   59</span>&#160;<span class="comment">// TODO: Algorithm class will be deprecated shortly.</span></div>
+<div class="line"><a name="l00060"></a><span class="lineno"><a class="line" href="namespaceopenjij_1_1algorithm.html#a92d447fd09fbe02915144cf03d1691e0">   60</a></span>&#160;<span class="keyword">template</span> &lt;<span class="keyword">template</span> &lt;<span class="keyword">typename</span>&gt; <span class="keyword">class </span>Updater&gt; <span class="keyword">using</span> <a class="code" href="structopenjij_1_1algorithm_1_1Algorithm.html">MCMC</a> = <a class="code" href="structopenjij_1_1algorithm_1_1Algorithm.html">Algorithm&lt;Updater&gt;</a>;</div>
+<div class="line"><a name="l00061"></a><span class="lineno">   61</span>&#160; </div>
+<div class="line"><a name="l00062"></a><span class="lineno">   62</span>&#160; </div>
+<div class="line"><a name="l00063"></a><span class="lineno"><a class="line" href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9f">   63</a></span>&#160;<span class="keyword">enum class</span> <a class="code" href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9f">UpdateMethod</a> {</div>
+<div class="line"><a name="l00064"></a><span class="lineno">   64</span>&#160;   </div>
+<div class="line"><a name="l00066"></a><span class="lineno">   66</span>&#160;   <a class="code" href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa927bbbfc6e23f42b7a6d80edade77733">METROPOLIS</a>,</div>
+<div class="line"><a name="l00067"></a><span class="lineno">   67</span>&#160;   </div>
+<div class="line"><a name="l00069"></a><span class="lineno">   69</span>&#160;   <a class="code" href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa52186bba0a3e7af22a70ebb93de1b146">HEAT_BATH</a>,</div>
+<div class="line"><a name="l00070"></a><span class="lineno">   70</span>&#160;      </div>
+<div class="line"><a name="l00071"></a><span class="lineno">   71</span>&#160;};</div>
+<div class="line"><a name="l00072"></a><span class="lineno">   72</span>&#160; </div>
+<div class="line"><a name="l00073"></a><span class="lineno"><a class="line" href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604">   73</a></span>&#160;<span class="keyword">enum class</span> <a class="code" href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604">RandomNumberEngine</a> {</div>
+<div class="line"><a name="l00074"></a><span class="lineno">   74</span>&#160;  </div>
+<div class="line"><a name="l00076"></a><span class="lineno">   76</span>&#160;   <a class="code" href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604a92174a14545bae50d8a83c5e4eac89d3">XORSHIFT</a>,</div>
+<div class="line"><a name="l00077"></a><span class="lineno">   77</span>&#160;   </div>
+<div class="line"><a name="l00079"></a><span class="lineno">   79</span>&#160;   <a class="code" href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604a08ad08f6491037714d09263a79bebfba">MT</a>,</div>
+<div class="line"><a name="l00080"></a><span class="lineno">   80</span>&#160;   </div>
+<div class="line"><a name="l00082"></a><span class="lineno">   82</span>&#160;   <a class="code" href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604ae138e7f0ff230944b268b31a0b827cbe">MT_64</a></div>
+<div class="line"><a name="l00083"></a><span class="lineno">   83</span>&#160;   </div>
+<div class="line"><a name="l00084"></a><span class="lineno">   84</span>&#160;};</div>
+<div class="line"><a name="l00085"></a><span class="lineno">   85</span>&#160; </div>
+<div class="line"><a name="l00086"></a><span class="lineno">   86</span>&#160; </div>
+<div class="line"><a name="l00087"></a><span class="lineno">   87</span>&#160;std::variant&lt;utility::Xorshift, std::mt19937, std::mt19937_64&gt;</div>
+<div class="line"><a name="l00088"></a><span class="lineno"><a class="line" href="namespaceopenjij_1_1algorithm.html#aeae5e1197c7b64ce9ec56a0cc6c2c7f0">   88</a></span>&#160;<a class="code" href="namespaceopenjij_1_1algorithm.html#aeae5e1197c7b64ce9ec56a0cc6c2c7f0">GenerateRandomNumberEngineClass</a>(<span class="keyword">const</span> <a class="code" href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604">RandomNumberEngine</a> random_number_engine) {</div>
+<div class="line"><a name="l00089"></a><span class="lineno">   89</span>&#160;   <span class="keywordflow">if</span> (random_number_engine == <a class="code" href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604a92174a14545bae50d8a83c5e4eac89d3">RandomNumberEngine::XORSHIFT</a>) {</div>
+<div class="line"><a name="l00090"></a><span class="lineno">   90</span>&#160;      <span class="keywordflow">return</span> <a class="code" href="classopenjij_1_1utility_1_1Xorshift.html">utility::Xorshift</a>();</div>
+<div class="line"><a name="l00091"></a><span class="lineno">   91</span>&#160;   }</div>
+<div class="line"><a name="l00092"></a><span class="lineno">   92</span>&#160;   <span class="keywordflow">else</span> <span class="keywordflow">if</span> (random_number_engine == <a class="code" href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604a08ad08f6491037714d09263a79bebfba">RandomNumberEngine::MT</a>) {</div>
+<div class="line"><a name="l00093"></a><span class="lineno">   93</span>&#160;      <span class="keywordflow">return</span> std::mt19937();</div>
+<div class="line"><a name="l00094"></a><span class="lineno">   94</span>&#160;   }</div>
+<div class="line"><a name="l00095"></a><span class="lineno">   95</span>&#160;   <span class="keywordflow">else</span> <span class="keywordflow">if</span> (random_number_engine == <a class="code" href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604a08ad08f6491037714d09263a79bebfba">RandomNumberEngine::MT</a>) {</div>
+<div class="line"><a name="l00096"></a><span class="lineno">   96</span>&#160;      <span class="keywordflow">return</span> std::mt19937_64();</div>
+<div class="line"><a name="l00097"></a><span class="lineno">   97</span>&#160;   }</div>
+<div class="line"><a name="l00098"></a><span class="lineno">   98</span>&#160;   <span class="keywordflow">else</span> {</div>
+<div class="line"><a name="l00099"></a><span class="lineno">   99</span>&#160;      <span class="keywordflow">throw</span> std::runtime_error(<span class="stringliteral">&quot;Unknown RandomNumberEngine&quot;</span>);</div>
+<div class="line"><a name="l00100"></a><span class="lineno">  100</span>&#160;   }</div>
+<div class="line"><a name="l00101"></a><span class="lineno">  101</span>&#160;}</div>
+<div class="line"><a name="l00102"></a><span class="lineno">  102</span>&#160; </div>
+<div class="line"><a name="l00103"></a><span class="lineno">  103</span>&#160;} <span class="comment">// namespace algorithm</span></div>
+<div class="line"><a name="l00104"></a><span class="lineno">  104</span>&#160;} <span class="comment">// namespace openjij</span></div>
+<div class="ttc" id="aclassopenjij_1_1utility_1_1Xorshift_html"><div class="ttname"><a href="classopenjij_1_1utility_1_1Xorshift.html">openjij::utility::Xorshift</a></div><div class="ttdoc">xorshift random generator for c++11 random</div><div class="ttdef"><b>Definition:</b> random.hpp:39</div></div>
+<div class="ttc" id="anamespaceopenjij_1_1algorithm_html_a3c8888ac2e12ec4cfe4488ae5df85d9f"><div class="ttname"><a href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9f">openjij::algorithm::UpdateMethod</a></div><div class="ttdeci">UpdateMethod</div><div class="ttdef"><b>Definition:</b> algorithm.hpp:63</div></div>
+<div class="ttc" id="anamespaceopenjij_1_1algorithm_html_a3c8888ac2e12ec4cfe4488ae5df85d9fa52186bba0a3e7af22a70ebb93de1b146"><div class="ttname"><a href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa52186bba0a3e7af22a70ebb93de1b146">openjij::algorithm::UpdateMethod::HEAT_BATH</a></div><div class="ttdeci">@ HEAT_BATH</div><div class="ttdoc">Heat bath update.</div></div>
+<div class="ttc" id="anamespaceopenjij_1_1algorithm_html_a3c8888ac2e12ec4cfe4488ae5df85d9fa927bbbfc6e23f42b7a6d80edade77733"><div class="ttname"><a href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa927bbbfc6e23f42b7a6d80edade77733">openjij::algorithm::UpdateMethod::METROPOLIS</a></div><div class="ttdeci">@ METROPOLIS</div><div class="ttdoc">Metropolis update.</div></div>
+<div class="ttc" id="anamespaceopenjij_1_1algorithm_html_a4d22db93d01ad33a00e2c853c1c0d604"><div class="ttname"><a href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604">openjij::algorithm::RandomNumberEngine</a></div><div class="ttdeci">RandomNumberEngine</div><div class="ttdef"><b>Definition:</b> algorithm.hpp:73</div></div>
+<div class="ttc" id="anamespaceopenjij_1_1algorithm_html_a4d22db93d01ad33a00e2c853c1c0d604a08ad08f6491037714d09263a79bebfba"><div class="ttname"><a href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604a08ad08f6491037714d09263a79bebfba">openjij::algorithm::RandomNumberEngine::MT</a></div><div class="ttdeci">@ MT</div><div class="ttdoc">32-bit Mersenne Twister</div></div>
+<div class="ttc" id="anamespaceopenjij_1_1algorithm_html_a4d22db93d01ad33a00e2c853c1c0d604a92174a14545bae50d8a83c5e4eac89d3"><div class="ttname"><a href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604a92174a14545bae50d8a83c5e4eac89d3">openjij::algorithm::RandomNumberEngine::XORSHIFT</a></div><div class="ttdeci">@ XORSHIFT</div><div class="ttdoc">32-bit Xorshift</div></div>
+<div class="ttc" id="anamespaceopenjij_1_1algorithm_html_a4d22db93d01ad33a00e2c853c1c0d604ae138e7f0ff230944b268b31a0b827cbe"><div class="ttname"><a href="namespaceopenjij_1_1algorithm.html#a4d22db93d01ad33a00e2c853c1c0d604ae138e7f0ff230944b268b31a0b827cbe">openjij::algorithm::RandomNumberEngine::MT_64</a></div><div class="ttdeci">@ MT_64</div><div class="ttdoc">64-bit Mersenne Twister</div></div>
+<div class="ttc" id="anamespaceopenjij_1_1algorithm_html_aeae5e1197c7b64ce9ec56a0cc6c2c7f0"><div class="ttname"><a href="namespaceopenjij_1_1algorithm.html#aeae5e1197c7b64ce9ec56a0cc6c2c7f0">openjij::algorithm::GenerateRandomNumberEngineClass</a></div><div class="ttdeci">std::variant&lt; utility::Xorshift, std::mt19937, std::mt19937_64 &gt; GenerateRandomNumberEngineClass(const RandomNumberEngine random_number_engine)</div><div class="ttdef"><b>Definition:</b> algorithm.hpp:88</div></div>
 <div class="ttc" id="anamespaceopenjij_1_1utility_html_a311abc15ee6ec47d8bd455725c540e04"><div class="ttname"><a href="namespaceopenjij_1_1utility.html#a311abc15ee6ec47d8bd455725c540e04">openjij::utility::ScheduleList</a></div><div class="ttdeci">std::vector&lt; Schedule&lt; SystemType &gt; &gt; ScheduleList</div><div class="ttdoc">schedule list alias</div><div class="ttdef"><b>Definition:</b> schedule_list.hpp:135</div></div>
-<div class="ttc" id="anamespaceopenjij_html"><div class="ttname"><a href="namespaceopenjij.html">openjij</a></div><div class="ttdef"><b>Definition:</b> algorithm.hpp:22</div></div>
+<div class="ttc" id="anamespaceopenjij_html"><div class="ttname"><a href="namespaceopenjij.html">openjij</a></div><div class="ttdef"><b>Definition:</b> algorithm.hpp:24</div></div>
+<div class="ttc" id="arandom_8hpp_html"><div class="ttname"><a href="random_8hpp.html">random.hpp</a></div></div>
 <div class="ttc" id="aschedule__list_8hpp_html"><div class="ttname"><a href="schedule__list_8hpp.html">schedule_list.hpp</a></div></div>
-<div class="ttc" id="astructopenjij_1_1algorithm_1_1Algorithm_html"><div class="ttname"><a href="structopenjij_1_1algorithm_1_1Algorithm.html">openjij::algorithm::Algorithm</a></div><div class="ttdef"><b>Definition:</b> algorithm.hpp:24</div></div>
-<div class="ttc" id="astructopenjij_1_1algorithm_1_1Algorithm_html_a9bdc85aa8d794ca6318a5de76ed445f3"><div class="ttname"><a href="structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3">openjij::algorithm::Algorithm::run</a></div><div class="ttdeci">static void run(System &amp;system, RandomNumberEngine &amp;random_number_engine, const utility::ScheduleList&lt; typename system::get_system_type&lt; System &gt;::type &gt; &amp;schedule_list, const std::function&lt; void(const System &amp;, const utility::UpdaterParameter&lt; typename system::get_system_type&lt; System &gt;::type &gt; &amp;)&gt; &amp;callback=nullptr)</div><div class="ttdef"><b>Definition:</b> algorithm.hpp:27</div></div>
+<div class="ttc" id="astructopenjij_1_1algorithm_1_1Algorithm_html"><div class="ttname"><a href="structopenjij_1_1algorithm_1_1Algorithm.html">openjij::algorithm::Algorithm</a></div><div class="ttdef"><b>Definition:</b> algorithm.hpp:26</div></div>
+<div class="ttc" id="astructopenjij_1_1algorithm_1_1Algorithm_html_a9bdc85aa8d794ca6318a5de76ed445f3"><div class="ttname"><a href="structopenjij_1_1algorithm_1_1Algorithm.html#a9bdc85aa8d794ca6318a5de76ed445f3">openjij::algorithm::Algorithm::run</a></div><div class="ttdeci">static void run(System &amp;system, RandomNumberEngine &amp;random_number_engine, const utility::ScheduleList&lt; typename system::get_system_type&lt; System &gt;::type &gt; &amp;schedule_list, const std::function&lt; void(const System &amp;, const utility::UpdaterParameter&lt; typename system::get_system_type&lt; System &gt;::type &gt; &amp;)&gt; &amp;callback=nullptr)</div><div class="ttdef"><b>Definition:</b> algorithm.hpp:29</div></div>
 <div class="ttc" id="astructopenjij_1_1system_1_1get__system__type_html_a6225aa0b7e8de6cb74b9f4f64b98dcfa"><div class="ttname"><a href="structopenjij_1_1system_1_1get__system__type.html#a6225aa0b7e8de6cb74b9f4f64b98dcfa">openjij::system::get_system_type::type</a></div><div class="ttdeci">typename System::system_type type</div><div class="ttdef"><b>Definition:</b> system.hpp:77</div></div>
 <div class="ttc" id="astructopenjij_1_1utility_1_1UpdaterParameter_html"><div class="ttname"><a href="structopenjij_1_1utility_1_1UpdaterParameter.html">openjij::utility::UpdaterParameter</a></div><div class="ttdoc">updater parameter for monte carlo simulation</div><div class="ttdef"><b>Definition:</b> schedule_list.hpp:32</div></div>
 <div class="ttc" id="asystem_8hpp_html"><div class="ttname"><a href="system_8hpp.html">system.hpp</a></div></div>
@@ -168,7 +216,7 @@ $(document).ready(function(){initNavTree('algorithm_8hpp_source.html',''); initR
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_d44c64559bbebec7f509842c48db8b23.html">include</a></li><li class="navelem"><a class="el" href="dir_246e4444fc61d0708f4c8e3dabb1b965.html">openjij</a></li><li class="navelem"><a class="el" href="dir_8c33f92ca79641e52848a4a9437e440a.html">algorithm</a></li><li class="navelem"><a class="el" href="algorithm_8hpp.html">algorithm.hpp</a></li>
-    <li class="footer">Generated on Fri Mar 17 2023 03:50:26 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Mon Apr 10 2023 04:32:45 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>

@@ -93,6 +93,7 @@ $(document).ready(function(){initNavTree('schedule__list_8hpp.html',''); initRes
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#namespaces">Namespaces</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">schedule_list.hpp File Reference</div>  </div>
@@ -125,16 +126,17 @@ This graph shows which files directly or indirectly include this file:</div>
 <div class="dyncontent">
 <div class="center"><img src="schedule__list_8hpp__dep__incl.png" border="0" usemap="#aschedule__list_8hppdep" alt=""/></div>
 <map name="aschedule__list_8hppdep" id="aschedule__list_8hppdep">
-<area shape="rect" title=" " alt="" coords="351,5,485,32"/>
-<area shape="rect" href="algorithm_8hpp.html" title=" " alt="" coords="5,87,119,114"/>
-<area shape="rect" href="continuous__time__swendsen__wang_8hpp.html" title=" " alt="" coords="143,80,346,121"/>
-<area shape="rect" href="k__local_8hpp.html" title=" " alt="" coords="370,87,466,114"/>
-<area shape="rect" href="single__spin__flip_8hpp.html" title=" " alt="" coords="491,87,641,114"/>
-<area shape="rect" href="swendsen__wang_8hpp.html" title=" " alt="" coords="666,87,823,114"/>
-<area shape="rect" href="algorithm_2all_8hpp.html" title=" " alt="" coords="162,169,229,196"/>
-<area shape="rect" href="declare_8hpp.html" title=" " alt="" coords="191,244,290,271"/>
-<area shape="rect" href="main_8cpp.html" title=" " alt="" coords="199,319,282,345"/>
-<area shape="rect" href="updater_2all_8hpp.html" title=" " alt="" coords="385,169,451,196"/>
+<area shape="rect" title=" " alt="" coords="187,5,321,32"/>
+<area shape="rect" href="algorithm_8hpp.html" title=" " alt="" coords="43,80,156,107"/>
+<area shape="rect" href="single__spin__flip_8hpp.html" title=" " alt="" coords="24,162,175,189"/>
+<area shape="rect" href="continuous__time__swendsen__wang_8hpp.html" title=" " alt="" coords="199,155,402,196"/>
+<area shape="rect" href="k__local_8hpp.html" title=" " alt="" coords="291,80,387,107"/>
+<area shape="rect" href="swendsen__wang_8hpp.html" title=" " alt="" coords="411,80,569,107"/>
+<area shape="rect" href="algorithm_2all_8hpp.html" title=" " alt="" coords="34,244,101,271"/>
+<area shape="rect" href="declare_8hpp.html" title=" " alt="" coords="151,393,250,420"/>
+<area shape="rect" href="main_8cpp.html" title=" " alt="" coords="159,468,242,495"/>
+<area shape="rect" href="updater_2all_8hpp.html" title=" " alt="" coords="267,244,334,271"/>
+<area shape="rect" href="sa__sampler_8hpp.html" title=" " alt="" coords="239,319,363,345"/>
 </map>
 </div>
 </div>
@@ -187,6 +189,13 @@ Typedefs</h2></td></tr>
 <tr class="memdesc:a604a329ef4c6d289c1fcd4a7ed5a5c5e"><td class="mdescLeft">&#160;</td><td class="mdescRight">ClassicalConstraintScheduleList alias.  <a href="namespaceopenjij_1_1utility.html#a604a329ef4c6d289c1fcd4a7ed5a5c5e">More...</a><br /></td></tr>
 <tr class="separator:a604a329ef4c6d289c1fcd4a7ed5a5c5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a4b524c59b5aed5ea0bd580c36b189576"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576">openjij::utility::TemperatureSchedule</a> { <a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576aaac544aacc3615aada24897a215f5046">openjij::utility::LINEAR</a>
+, <a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576a5202c67f624b4ec6ddd60f69394c80b5">openjij::utility::GEOMETRIC</a>
+ }</td></tr>
+<tr class="separator:a4b524c59b5aed5ea0bd580c36b189576"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
 <tr class="memitem:a39b02ffdcd5820740b292fccbad9d0b5"><td class="memItemLeft" align="right" valign="top">ClassicalScheduleList&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a39b02ffdcd5820740b292fccbad9d0b5">openjij::utility::make_classical_schedule_list</a> (double beta_min, double beta_max, std::size_t one_mc_step, std::size_t num_call_updater)</td></tr>
@@ -202,6 +211,18 @@ Functions</h2></td></tr>
 <tr class="memitem:a1527dee9b9f7dde346fa03263baa048e"><td class="memTemplItemLeft" align="right" valign="top">ScheduleList&lt; SystemType &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a1527dee9b9f7dde346fa03263baa048e">openjij::utility::make_schedule_list</a> (const std::vector&lt; std::pair&lt; typename UpdaterParameter&lt; SystemType &gt;::Tuple, std::size_t &gt;&gt; &amp;tuplelist)</td></tr>
 <tr class="memdesc:a1527dee9b9f7dde346fa03263baa048e"><td class="mdescLeft">&#160;</td><td class="mdescRight">helper function for making schedulelist from list of tuples  <a href="namespaceopenjij_1_1utility.html#a1527dee9b9f7dde346fa03263baa048e">More...</a><br /></td></tr>
 <tr class="separator:a1527dee9b9f7dde346fa03263baa048e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab936d4b81d46ef1061b996955d27dc88"><td class="memTemplParams" colspan="2">template&lt;typename FloatType &gt; </td></tr>
+<tr class="memitem:ab936d4b81d46ef1061b996955d27dc88"><td class="memTemplItemLeft" align="right" valign="top">std::vector&lt; FloatType &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#ab936d4b81d46ef1061b996955d27dc88">openjij::utility::GenerateLinearBetaSchedule</a> (const FloatType beta_min, const FloatType beta_max, const std::int32_t num_sweeps)</td></tr>
+<tr class="memdesc:ab936d4b81d46ef1061b996955d27dc88"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generate linear temperature schedule.  <a href="namespaceopenjij_1_1utility.html#ab936d4b81d46ef1061b996955d27dc88">More...</a><br /></td></tr>
+<tr class="separator:ab936d4b81d46ef1061b996955d27dc88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6118a3ae35f6bd78214ba2ed16ef789b"><td class="memTemplParams" colspan="2">template&lt;typename FloatType &gt; </td></tr>
+<tr class="memitem:a6118a3ae35f6bd78214ba2ed16ef789b"><td class="memTemplItemLeft" align="right" valign="top">std::vector&lt; FloatType &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a6118a3ae35f6bd78214ba2ed16ef789b">openjij::utility::GenerateGeometricBetaSchedule</a> (const FloatType beta_min, const FloatType beta_max, const std::int32_t num_sweeps)</td></tr>
+<tr class="memdesc:a6118a3ae35f6bd78214ba2ed16ef789b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generate geometric temperature schedule.  <a href="namespaceopenjij_1_1utility.html#a6118a3ae35f6bd78214ba2ed16ef789b">More...</a><br /></td></tr>
+<tr class="separator:a6118a3ae35f6bd78214ba2ed16ef789b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a753609c2e2fa25e739dd4215ec597d35"><td class="memTemplParams" colspan="2">template&lt;typename FloatType &gt; </td></tr>
+<tr class="memitem:a753609c2e2fa25e739dd4215ec597d35"><td class="memTemplItemLeft" align="right" valign="top">std::vector&lt; FloatType &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a753609c2e2fa25e739dd4215ec597d35">openjij::utility::GenerateBetaList</a> (const TemperatureSchedule schedule_type, const FloatType beta_min, const FloatType beta_max, const std::int32_t num_sweeps)</td></tr>
+<tr class="memdesc:a753609c2e2fa25e739dd4215ec597d35"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generate temperature schedule from specific schedule.  <a href="namespaceopenjij_1_1utility.html#a753609c2e2fa25e739dd4215ec597d35">More...</a><br /></td></tr>
+<tr class="separator:a753609c2e2fa25e739dd4215ec597d35"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 </div><!-- contents -->
 </div><!-- doc-content -->
@@ -209,7 +230,7 @@ Functions</h2></td></tr>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="dir_d44c64559bbebec7f509842c48db8b23.html">include</a></li><li class="navelem"><a class="el" href="dir_246e4444fc61d0708f4c8e3dabb1b965.html">openjij</a></li><li class="navelem"><a class="el" href="dir_aa75a92fa1cda3a8f176a9fab58f32c0.html">utility</a></li><li class="navelem"><a class="el" href="schedule__list_8hpp.html">schedule_list.hpp</a></li>
-    <li class="footer">Generated on Fri Mar 17 2023 03:50:26 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Mon Apr 10 2023 04:32:46 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>

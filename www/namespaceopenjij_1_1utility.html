@@ -92,6 +92,7 @@ $(document).ready(function(){initNavTree('namespaceopenjij_1_1utility.html','');
   <div class="summary">
 <a href="#nested-classes">Classes</a> &#124;
 <a href="#typedef-members">Typedefs</a> &#124;
+<a href="#enum-members">Enumerations</a> &#124;
 <a href="#func-members">Functions</a> &#124;
 <a href="#var-members">Variables</a>  </div>
   <div class="headertitle">
@@ -112,6 +113,18 @@ Classes</h2></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structopenjij_1_1utility_1_1PairHash.html">PairHash</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">hash class for std::pair  <a href="structopenjij_1_1utility_1_1PairHash.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structopenjij_1_1utility_1_1IndexHash.html">IndexHash</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Hash struct of IndexType.  <a href="structopenjij_1_1utility_1_1IndexHash.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structopenjij_1_1utility_1_1IndexVectorHash.html">IndexVectorHash</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Hash struct of std::vector&lt;AnyIndexType&gt;.  <a href="structopenjij_1_1utility_1_1IndexVectorHash.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structopenjij_1_1utility_1_1VectorHash.html">VectorHash</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Hash struct of std::vector&lt;T&gt;.  <a href="structopenjij_1_1utility_1_1VectorHash.html#details">More...</a><br /></td></tr>
+<tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structopenjij_1_1utility_1_1IndexPairHash.html">IndexPairHash</a></td></tr>
+<tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">Hash struct of std::pair&lt;IndexType&gt;.  <a href="structopenjij_1_1utility_1_1IndexPairHash.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1utility_1_1Xorshift.html">Xorshift</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">xorshift random generator for c++11 random  <a href="classopenjij_1_1utility_1_1Xorshift.html#details">More...</a><br /></td></tr>
@@ -148,6 +161,12 @@ Classes</h2></td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="typedef-members"></a>
 Typedefs</h2></td></tr>
+<tr class="memitem:ad3b42c197cec0cacdaac86821cecf7b1"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#ad3b42c197cec0cacdaac86821cecf7b1">AnyTupleType</a> = std::vector&lt; std::variant&lt; std::int32_t, std::string &gt; &gt;</td></tr>
+<tr class="memdesc:ad3b42c197cec0cacdaac86821cecf7b1"><td class="mdescLeft">&#160;</td><td class="mdescRight">Vector type of integer and string.  <a href="namespaceopenjij_1_1utility.html#ad3b42c197cec0cacdaac86821cecf7b1">More...</a><br /></td></tr>
+<tr class="separator:ad3b42c197cec0cacdaac86821cecf7b1"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a34609aa644bd84935a37aed752cb3bb3"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a34609aa644bd84935a37aed752cb3bb3">IndexType</a> = std::variant&lt; std::int32_t, std::string, <a class="el" href="namespaceopenjij_1_1utility.html#ad3b42c197cec0cacdaac86821cecf7b1">AnyTupleType</a> &gt;</td></tr>
+<tr class="memdesc:a34609aa644bd84935a37aed752cb3bb3"><td class="mdescLeft">&#160;</td><td class="mdescRight">The index type of binary variables.  <a href="namespaceopenjij_1_1utility.html#a34609aa644bd84935a37aed752cb3bb3">More...</a><br /></td></tr>
+<tr class="separator:a34609aa644bd84935a37aed752cb3bb3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:affd90bfb9fc0a6b8339f7ffc7660c263"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#affd90bfb9fc0a6b8339f7ffc7660c263">ClassicalUpdaterParameter</a> = <a class="el" href="structopenjij_1_1utility_1_1UpdaterParameter.html">UpdaterParameter</a>&lt; <a class="el" href="structopenjij_1_1system_1_1classical__system.html">system::classical_system</a> &gt;</td></tr>
 <tr class="memdesc:affd90bfb9fc0a6b8339f7ffc7660c263"><td class="mdescLeft">&#160;</td><td class="mdescRight">ClassicalUpdaterParameter alias.  <a href="namespaceopenjij_1_1utility.html#affd90bfb9fc0a6b8339f7ffc7660c263">More...</a><br /></td></tr>
 <tr class="separator:affd90bfb9fc0a6b8339f7ffc7660c263"><td class="memSeparator" colspan="2">&#160;</td></tr>
@@ -170,6 +189,13 @@ Typedefs</h2></td></tr>
 <tr class="memitem:a604a329ef4c6d289c1fcd4a7ed5a5c5e"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a604a329ef4c6d289c1fcd4a7ed5a5c5e">ClassicalConstraintScheduleList</a> = <a class="el" href="namespaceopenjij_1_1utility.html#a311abc15ee6ec47d8bd455725c540e04">ScheduleList</a>&lt; <a class="el" href="structopenjij_1_1system_1_1classical__constraint__system.html">system::classical_constraint_system</a> &gt;</td></tr>
 <tr class="memdesc:a604a329ef4c6d289c1fcd4a7ed5a5c5e"><td class="mdescLeft">&#160;</td><td class="mdescRight">ClassicalConstraintScheduleList alias.  <a href="namespaceopenjij_1_1utility.html#a604a329ef4c6d289c1fcd4a7ed5a5c5e">More...</a><br /></td></tr>
 <tr class="separator:a604a329ef4c6d289c1fcd4a7ed5a5c5e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="enum-members"></a>
+Enumerations</h2></td></tr>
+<tr class="memitem:a4b524c59b5aed5ea0bd580c36b189576"><td class="memItemLeft" align="right" valign="top">enum class &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576">TemperatureSchedule</a> { <a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576aaac544aacc3615aada24897a215f5046">LINEAR</a>
+, <a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576a5202c67f624b4ec6ddd60f69394c80b5">GEOMETRIC</a>
+ }</td></tr>
+<tr class="separator:a4b524c59b5aed5ea0bd580c36b189576"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
@@ -213,6 +239,18 @@ Functions</h2></td></tr>
 <tr class="memitem:a1527dee9b9f7dde346fa03263baa048e"><td class="memTemplItemLeft" align="right" valign="top"><a class="el" href="namespaceopenjij_1_1utility.html#a311abc15ee6ec47d8bd455725c540e04">ScheduleList</a>&lt; SystemType &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a1527dee9b9f7dde346fa03263baa048e">make_schedule_list</a> (const std::vector&lt; std::pair&lt; typename <a class="el" href="structopenjij_1_1utility_1_1UpdaterParameter.html">UpdaterParameter</a>&lt; SystemType &gt;::Tuple, std::size_t &gt;&gt; &amp;tuplelist)</td></tr>
 <tr class="memdesc:a1527dee9b9f7dde346fa03263baa048e"><td class="mdescLeft">&#160;</td><td class="mdescRight">helper function for making schedulelist from list of tuples  <a href="namespaceopenjij_1_1utility.html#a1527dee9b9f7dde346fa03263baa048e">More...</a><br /></td></tr>
 <tr class="separator:a1527dee9b9f7dde346fa03263baa048e"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ab936d4b81d46ef1061b996955d27dc88"><td class="memTemplParams" colspan="2">template&lt;typename FloatType &gt; </td></tr>
+<tr class="memitem:ab936d4b81d46ef1061b996955d27dc88"><td class="memTemplItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a> &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#ab936d4b81d46ef1061b996955d27dc88">GenerateLinearBetaSchedule</a> (const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a> beta_min, const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a> beta_max, const std::int32_t num_sweeps)</td></tr>
+<tr class="memdesc:ab936d4b81d46ef1061b996955d27dc88"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generate linear temperature schedule.  <a href="namespaceopenjij_1_1utility.html#ab936d4b81d46ef1061b996955d27dc88">More...</a><br /></td></tr>
+<tr class="separator:ab936d4b81d46ef1061b996955d27dc88"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a6118a3ae35f6bd78214ba2ed16ef789b"><td class="memTemplParams" colspan="2">template&lt;typename FloatType &gt; </td></tr>
+<tr class="memitem:a6118a3ae35f6bd78214ba2ed16ef789b"><td class="memTemplItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a> &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a6118a3ae35f6bd78214ba2ed16ef789b">GenerateGeometricBetaSchedule</a> (const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a> beta_min, const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a> beta_max, const std::int32_t num_sweeps)</td></tr>
+<tr class="memdesc:a6118a3ae35f6bd78214ba2ed16ef789b"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generate geometric temperature schedule.  <a href="namespaceopenjij_1_1utility.html#a6118a3ae35f6bd78214ba2ed16ef789b">More...</a><br /></td></tr>
+<tr class="separator:a6118a3ae35f6bd78214ba2ed16ef789b"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:a753609c2e2fa25e739dd4215ec597d35"><td class="memTemplParams" colspan="2">template&lt;typename FloatType &gt; </td></tr>
+<tr class="memitem:a753609c2e2fa25e739dd4215ec597d35"><td class="memTemplItemLeft" align="right" valign="top">std::vector&lt; <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a> &gt;&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1utility.html#a753609c2e2fa25e739dd4215ec597d35">GenerateBetaList</a> (const <a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576">TemperatureSchedule</a> schedule_type, const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a> beta_min, const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a> beta_max, const std::int32_t num_sweeps)</td></tr>
+<tr class="memdesc:a753609c2e2fa25e739dd4215ec597d35"><td class="mdescLeft">&#160;</td><td class="mdescRight">Generate temperature schedule from specific schedule.  <a href="namespaceopenjij_1_1utility.html#a753609c2e2fa25e739dd4215ec597d35">More...</a><br /></td></tr>
+<tr class="separator:a753609c2e2fa25e739dd4215ec597d35"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="var-members"></a>
 Variables</h2></td></tr>
@@ -221,6 +259,22 @@ Variables</h2></td></tr>
 <tr class="separator:a784190db3844e3438127d2d1ce726e53"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
+<a id="ad3b42c197cec0cacdaac86821cecf7b1"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad3b42c197cec0cacdaac86821cecf7b1">&#9670;&nbsp;</a></span>AnyTupleType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="namespaceopenjij_1_1utility.html#ad3b42c197cec0cacdaac86821cecf7b1">openjij::utility::AnyTupleType</a> = typedef std::vector&lt;std::variant&lt;std::int32_t, std::string&gt; &gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Vector type of integer and string. </p>
+
+</div>
+</div>
 <a id="a604a329ef4c6d289c1fcd4a7ed5a5c5e"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a604a329ef4c6d289c1fcd4a7ed5a5c5e">&#9670;&nbsp;</a></span>ClassicalConstraintScheduleList</h2>
 
@@ -285,6 +339,22 @@ Variables</h2></td></tr>
 
 </div>
 </div>
+<a id="a34609aa644bd84935a37aed752cb3bb3"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a34609aa644bd84935a37aed752cb3bb3">&#9670;&nbsp;</a></span>IndexType</h2>
+
+<div class="memitem">
+<div class="memproto">
+      <table class="memname">
+        <tr>
+          <td class="memname">using <a class="el" href="namespaceopenjij_1_1utility.html#a34609aa644bd84935a37aed752cb3bb3">openjij::utility::IndexType</a> = typedef std::variant&lt;std::int32_t, std::string, <a class="el" href="namespaceopenjij_1_1utility.html#ad3b42c197cec0cacdaac86821cecf7b1">AnyTupleType</a>&gt;</td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>The index type of binary variables. </p>
+
+</div>
+</div>
 <a id="a311abc15ee6ec47d8bd455725c540e04"></a>
 <h2 class="memtitle"><span class="permalink"><a href="#a311abc15ee6ec47d8bd455725c540e04">&#9670;&nbsp;</a></span>ScheduleList</h2>
 
@@ -338,6 +408,35 @@ template&lt;typename SystemType &gt; </div>
 </div><div class="memdoc">
 
 <p>TransverseFieldUpdaterParameter alias. </p>
+
+</div>
+</div>
+<h2 class="groupheader">Enumeration Type Documentation</h2>
+<a id="a4b524c59b5aed5ea0bd580c36b189576"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a4b524c59b5aed5ea0bd580c36b189576">&#9670;&nbsp;</a></span>TemperatureSchedule</h2>
+
+<div class="memitem">
+<div class="memproto">
+<table class="mlabels">
+  <tr>
+  <td class="mlabels-left">
+      <table class="memname">
+        <tr>
+          <td class="memname">enum <a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576">openjij::utility::TemperatureSchedule</a></td>
+        </tr>
+      </table>
+  </td>
+  <td class="mlabels-right">
+<span class="mlabels"><span class="mlabel">strong</span></span>  </td>
+  </tr>
+</table>
+</div><div class="memdoc">
+<table class="fieldtable">
+<tr><th colspan="2">Enumerator</th></tr><tr><td class="fieldname"><a id="a4b524c59b5aed5ea0bd580c36b189576aaac544aacc3615aada24897a215f5046"></a>LINEAR&#160;</td><td class="fielddoc"><p>Linear cooling. </p>
+</td></tr>
+<tr><td class="fieldname"><a id="a4b524c59b5aed5ea0bd580c36b189576a5202c67f624b4ec6ddd60f69394c80b5"></a>GEOMETRIC&#160;</td><td class="fielddoc"><p>Geometric cooling. </p>
+</td></tr>
+</table>
 
 </div>
 </div>
@@ -543,6 +642,219 @@ template&lt;typename FloatType , int Options = Eigen::ColMajor&gt; </div>
   </dd>
 </dl>
 <dl class="section return"><dt>Returns</dt><dd>generated Eigen Vector (init_spin.size()+1 x 1) </dd></dl>
+
+</div>
+</div>
+<a id="a753609c2e2fa25e739dd4215ec597d35"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a753609c2e2fa25e739dd4215ec597d35">&#9670;&nbsp;</a></span>GenerateBetaList()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename FloatType &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a>&gt; openjij::utility::GenerateBetaList </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576">TemperatureSchedule</a>&#160;</td>
+          <td class="paramname"><em>schedule_type</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a>&#160;</td>
+          <td class="paramname"><em>beta_min</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a>&#160;</td>
+          <td class="paramname"><em>beta_max</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::int32_t&#160;</td>
+          <td class="paramname"><em>num_sweeps</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Generate temperature schedule from specific schedule. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">FloatType</td><td>Floating point type </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">schedule_type</td><td>The type of temperature schedule </td></tr>
+    <tr><td class="paramname">beta_min</td><td>The minimum value of inverse temperature </td></tr>
+    <tr><td class="paramname">beta_max</td><td>The maximum value of inverse temperature </td></tr>
+    <tr><td class="paramname">num_sweeps</td><td>The number of sweeps </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Temperature schedule </dd></dl>
+
+<p class="reference">References <a class="el" href="namespaceopenjij_1_1utility.html#a6118a3ae35f6bd78214ba2ed16ef789b">GenerateGeometricBetaSchedule()</a>, <a class="el" href="namespaceopenjij_1_1utility.html#ab936d4b81d46ef1061b996955d27dc88">GenerateLinearBetaSchedule()</a>, <a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576a5202c67f624b4ec6ddd60f69394c80b5">GEOMETRIC</a>, and <a class="el" href="namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576aaac544aacc3615aada24897a215f5046">LINEAR</a>.</p>
+
+<p class="reference">Referenced by <a class="el" href="classopenjij_1_1sampler_1_1SASampler.html#ac358830d31901130a80170df53a8dfd5">openjij::sampler::SASampler&lt; ModelType &gt;::TemplateSampler()</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_1_1utility_a753609c2e2fa25e739dd4215ec597d35_cgraph.png" border="0" usemap="#anamespaceopenjij_1_1utility_a753609c2e2fa25e739dd4215ec597d35_cgraph" alt=""/></div>
+<map name="anamespaceopenjij_1_1utility_a753609c2e2fa25e739dd4215ec597d35_cgraph" id="anamespaceopenjij_1_1utility_a753609c2e2fa25e739dd4215ec597d35_cgraph">
+<area shape="rect" title="Generate temperature schedule from specific schedule." alt="" coords="5,39,184,80"/>
+<area shape="rect" href="namespaceopenjij_1_1utility.html#a6118a3ae35f6bd78214ba2ed16ef789b" title="Generate geometric temperature schedule." alt="" coords="232,5,411,47"/>
+<area shape="rect" href="namespaceopenjij_1_1utility.html#ab936d4b81d46ef1061b996955d27dc88" title="Generate linear temperature schedule." alt="" coords="232,71,411,112"/>
+</map>
+</div>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_1_1utility_a753609c2e2fa25e739dd4215ec597d35_icgraph.png" border="0" usemap="#anamespaceopenjij_1_1utility_a753609c2e2fa25e739dd4215ec597d35_icgraph" alt=""/></div>
+<map name="anamespaceopenjij_1_1utility_a753609c2e2fa25e739dd4215ec597d35_icgraph" id="anamespaceopenjij_1_1utility_a753609c2e2fa25e739dd4215ec597d35_icgraph">
+<area shape="rect" title="Generate temperature schedule from specific schedule." alt="" coords="260,5,439,47"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1SASampler.html#ac358830d31901130a80170df53a8dfd5" title=" " alt="" coords="5,5,212,47"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="a6118a3ae35f6bd78214ba2ed16ef789b"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#a6118a3ae35f6bd78214ba2ed16ef789b">&#9670;&nbsp;</a></span>GenerateGeometricBetaSchedule()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename FloatType &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a>&gt; openjij::utility::GenerateGeometricBetaSchedule </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a>&#160;</td>
+          <td class="paramname"><em>beta_min</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a>&#160;</td>
+          <td class="paramname"><em>beta_max</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::int32_t&#160;</td>
+          <td class="paramname"><em>num_sweeps</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Generate geometric temperature schedule. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">FloatType</td><td>Floating point type </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">beta_min</td><td>The minimum value of inverse temperature </td></tr>
+    <tr><td class="paramname">beta_max</td><td>The maximum value of inverse temperature </td></tr>
+    <tr><td class="paramname">num_sweeps</td><td>The number of sweeps </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Geometric temperature schedule </dd></dl>
+
+<p class="reference">Referenced by <a class="el" href="namespaceopenjij_1_1utility.html#a753609c2e2fa25e739dd4215ec597d35">GenerateBetaList()</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_1_1utility_a6118a3ae35f6bd78214ba2ed16ef789b_icgraph.png" border="0" usemap="#anamespaceopenjij_1_1utility_a6118a3ae35f6bd78214ba2ed16ef789b_icgraph" alt=""/></div>
+<map name="anamespaceopenjij_1_1utility_a6118a3ae35f6bd78214ba2ed16ef789b_icgraph" id="anamespaceopenjij_1_1utility_a6118a3ae35f6bd78214ba2ed16ef789b_icgraph">
+<area shape="rect" title="Generate geometric temperature schedule." alt="" coords="487,5,665,47"/>
+<area shape="rect" href="namespaceopenjij_1_1utility.html#a753609c2e2fa25e739dd4215ec597d35" title="Generate temperature schedule from specific schedule." alt="" coords="260,5,439,47"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1SASampler.html#ac358830d31901130a80170df53a8dfd5" title=" " alt="" coords="5,5,212,47"/>
+</map>
+</div>
+
+</div>
+</div>
+<a id="ab936d4b81d46ef1061b996955d27dc88"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ab936d4b81d46ef1061b996955d27dc88">&#9670;&nbsp;</a></span>GenerateLinearBetaSchedule()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;typename FloatType &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">std::vector&lt;<a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a>&gt; openjij::utility::GenerateLinearBetaSchedule </td>
+          <td>(</td>
+          <td class="paramtype">const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a>&#160;</td>
+          <td class="paramname"><em>beta_min</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3">FloatType</a>&#160;</td>
+          <td class="paramname"><em>beta_max</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::int32_t&#160;</td>
+          <td class="paramname"><em>num_sweeps</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p>Generate linear temperature schedule. </p>
+<dl class="tparams"><dt>Template Parameters</dt><dd>
+  <table class="tparams">
+    <tr><td class="paramname">FloatType</td><td>Floating point type </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="params"><dt>Parameters</dt><dd>
+  <table class="params">
+    <tr><td class="paramname">beta_min</td><td>The minimum value of inverse temperature </td></tr>
+    <tr><td class="paramname">beta_max</td><td>The maximum value of inverse temperature </td></tr>
+    <tr><td class="paramname">num_sweeps</td><td>The number of sweeps </td></tr>
+  </table>
+  </dd>
+</dl>
+<dl class="section return"><dt>Returns</dt><dd>Linear temperature schedule </dd></dl>
+
+<p class="reference">Referenced by <a class="el" href="namespaceopenjij_1_1utility.html#a753609c2e2fa25e739dd4215ec597d35">GenerateBetaList()</a>.</p>
+<div class="dynheader">
+Here is the caller graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_1_1utility_ab936d4b81d46ef1061b996955d27dc88_icgraph.png" border="0" usemap="#anamespaceopenjij_1_1utility_ab936d4b81d46ef1061b996955d27dc88_icgraph" alt=""/></div>
+<map name="anamespaceopenjij_1_1utility_ab936d4b81d46ef1061b996955d27dc88_icgraph" id="anamespaceopenjij_1_1utility_ab936d4b81d46ef1061b996955d27dc88_icgraph">
+<area shape="rect" title="Generate linear temperature schedule." alt="" coords="487,5,665,47"/>
+<area shape="rect" href="namespaceopenjij_1_1utility.html#a753609c2e2fa25e739dd4215ec597d35" title="Generate temperature schedule from specific schedule." alt="" coords="260,5,439,47"/>
+<area shape="rect" href="classopenjij_1_1sampler_1_1SASampler.html#ac358830d31901130a80170df53a8dfd5" title=" " alt="" coords="5,5,212,47"/>
+</map>
+</div>
 
 </div>
 </div>
@@ -933,7 +1245,7 @@ template&lt;typename FloatType &gt; </div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceopenjij.html">openjij</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1utility.html">utility</a></li>
-    <li class="footer">Generated on Fri Mar 17 2023 03:50:26 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Mon Apr 10 2023 04:32:46 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>

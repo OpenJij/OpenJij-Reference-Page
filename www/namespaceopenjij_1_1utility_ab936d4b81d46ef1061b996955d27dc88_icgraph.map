@@ -1,0 +1,5 @@
+<map id="openjij::utility::GenerateLinearBetaSchedule" name="openjij::utility::GenerateLinearBetaSchedule">
+<area shape="rect" id="node1" title="Generate linear temperature schedule." alt="" coords="487,5,665,47"/>
+<area shape="rect" id="node2" href="$namespaceopenjij_1_1utility.html#a753609c2e2fa25e739dd4215ec597d35" title="Generate temperature schedule from specific schedule." alt="" coords="260,5,439,47"/>
+<area shape="rect" id="node3" href="$classopenjij_1_1sampler_1_1SASampler.html#ac358830d31901130a80170df53a8dfd5" title=" " alt="" coords="5,5,212,47"/>
+</map>

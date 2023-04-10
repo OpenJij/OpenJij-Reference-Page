@@ -15,7 +15,14 @@ var files_dup =
     [ "base_gpu_chimera.py", "base__gpu__chimera_8py.html", [
       [ "BaseGPUChimeraSampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1base__gpu__chimera_1_1BaseGPUChimeraSampler.html", "classopenjij_1_1sampler_1_1chimera__gpu_1_1base__gpu__chimera_1_1BaseGPUChimeraSampler" ]
     ] ],
+    [ "base_sa_sample_hubo.py", "base__sa__sample__hubo_8py.html", "base__sa__sample__hubo_8py" ],
     [ "benchmark.py", "benchmark_8py.html", "benchmark_8py" ],
+    [ "binary_polynomial_model.hpp", "binary__polynomial__model_8hpp.html", [
+      [ "BinaryPolynomialModel", "classopenjij_1_1graph_1_1BinaryPolynomialModel.html", "classopenjij_1_1graph_1_1BinaryPolynomialModel" ]
+    ] ],
+    [ "binary_polynomial_sa_system.hpp", "binary__polynomial__sa__system_8hpp.html", [
+      [ "SASystem< graph::BinaryPolynomialModel< FloatType >, RandType >", "classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html", "classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4" ]
+    ] ],
     [ "chimera.hpp", "chimera_8hpp.html", "chimera_8hpp" ],
     [ "chimera_gpu_classical.hpp", "chimera__gpu__classical_8hpp.html", null ],
     [ "chimera_gpu_transverse.hpp", "chimera__gpu__transverse_8hpp.html", null ],
@@ -37,6 +44,7 @@ var files_dup =
       [ "CSRSparse", "classopenjij_1_1graph_1_1CSRSparse.html", "classopenjij_1_1graph_1_1CSRSparse" ]
     ] ],
     [ "cublas.hpp", "cublas_8hpp.html", null ],
+    [ "cxx_cast.py", "cxx__cast_8py.html", "cxx__cast_8py" ],
     [ "declare.hpp", "declare_8hpp.html", "declare_8hpp" ],
     [ "decorator.py", "decorator_8py.html", "decorator_8py" ],
     [ "dense.hpp", "dense_8hpp.html", [
@@ -57,7 +65,14 @@ var files_dup =
     [ "graph_utils.py", "graph__utils_8py.html", "graph__utils_8py" ],
     [ "handle_error.hpp", "handle__error_8hpp.html", null ],
     [ "index.hpp", "index_8hpp.html", null ],
+    [ "index_type.hpp", "index__type_8hpp.html", "index__type_8hpp" ],
     [ "insert_or_assign.hpp", "insert__or__assign_8hpp.html", "insert__or__assign_8hpp" ],
+    [ "ising_polynomial_model.hpp", "ising__polynomial__model_8hpp.html", [
+      [ "IsingPolynomialModel", "classopenjij_1_1graph_1_1IsingPolynomialModel.html", "classopenjij_1_1graph_1_1IsingPolynomialModel" ]
+    ] ],
+    [ "ising_polynomial_sa_system.hpp", "ising__polynomial__sa__system_8hpp.html", [
+      [ "SASystem< graph::IsingPolynomialModel< FloatType >, RandType >", "classopenjij_1_1system_1_1SASystem_3_01graph_1_1IsingPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html", "classopenjij_1_1system_1_1SASystem_3_01graph_1_1IsingPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4" ]
+    ] ],
     [ "k_local.hpp", "k__local_8hpp.html", [
       [ "KLocal< system::KLocalPolynomial< GraphType > >", "structopenjij_1_1updater_1_1KLocal_3_01system_1_1KLocalPolynomial_3_01GraphType_01_4_01_4.html", "structopenjij_1_1updater_1_1KLocal_3_01system_1_1KLocalPolynomial_3_01GraphType_01_4_01_4" ]
     ] ],
@@ -69,7 +84,11 @@ var files_dup =
     [ "memory.hpp", "memory_8hpp.html", "memory_8hpp" ],
     [ "model.py", "model_8py.html", "model_8py" ],
     [ "pairhash.hpp", "pairhash_8hpp.html", [
-      [ "PairHash", "structopenjij_1_1utility_1_1PairHash.html", "structopenjij_1_1utility_1_1PairHash" ]
+      [ "PairHash", "structopenjij_1_1utility_1_1PairHash.html", "structopenjij_1_1utility_1_1PairHash" ],
+      [ "IndexHash", "structopenjij_1_1utility_1_1IndexHash.html", "structopenjij_1_1utility_1_1IndexHash" ],
+      [ "IndexVectorHash", "structopenjij_1_1utility_1_1IndexVectorHash.html", "structopenjij_1_1utility_1_1IndexVectorHash" ],
+      [ "VectorHash", "structopenjij_1_1utility_1_1VectorHash.html", "structopenjij_1_1utility_1_1VectorHash" ],
+      [ "IndexPairHash", "structopenjij_1_1utility_1_1IndexPairHash.html", "structopenjij_1_1utility_1_1IndexPairHash" ]
     ] ],
     [ "parse.hpp", "parse_8hpp.html", "parse_8hpp" ],
     [ "polynomial.hpp", "polynomial_8hpp.html", [
@@ -82,14 +101,12 @@ var files_dup =
     [ "response.py", "response_8py.html", [
       [ "Response", "classopenjij_1_1sampler_1_1response_1_1Response.html", "classopenjij_1_1sampler_1_1response_1_1Response" ]
     ] ],
+    [ "sa_sampler.hpp", "sa__sampler_8hpp.html", "sa__sampler_8hpp" ],
     [ "sa_sampler.py", "sa__sampler_8py.html", "sa__sampler_8py" ],
+    [ "sa_system.hpp", "sa__system_8hpp.html", null ],
     [ "sampler.py", "sampler_8py.html", "sampler_8py" ],
     [ "schedule_list.hpp", "schedule__list_8hpp.html", "schedule__list_8hpp" ],
-    [ "single_spin_flip.hpp", "single__spin__flip_8hpp.html", [
-      [ "SingleSpinFlip< system::ClassicalIsing< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4" ],
-      [ "SingleSpinFlip< system::TransverseIsing< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4" ],
-      [ "SingleSpinFlip< system::ClassicalIsingPolynomial< GraphType > >", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsingPolynomial_3_01GraphType_01_4_01_4.html", "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsingPolynomial_3_01GraphType_01_4_01_4" ]
-    ] ],
+    [ "single_spin_flip.hpp", "single__spin__flip_8hpp.html", "single__spin__flip_8hpp" ],
     [ "sparse.hpp", "sparse_8hpp.html", [
       [ "Sparse", "classopenjij_1_1graph_1_1Sparse.html", "classopenjij_1_1graph_1_1Sparse" ]
     ] ],

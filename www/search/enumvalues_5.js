@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['n_1131',['n',['../structfmath_1_1local_1_1ExpVar.html#a759d39f57b94e755539475f42109b634a8536b5a252f83b511b30cd9995ceea36',1,'fmath::local::ExpVar']]],
-  ['n_1132',['N',['../classfmath_1_1PowGenerator.html#af17be4f07563d304adf5c87f3ec1bc3da5e456395c2ec33e7e81ae2684c4efa15',1,'fmath::PowGenerator']]]
+  ['len_1369',['LEN',['../structfmath_1_1local_1_1LogVar.html#a5ad9a228a44e9c301552f791d22c1448a9cd92b10a14da1491d2ee11b1b990ba5',1,'fmath::local::LogVar']]],
+  ['linear_1370',['LINEAR',['../namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576aaac544aacc3615aada24897a215f5046',1,'openjij::utility']]]
 ];

@@ -11,6 +11,13 @@ var schedule__list_8hpp =
     [ "ScheduleList", "schedule__list_8hpp.html#a311abc15ee6ec47d8bd455725c540e04", null ],
     [ "TransverseFieldScheduleList", "schedule__list_8hpp.html#ad1b7a7bfc2e4acf02ac168074c029ec1", null ],
     [ "TransverseFieldUpdaterParameter", "schedule__list_8hpp.html#ace2d989b402cff3eacafc7611cfc027e", null ],
+    [ "TemperatureSchedule", "schedule__list_8hpp.html#a4b524c59b5aed5ea0bd580c36b189576", [
+      [ "LINEAR", "schedule__list_8hpp.html#a4b524c59b5aed5ea0bd580c36b189576aaac544aacc3615aada24897a215f5046", null ],
+      [ "GEOMETRIC", "schedule__list_8hpp.html#a4b524c59b5aed5ea0bd580c36b189576a5202c67f624b4ec6ddd60f69394c80b5", null ]
+    ] ],
+    [ "GenerateBetaList", "schedule__list_8hpp.html#a753609c2e2fa25e739dd4215ec597d35", null ],
+    [ "GenerateGeometricBetaSchedule", "schedule__list_8hpp.html#a6118a3ae35f6bd78214ba2ed16ef789b", null ],
+    [ "GenerateLinearBetaSchedule", "schedule__list_8hpp.html#ab936d4b81d46ef1061b996955d27dc88", null ],
     [ "make_classical_constraint_schedule_list", "schedule__list_8hpp.html#aed53c62a9024fd673cf554c62da423f7", null ],
     [ "make_classical_schedule_list", "schedule__list_8hpp.html#a39b02ffdcd5820740b292fccbad9d0b5", null ],
     [ "make_schedule_list", "schedule__list_8hpp.html#a1527dee9b9f7dde346fa03263baa048e", null ],

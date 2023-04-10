@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['s_1135',['s',['../structfmath_1_1local_1_1ExpVar.html#a759d39f57b94e755539475f42109b634a120aaee66c4645deef86705ea2f65688',1,'fmath::local::ExpVar::s()'],['../structfmath_1_1local_1_1ExpdVar.html#a715757528a9fbd8ac26b234f7bf84795a7de0ba50d33a4b29f58d5afb1a4cd78e',1,'fmath::local::ExpdVar::s()']]],
-  ['sbit_1136',['sbit',['../structfmath_1_1local_1_1ExpdVar.html#a715757528a9fbd8ac26b234f7bf84795a0ebeab25d9d6c0228765e0f4534e3946',1,'fmath::local::ExpdVar']]]
+  ['n_1376',['N',['../classfmath_1_1PowGenerator.html#af17be4f07563d304adf5c87f3ec1bc3da5e456395c2ec33e7e81ae2684c4efa15',1,'fmath::PowGenerator']]],
+  ['n_1377',['n',['../structfmath_1_1local_1_1ExpVar.html#a759d39f57b94e755539475f42109b634a8536b5a252f83b511b30cd9995ceea36',1,'fmath::local::ExpVar']]]
 ];

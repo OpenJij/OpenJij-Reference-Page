@@ -1,23 +1,26 @@
 <map id="pairhash.hpp" name="pairhash.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="412,5,519,32"/>
-<area shape="rect" id="node2" href="$sparse_8hpp.html" title=" " alt="" coords="419,80,512,107"/>
-<area shape="rect" id="node3" href="$graph_2all_8hpp.html" title=" " alt="" coords="432,229,499,256"/>
-<area shape="rect" id="node20" href="$chimera_8hpp.html" title=" " alt="" coords="414,155,517,181"/>
-<area shape="rect" id="node21" href="$square_8hpp.html" title=" " alt="" coords="541,155,635,181"/>
-<area shape="rect" id="node4" href="$get__solution_8hpp.html" title=" " alt="" coords="121,543,252,569"/>
-<area shape="rect" id="node6" href="$declare_8hpp.html" title=" " alt="" coords="204,692,303,719"/>
-<area shape="rect" id="node8" href="$classical__ising_8hpp.html" title=" " alt="" coords="525,379,669,405"/>
-<area shape="rect" id="node13" href="$classical__ising__polynomial_8hpp.html" title=" " alt="" coords="204,304,428,331"/>
-<area shape="rect" id="node14" href="$continuous__time__ising_8hpp.html" title=" " alt="" coords="694,379,890,405"/>
-<area shape="rect" id="node15" href="$continuous__time__swendsen__wang_8hpp.html" title=" " alt="" coords="704,453,907,495"/>
-<area shape="rect" id="node16" href="$k__local__polynomial_8hpp.html" title=" " alt="" coords="93,379,269,405"/>
-<area shape="rect" id="node18" href="$transverse__ising_8hpp.html" title=" " alt="" coords="344,379,501,405"/>
-<area shape="rect" id="node19" href="$eigen_8hpp.html" title=" " alt="" coords="554,304,641,331"/>
-<area shape="rect" id="node5" href="$result_2all_8hpp.html" title=" " alt="" coords="169,617,236,644"/>
-<area shape="rect" id="node7" href="$main_8cpp.html" title=" " alt="" coords="212,767,295,793"/>
-<area shape="rect" id="node9" href="$system_2all_8hpp.html" title=" " alt="" coords="256,461,323,487"/>
-<area shape="rect" id="node10" href="$single__spin__flip_8hpp.html" title=" " alt="" coords="347,461,498,487"/>
-<area shape="rect" id="node12" href="$swendsen__wang_8hpp.html" title=" " alt="" coords="523,461,680,487"/>
-<area shape="rect" id="node11" href="$updater_2all_8hpp.html" title=" " alt="" coords="389,543,456,569"/>
-<area shape="rect" id="node17" href="$k__local_8hpp.html" title=" " alt="" coords="135,461,231,487"/>
+<area shape="rect" id="node1" title=" " alt="" coords="307,5,413,32"/>
+<area shape="rect" id="node2" href="$binary__polynomial__model_8hpp.html" title=" " alt="" coords="104,155,323,181"/>
+<area shape="rect" id="node21" href="$polynomial_8hpp.html" title="Graph class to represent polynomial unconstrained binary model or Ising model with polynomial interac..." alt="" coords="299,80,421,107"/>
+<area shape="rect" id="node22" href="$sparse_8hpp.html" title=" " alt="" coords="464,80,557,107"/>
+<area shape="rect" id="node3" href="$graph_2all_8hpp.html" title=" " alt="" coords="412,229,479,256"/>
+<area shape="rect" id="node4" href="$get__solution_8hpp.html" title=" " alt="" coords="56,543,187,569"/>
+<area shape="rect" id="node6" href="$declare_8hpp.html" title=" " alt="" coords="175,692,273,719"/>
+<area shape="rect" id="node8" href="$sa__sampler_8hpp.html" title=" " alt="" coords="370,617,494,644"/>
+<area shape="rect" id="node9" href="$classical__ising_8hpp.html" title=" " alt="" coords="325,379,469,405"/>
+<area shape="rect" id="node14" href="$classical__ising__polynomial_8hpp.html" title=" " alt="" coords="93,304,317,331"/>
+<area shape="rect" id="node15" href="$continuous__time__ising_8hpp.html" title=" " alt="" coords="694,379,890,405"/>
+<area shape="rect" id="node16" href="$continuous__time__swendsen__wang_8hpp.html" title=" " alt="" coords="715,453,917,495"/>
+<area shape="rect" id="node17" href="$k__local__polynomial_8hpp.html" title=" " alt="" coords="493,379,669,405"/>
+<area shape="rect" id="node19" href="$transverse__ising_8hpp.html" title=" " alt="" coords="144,379,301,405"/>
+<area shape="rect" id="node20" href="$eigen_8hpp.html" title=" " alt="" coords="443,304,530,331"/>
+<area shape="rect" id="node5" href="$result_2all_8hpp.html" title=" " alt="" coords="104,617,171,644"/>
+<area shape="rect" id="node7" href="$main_8cpp.html" title=" " alt="" coords="183,767,265,793"/>
+<area shape="rect" id="node10" href="$system_2all_8hpp.html" title=" " alt="" coords="147,461,213,487"/>
+<area shape="rect" id="node11" href="$single__spin__flip_8hpp.html" title=" " alt="" coords="238,461,389,487"/>
+<area shape="rect" id="node13" href="$swendsen__wang_8hpp.html" title=" " alt="" coords="413,461,571,487"/>
+<area shape="rect" id="node12" href="$updater_2all_8hpp.html" title=" " alt="" coords="405,543,472,569"/>
+<area shape="rect" id="node18" href="$k__local_8hpp.html" title=" " alt="" coords="595,461,691,487"/>
+<area shape="rect" id="node23" href="$chimera_8hpp.html" title=" " alt="" coords="569,155,671,181"/>
+<area shape="rect" id="node24" href="$square_8hpp.html" title=" " alt="" coords="398,155,493,181"/>
 </map>

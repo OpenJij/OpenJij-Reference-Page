@@ -90,7 +90,8 @@ $(document).ready(function(){initNavTree('namespaceopenjij_1_1updater.html','');
 
 <div class="header">
   <div class="summary">
-<a href="#nested-classes">Classes</a>  </div>
+<a href="#nested-classes">Classes</a> &#124;
+<a href="#func-members">Functions</a>  </div>
   <div class="headertitle">
 <div class="title">openjij::updater Namespace Reference</div>  </div>
 </div><!--header-->
@@ -133,14 +134,81 @@ Classes</h2></td></tr>
 <tr class="memitem:"><td class="memItemLeft" align="right" valign="top">struct &#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4_01_4.html">SwendsenWang&lt; system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt; &gt;</a></td></tr>
 <tr class="memdesc:"><td class="mdescLeft">&#160;</td><td class="mdescRight">swendsen wang updater for classical ising model (on CSR Sparse graph)  <a href="structopenjij_1_1updater_1_1SwendsenWang_3_01system_1_1ClassicalIsing_3_01graph_1_1CSRSparse_3_01FloatType_01_4_01_4_01_4.html#details">More...</a><br /></td></tr>
 <tr class="separator:"><td class="memSeparator" colspan="2">&#160;</td></tr>
+</table><table class="memberdecls">
+<tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
+Functions</h2></td></tr>
+<tr class="memitem:ae498c1a5cd2b056d9637f8975aa0aace"><td class="memTemplParams" colspan="2">template&lt;class SystemType , typename RandType &gt; </td></tr>
+<tr class="memitem:ae498c1a5cd2b056d9637f8975aa0aace"><td class="memTemplItemLeft" align="right" valign="top">void&#160;</td><td class="memTemplItemRight" valign="bottom"><a class="el" href="namespaceopenjij_1_1updater.html#ae498c1a5cd2b056d9637f8975aa0aace">SingleFlipUpdater</a> (SystemType *system, const std::int32_t num_sweeps, const std::vector&lt; typename SystemType::ValueType &gt; &amp;beta_list, const typename RandType::result_type seed, const <a class="el" href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9f">algorithm::UpdateMethod</a> update_metod)</td></tr>
+<tr class="separator:ae498c1a5cd2b056d9637f8975aa0aace"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
+<h2 class="groupheader">Function Documentation</h2>
+<a id="ae498c1a5cd2b056d9637f8975aa0aace"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ae498c1a5cd2b056d9637f8975aa0aace">&#9670;&nbsp;</a></span>SingleFlipUpdater()</h2>
+
+<div class="memitem">
+<div class="memproto">
+<div class="memtemplate">
+template&lt;class SystemType , typename RandType &gt; </div>
+      <table class="memname">
+        <tr>
+          <td class="memname">void openjij::updater::SingleFlipUpdater </td>
+          <td>(</td>
+          <td class="paramtype">SystemType *&#160;</td>
+          <td class="paramname"><em>system</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::int32_t&#160;</td>
+          <td class="paramname"><em>num_sweeps</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const std::vector&lt; typename SystemType::ValueType &gt; &amp;&#160;</td>
+          <td class="paramname"><em>beta_list</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const typename RandType::result_type&#160;</td>
+          <td class="paramname"><em>seed</em>, </td>
+        </tr>
+        <tr>
+          <td class="paramkey"></td>
+          <td></td>
+          <td class="paramtype">const <a class="el" href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9f">algorithm::UpdateMethod</a>&#160;</td>
+          <td class="paramname"><em>update_metod</em>&#160;</td>
+        </tr>
+        <tr>
+          <td></td>
+          <td>)</td>
+          <td></td><td></td>
+        </tr>
+      </table>
+</div><div class="memdoc">
+
+<p class="reference">References <a class="el" href="namespacefmath.html#affa4ce71de9b2037b529ee4465f34d5f">fmath::exp()</a>, <a class="el" href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa52186bba0a3e7af22a70ebb93de1b146">openjij::algorithm::HEAT_BATH</a>, and <a class="el" href="namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa927bbbfc6e23f42b7a6d80edade77733">openjij::algorithm::METROPOLIS</a>.</p>
+<div class="dynheader">
+Here is the call graph for this function:</div>
+<div class="dyncontent">
+<div class="center"><img src="namespaceopenjij_1_1updater_ae498c1a5cd2b056d9637f8975aa0aace_cgraph.png" border="0" usemap="#anamespaceopenjij_1_1updater_ae498c1a5cd2b056d9637f8975aa0aace_cgraph" alt=""/></div>
+<map name="anamespaceopenjij_1_1updater_ae498c1a5cd2b056d9637f8975aa0aace_cgraph" id="anamespaceopenjij_1_1updater_ae498c1a5cd2b056d9637f8975aa0aace_cgraph">
+<area shape="rect" title=" " alt="" coords="5,5,177,47"/>
+<area shape="rect" href="namespacefmath.html#affa4ce71de9b2037b529ee4465f34d5f" title=" " alt="" coords="225,13,319,39"/>
+<area shape="rect" href="namespacefmath_1_1local.html#aeeeb445903225ce0c8dadc6c5b5343f6" title=" " alt="" coords="367,13,511,39"/>
+</map>
+</div>
+
+</div>
+</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceopenjij.html">openjij</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1updater.html">updater</a></li>
-    <li class="footer">Generated on Fri Mar 17 2023 03:50:26 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Mon Apr 10 2023 04:32:46 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>
