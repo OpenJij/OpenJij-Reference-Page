@@ -125,8 +125,8 @@ Collaboration diagram for openjij.sampler.sa_sampler.SASampler:</div>
 Public Member Functions</h2></td></tr>
 <tr class="memitem:a2dadc0425cda5711a4cb540b75b881d6"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a2dadc0425cda5711a4cb540b75b881d6">parameters</a> (self)</td></tr>
 <tr class="separator:a2dadc0425cda5711a4cb540b75b881d6"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a6dbffe2d8c160fa4b136b88bdc30da24"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a6dbffe2d8c160fa4b136b88bdc30da24">__init__</a> (self, Optional[float] beta_min=None, Optional[float] beta_max=None, Optional[int] num_sweeps=None, Optional[int] num_reads=None, Optional[list] schedule=None)</td></tr>
-<tr class="separator:a6dbffe2d8c160fa4b136b88bdc30da24"><td class="memSeparator" colspan="2">&#160;</td></tr>
+<tr class="memitem:ad709d044d56075b4bcdfc128e2bf202e"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ad709d044d56075b4bcdfc128e2bf202e">__init__</a> (self)</td></tr>
+<tr class="separator:ad709d044d56075b4bcdfc128e2bf202e"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a0dcda3019247d94d43301c040a996381"><td class="memItemLeft" align="right" valign="top">&quot;oj.sampler.response.Response&quot;&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a0dcda3019247d94d43301c040a996381">sample</a> (self, Union[&quot;openj.model.model.BinaryQuadraticModel&quot;, dimod.BinaryQuadraticModel] bqm, Optional[float] beta_min=None, Optional[float] beta_max=None, Optional[int] num_sweeps=None, Optional[int] num_reads=None, Optional[list] schedule=None, Optional[Union[list, dict]] initial_state=None, Optional[str] updater=None, Optional[bool] sparse=None, Optional[bool] reinitialize_state=None, Optional[int] seed=None)</td></tr>
 <tr class="separator:a0dcda3019247d94d43301c040a996381"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ac747b0a92705852a2d731ec3fb228e15"><td class="memItemLeft" align="right" valign="top">def&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ac747b0a92705852a2d731ec3fb228e15">sample_hubo</a> (self, dict[tuple, float] J, Optional[str] vartype=None, int num_sweeps=1000, int num_reads=1, int num_threads=1, Optional[float] beta_min=None, Optional[float] beta_max=None, str updater=&quot;METROPOLIS&quot;, str random_number_engine=&quot;XORSHIFT&quot;, Optional[int] seed=None, str temperature_schedule=&quot;GEOMETRIC&quot;)</td></tr>
@@ -199,8 +199,8 @@ Raises:
     - not list of tuple (beta : float, step_length : int).
     - beta is less than zero.
 </pre> </div><h2 class="groupheader">Constructor &amp; Destructor Documentation</h2>
-<a id="a6dbffe2d8c160fa4b136b88bdc30da24"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a6dbffe2d8c160fa4b136b88bdc30da24">&#9670;&nbsp;</a></span>__init__()</h2>
+<a id="ad709d044d56075b4bcdfc128e2bf202e"></a>
+<h2 class="memtitle"><span class="permalink"><a href="#ad709d044d56075b4bcdfc128e2bf202e">&#9670;&nbsp;</a></span>__init__()</h2>
 
 <div class="memitem">
 <div class="memproto">
@@ -209,42 +209,8 @@ Raises:
           <td class="memname">def openjij.sampler.sa_sampler.SASampler.__init__ </td>
           <td>(</td>
           <td class="paramtype">&#160;</td>
-          <td class="paramname"><em>self</em>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
+          <td class="paramname"><em>self</em></td><td>)</td>
           <td></td>
-          <td class="paramtype">Optional[float] &#160;</td>
-          <td class="paramname"><em>beta_min</em> = <code>None</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Optional[float] &#160;</td>
-          <td class="paramname"><em>beta_max</em> = <code>None</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Optional[int] &#160;</td>
-          <td class="paramname"><em>num_sweeps</em> = <code>None</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Optional[int] &#160;</td>
-          <td class="paramname"><em>num_reads</em> = <code>None</code>, </td>
-        </tr>
-        <tr>
-          <td class="paramkey"></td>
-          <td></td>
-          <td class="paramtype">Optional[list] &#160;</td>
-          <td class="paramname"><em>schedule</em> = <code>None</code>&#160;</td>
-        </tr>
-        <tr>
-          <td></td>
-          <td>)</td>
-          <td></td><td></td>
         </tr>
       </table>
 </div><div class="memdoc">
@@ -889,7 +855,7 @@ Here is the call graph for this function:</div>
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceopenjij.html">openjij</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1sampler.html">sampler</a></li><li class="navelem"><a class="el" href="namespaceopenjij_1_1sampler_1_1sa__sampler.html">sa_sampler</a></li><li class="navelem"><a class="el" href="classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html">SASampler</a></li>
-    <li class="footer">Generated on Wed May 31 2023 03:28:04 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Fri Jun 16 2023 07:15:56 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>

@@ -1,6 +1,6 @@
 var classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler =
 [
-    [ "__init__", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a92bdc85b63b675c3a072be84a6f44a1e", null ],
+    [ "__init__", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#af7162a87fcc76f223f1804ec4c8bdd3c", null ],
     [ "_annealing_schedule_setting", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#ac98882a044b0000920f8e6c4f2ab217a", null ],
     [ "_convert_validation_schedule", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a1b337e1c5479c8cdd9c94965ec0a3ab9", null ],
     [ "_get_result", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a379feac76944510ee1b57efe17067d11", null ],
