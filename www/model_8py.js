@@ -18,6 +18,5 @@ var model_8py =
     [ "make_BinaryPolynomialModel_from_JSON", "model_8py.html#ab137908c57aab4fc069a6d9fae25f69b", null ],
     [ "make_BinaryQuadraticModel", "model_8py.html#af284f1bb8e49635476091f0ecb05037d", null ],
     [ "make_BinaryQuadraticModel_from_JSON", "model_8py.html#a4956736a1899352838c2efdf12a57b86", null ],
-    [ "gpu", "model_8py.html#a22988705e1c3ae2fcff0dc68180414c9", null ],
     [ "model_type", "model_8py.html#a0dc5a1b9dd0a7def48110d8f63f84aeb", null ]
 ];

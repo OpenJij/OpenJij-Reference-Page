@@ -26,7 +26,6 @@ var namespaceopenjij =
       [ "Vartype", "namespaceopenjij_1_1variable__type.html#a5e58469bb414a5792a074d3e211a1a24", null ]
     ] ],
     [ "FloatType", "namespaceopenjij.html#ad061cddacc7c745568a77e12b8fc4ff3", null ],
-    [ "GPUFloatType", "namespaceopenjij.html#a61b9db4439fa857184b39cf908d90d98", null ],
     [ "RandomEngine", "namespaceopenjij.html#a9b84c8344541d98d61d0a932634d4267", null ],
     [ "declare_Algorithm_run", "namespaceopenjij.html#a4666aedd08c4bfc4e9796e7d73415cbc", null ],
     [ "declare_BinaryPolynomialModel", "namespaceopenjij.html#a8ac9bc51d91afe05f6f80bb23fe5e0d3", null ],
@@ -59,8 +58,5 @@ var namespaceopenjij =
     [ "repr_impl", "namespaceopenjij.html#ae430c106f42c4a4912f24e5e3644bb5d", null ],
     [ "repr_impl", "namespaceopenjij.html#ae0fa314e3fbb4dc1dabe07a43b5881e9", null ],
     [ "__all__", "namespaceopenjij.html#ad0ec6fc32b9760eeabc53c3d3a3bf6c0", null ],
-    [ "__path__", "namespaceopenjij.html#a369b1cb423f80c7a36aba109a6877a34", null ],
-    [ "BLOCK_COL", "namespaceopenjij.html#ac9cf6ca61d7f59134c3dd5411c294b69", null ],
-    [ "BLOCK_ROW", "namespaceopenjij.html#a455fa7deb47fc2f1718efe0d3a0d9970", null ],
-    [ "BLOCK_TROT", "namespaceopenjij.html#ac440735c29c7b13aefb1afe63c4ade5d", null ]
+    [ "__path__", "namespaceopenjij.html#a369b1cb423f80c7a36aba109a6877a34", null ]
 ];

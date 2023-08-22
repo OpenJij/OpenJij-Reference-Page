@@ -1,11 +1,7 @@
 <map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,158,127,185"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html" title=" " alt="" coords="175,151,357,192"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html" title=" " alt="" coords="476,159,633,200"/>
-<area shape="rect" id="node5" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html" title=" " alt="" coords="471,12,638,53"/>
-<area shape="rect" id="node4" href="$classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sa__sampler_1_1GPUChimeraSASampler.html" title=" " alt="" coords="756,151,1005,207"/>
-<area shape="rect" id="node6" href="$classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sqa__sampler_1_1GPUChimeraSQASampler.html" title=" " alt="" coords="752,71,1009,127"/>
-<area shape="rect" id="node7" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html" title=" " alt="" coords="793,5,968,47"/>
-<area shape="rect" id="node8" title=" " alt="" coords="199,93,333,119"/>
-<area shape="rect" id="node9" href="$classopenjij_1_1sampler_1_1chimera__gpu_1_1base__gpu__chimera_1_1BaseGPUChimeraSampler.html" title=" " alt="" coords="405,78,704,134"/>
+<area shape="rect" id="node1" title=" " alt="" coords="5,46,127,73"/>
+<area shape="rect" id="node2" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html" title=" " alt="" coords="175,39,357,80"/>
+<area shape="rect" id="node3" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html" title=" " alt="" coords="410,5,567,47"/>
+<area shape="rect" id="node4" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html" title=" " alt="" coords="405,71,572,112"/>
+<area shape="rect" id="node5" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html" title=" " alt="" coords="620,71,795,112"/>
 </map>

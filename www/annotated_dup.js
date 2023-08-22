@@ -27,17 +27,6 @@ var annotated_dup =
         [ "Square", "classopenjij_1_1graph_1_1Square.html", "classopenjij_1_1graph_1_1Square" ]
       ] ],
       [ "sampler", "namespaceopenjij_1_1sampler.html", [
-        [ "chimera_gpu", "namespaceopenjij_1_1sampler_1_1chimera__gpu.html", [
-          [ "base_gpu_chimera", "namespaceopenjij_1_1sampler_1_1chimera__gpu_1_1base__gpu__chimera.html", [
-            [ "BaseGPUChimeraSampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1base__gpu__chimera_1_1BaseGPUChimeraSampler.html", "classopenjij_1_1sampler_1_1chimera__gpu_1_1base__gpu__chimera_1_1BaseGPUChimeraSampler" ]
-          ] ],
-          [ "gpu_sa_sampler", "namespaceopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sa__sampler.html", [
-            [ "GPUChimeraSASampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sa__sampler_1_1GPUChimeraSASampler.html", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sa__sampler_1_1GPUChimeraSASampler" ]
-          ] ],
-          [ "gpu_sqa_sampler", "namespaceopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sqa__sampler.html", [
-            [ "GPUChimeraSQASampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sqa__sampler_1_1GPUChimeraSQASampler.html", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sqa__sampler_1_1GPUChimeraSQASampler" ]
-          ] ]
-        ] ],
         [ "csqa_sampler", "namespaceopenjij_1_1sampler_1_1csqa__sampler.html", [
           [ "CSQASampler", "classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html", "classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler" ]
         ] ],

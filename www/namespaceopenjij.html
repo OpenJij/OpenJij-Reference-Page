@@ -131,8 +131,6 @@ Typedefs</h2></td></tr>
 <tr class="separator:ad061cddacc7c745568a77e12b8fc4ff3"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:a9b84c8344541d98d61d0a932634d4267"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij.html#a9b84c8344541d98d61d0a932634d4267">RandomEngine</a> = <a class="el" href="classopenjij_1_1utility_1_1Xorshift.html">utility::Xorshift</a></td></tr>
 <tr class="separator:a9b84c8344541d98d61d0a932634d4267"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a61b9db4439fa857184b39cf908d90d98"><td class="memItemLeft" align="right" valign="top">using&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij.html#a61b9db4439fa857184b39cf908d90d98">GPUFloatType</a> = float</td></tr>
-<tr class="separator:a61b9db4439fa857184b39cf908d90d98"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table><table class="memberdecls">
 <tr class="heading"><td colspan="2"><h2 class="groupheader"><a name="func-members"></a>
 Functions</h2></td></tr>
@@ -224,12 +222,6 @@ Variables</h2></td></tr>
 <tr class="separator:a369b1cb423f80c7a36aba109a6877a34"><td class="memSeparator" colspan="2">&#160;</td></tr>
 <tr class="memitem:ad0ec6fc32b9760eeabc53c3d3a3bf6c0"><td class="memItemLeft" align="right" valign="top">list&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij.html#ad0ec6fc32b9760eeabc53c3d3a3bf6c0">__all__</a></td></tr>
 <tr class="separator:ad0ec6fc32b9760eeabc53c3d3a3bf6c0"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:a455fa7deb47fc2f1718efe0d3a0d9970"><td class="memItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij.html#a455fa7deb47fc2f1718efe0d3a0d9970">BLOCK_ROW</a> = 2</td></tr>
-<tr class="separator:a455fa7deb47fc2f1718efe0d3a0d9970"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac9cf6ca61d7f59134c3dd5411c294b69"><td class="memItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij.html#ac9cf6ca61d7f59134c3dd5411c294b69">BLOCK_COL</a> = 2</td></tr>
-<tr class="separator:ac9cf6ca61d7f59134c3dd5411c294b69"><td class="memSeparator" colspan="2">&#160;</td></tr>
-<tr class="memitem:ac440735c29c7b13aefb1afe63c4ade5d"><td class="memItemLeft" align="right" valign="top">constexpr std::size_t&#160;</td><td class="memItemRight" valign="bottom"><a class="el" href="namespaceopenjij.html#ac440735c29c7b13aefb1afe63c4ade5d">BLOCK_TROT</a> = 1</td></tr>
-<tr class="separator:ac440735c29c7b13aefb1afe63c4ade5d"><td class="memSeparator" colspan="2">&#160;</td></tr>
 </table>
 <h2 class="groupheader">Typedef Documentation</h2>
 <a id="ad061cddacc7c745568a77e12b8fc4ff3"></a>
@@ -247,20 +239,6 @@ Variables</h2></td></tr>
 <p>Note: </p>
 <p>By default, cxxjij (python implementation of openjij) is installed following the configuration listed below. If you want to use cxxjij with non-default settings (e.g. using mersenne twister, calculating with long double precision, etc), please change the following configuration and recompile with the command:</p>
 <p>$ python setup.py clean &amp;&amp; python setup.py install </p>
-
-</div>
-</div>
-<a id="a61b9db4439fa857184b39cf908d90d98"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a61b9db4439fa857184b39cf908d90d98">&#9670;&nbsp;</a></span>GPUFloatType</h2>
-
-<div class="memitem">
-<div class="memproto">
-      <table class="memname">
-        <tr>
-          <td class="memname">using <a class="el" href="namespaceopenjij.html#a61b9db4439fa857184b39cf908d90d98">openjij::GPUFloatType</a> = typedef float</td>
-        </tr>
-      </table>
-</div><div class="memdoc">
 
 </div>
 </div>
@@ -1497,85 +1475,13 @@ template&lt;typename SystemType &gt; </div>
 
 </div>
 </div>
-<a id="ac9cf6ca61d7f59134c3dd5411c294b69"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac9cf6ca61d7f59134c3dd5411c294b69">&#9670;&nbsp;</a></span>BLOCK_COL</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr std::size_t openjij::BLOCK_COL = 2</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c">PYBIND11_MODULE()</a>.</p>
-
-</div>
-</div>
-<a id="a455fa7deb47fc2f1718efe0d3a0d9970"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#a455fa7deb47fc2f1718efe0d3a0d9970">&#9670;&nbsp;</a></span>BLOCK_ROW</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr std::size_t openjij::BLOCK_ROW = 2</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c">PYBIND11_MODULE()</a>.</p>
-
-</div>
-</div>
-<a id="ac440735c29c7b13aefb1afe63c4ade5d"></a>
-<h2 class="memtitle"><span class="permalink"><a href="#ac440735c29c7b13aefb1afe63c4ade5d">&#9670;&nbsp;</a></span>BLOCK_TROT</h2>
-
-<div class="memitem">
-<div class="memproto">
-<table class="mlabels">
-  <tr>
-  <td class="mlabels-left">
-      <table class="memname">
-        <tr>
-          <td class="memname">constexpr std::size_t openjij::BLOCK_TROT = 1</td>
-        </tr>
-      </table>
-  </td>
-  <td class="mlabels-right">
-<span class="mlabels"><span class="mlabel">constexpr</span></span>  </td>
-  </tr>
-</table>
-</div><div class="memdoc">
-
-<p class="reference">Referenced by <a class="el" href="main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c">PYBIND11_MODULE()</a>.</p>
-
-</div>
-</div>
 </div><!-- contents -->
 </div><!-- doc-content -->
 <!-- start footer part -->
 <div id="nav-path" class="navpath"><!-- id is needed for treeview function! -->
   <ul>
     <li class="navelem"><a class="el" href="namespaceopenjij.html">openjij</a></li>
-    <li class="footer">Generated on Wed Aug 2 2023 00:01:42 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
+    <li class="footer">Generated on Tue Aug 22 2023 02:41:28 for openjij by <a href="https://www.doxygen.org/index.html"><img class="footer" src="doxygen.svg" width="104" height="31" alt="doxygen"/></a> 1.9.1 </li>
   </ul>
 </div>
 </body>

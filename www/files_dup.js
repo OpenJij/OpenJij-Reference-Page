@@ -3,7 +3,6 @@ var files_dup =
     [ "__init__.py", "____init_____8py.html", "____init_____8py" ],
     [ "model/__init__.py", "model_2____init_____8py.html", "model_2____init_____8py" ],
     [ "sampler/__init__.py", "sampler_2____init_____8py.html", "sampler_2____init_____8py" ],
-    [ "sampler/chimera_gpu/__init__.py", "sampler_2chimera__gpu_2____init_____8py.html", "sampler_2chimera__gpu_2____init_____8py" ],
     [ "utils/__init__.py", "utils_2____init_____8py.html", "utils_2____init_____8py" ],
     [ "_version.py", "__version_8py.html", "__version_8py" ],
     [ "algorithm.hpp", "algorithm_8hpp.html", "algorithm_8hpp" ],
@@ -12,9 +11,6 @@ var files_dup =
     [ "result/all.hpp", "result_2all_8hpp.html", null ],
     [ "system/all.hpp", "system_2all_8hpp.html", null ],
     [ "updater/all.hpp", "updater_2all_8hpp.html", null ],
-    [ "base_gpu_chimera.py", "base__gpu__chimera_8py.html", [
-      [ "BaseGPUChimeraSampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1base__gpu__chimera_1_1BaseGPUChimeraSampler.html", "classopenjij_1_1sampler_1_1chimera__gpu_1_1base__gpu__chimera_1_1BaseGPUChimeraSampler" ]
-    ] ],
     [ "base_sa_sample_hubo.py", "base__sa__sample__hubo_8py.html", "base__sa__sample__hubo_8py" ],
     [ "benchmark.py", "benchmark_8py.html", "benchmark_8py" ],
     [ "binary_polynomial_model.hpp", "binary__polynomial__model_8hpp.html", [
@@ -55,12 +51,6 @@ var files_dup =
     [ "fmath.hpp", "fmath_8hpp.html", "fmath_8hpp" ],
     [ "get_solution.hpp", "get__solution_8hpp.html", "get__solution_8hpp" ],
     [ "gpu.hpp", "gpu_8hpp.html", null ],
-    [ "gpu_sa_sampler.py", "gpu__sa__sampler_8py.html", [
-      [ "GPUChimeraSASampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sa__sampler_1_1GPUChimeraSASampler.html", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sa__sampler_1_1GPUChimeraSASampler" ]
-    ] ],
-    [ "gpu_sqa_sampler.py", "gpu__sqa__sampler_8py.html", [
-      [ "GPUChimeraSQASampler", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sqa__sampler_1_1GPUChimeraSQASampler.html", "classopenjij_1_1sampler_1_1chimera__gpu_1_1gpu__sqa__sampler_1_1GPUChimeraSQASampler" ]
-    ] ],
     [ "graph.hpp", "graph_8hpp.html", "graph_8hpp" ],
     [ "graph_utils.py", "graph__utils_8py.html", "graph__utils_8py" ],
     [ "handle_error.hpp", "handle__error_8hpp.html", null ],

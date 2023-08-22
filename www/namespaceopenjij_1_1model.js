@@ -1,13 +1,12 @@
 var namespaceopenjij_1_1model =
 [
     [ "chimera_model", "namespaceopenjij_1_1model_1_1chimera__model.html", [
-      [ "ChimeraModel", "namespaceopenjij_1_1model_1_1chimera__model.html#ac0768c4b6349cc0bc22a30dde9237061", null ],
+      [ "ChimeraModel", "namespaceopenjij_1_1model_1_1chimera__model.html#a472e045cef1720a6cd6e7ca56f2374c8", null ],
       [ "make_ChimeraModel", "namespaceopenjij_1_1model_1_1chimera__model.html#ab0d6c4ef968eb5df887672a0ac8a0987", null ],
       [ "make_ChimeraModel_from_JSON", "namespaceopenjij_1_1model_1_1chimera__model.html#aba4f77fd8d2757731e9bd31540327a13", null ],
       [ "_chimera_index", "namespaceopenjij_1_1model_1_1chimera__model.html#a1e0b0cf019f5f5019e275ccbe56a99dd", null ],
       [ "_to_index", "namespaceopenjij_1_1model_1_1chimera__model.html#afbbce60269ca7c641550a8798e202505", null ],
       [ "coordinate", "namespaceopenjij_1_1model_1_1chimera__model.html#a1a5649e583d02358f05e1b58b170053f", null ],
-      [ "gpu", "namespaceopenjij_1_1model_1_1chimera__model.html#a2168aedab130b83948f52f3e51f73599", null ],
       [ "unit_num_L", "namespaceopenjij_1_1model_1_1chimera__model.html#acde5701b1adac5ebf56a836b010e184b", null ]
     ] ],
     [ "king_graph", "namespaceopenjij_1_1model_1_1king__graph.html", [
@@ -39,7 +38,6 @@ var namespaceopenjij_1_1model =
       [ "make_BinaryPolynomialModel_from_JSON", "namespaceopenjij_1_1model_1_1model.html#ab137908c57aab4fc069a6d9fae25f69b", null ],
       [ "make_BinaryQuadraticModel", "namespaceopenjij_1_1model_1_1model.html#af284f1bb8e49635476091f0ecb05037d", null ],
       [ "make_BinaryQuadraticModel_from_JSON", "namespaceopenjij_1_1model_1_1model.html#a4956736a1899352838c2efdf12a57b86", null ],
-      [ "gpu", "namespaceopenjij_1_1model_1_1model.html#a22988705e1c3ae2fcff0dc68180414c9", null ],
       [ "model_type", "namespaceopenjij_1_1model_1_1model.html#a0dc5a1b9dd0a7def48110d8f63f84aeb", null ]
     ] ],
     [ "__all__", "namespaceopenjij_1_1model.html#a6deecfff190e185fd422cde2c9fc3fec", null ],

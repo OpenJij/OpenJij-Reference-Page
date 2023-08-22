@@ -4,7 +4,6 @@ var namespaceopenjij_1_1sampler =
       [ "base_sample_hubo", "namespaceopenjij_1_1sampler_1_1base__sa__sample__hubo.html#a5c56a512992e279666c7a831518e4442", null ],
       [ "to_oj_response", "namespaceopenjij_1_1sampler_1_1base__sa__sample__hubo.html#a2ea2520c9d376c85bae26511e967a935", null ]
     ] ],
-    [ "chimera_gpu", "namespaceopenjij_1_1sampler_1_1chimera__gpu.html", "namespaceopenjij_1_1sampler_1_1chimera__gpu" ],
     [ "csqa_sampler", "namespaceopenjij_1_1sampler_1_1csqa__sampler.html", "namespaceopenjij_1_1sampler_1_1csqa__sampler" ],
     [ "response", "namespaceopenjij_1_1sampler_1_1response.html", "namespaceopenjij_1_1sampler_1_1response" ],
     [ "sa_sampler", "namespaceopenjij_1_1sampler_1_1sa__sampler.html", "namespaceopenjij_1_1sampler_1_1sa__sampler" ],
