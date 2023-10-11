@@ -1,5 +1,9 @@
 var NAVTREEINDEX5 =
 {
+"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html#accac653c668ac5674afe53fa4008f57d":[3,0,1,4,6,2],
+"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html":[3,0,1,4,7],
+"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a30f0ecbc1a347468b2bc7650710029e6":[3,0,1,4,7,1],
+"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a35d400477f54de0e27ec9be4c6ef05d5":[3,0,1,4,7,2],
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a8c4e94b51349eb24f280b2f36a984c8e":[3,0,1,4,7,4],
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a955cd25152876ccb02df92095c1fe03a":[3,0,1,4,7,3],
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#ab65925c3ea2a5986fefc6f33846efc93":[3,0,1,4,7,0],

@@ -5,7 +5,9 @@ var NAVTREEINDEX0 =
 "____init_____8py.html#ad0ec6fc32b9760eeabc53c3d3a3bf6c0":[4,0,0,0],
 "__version_8py.html":[4,0,4],
 "__version_8py.html#a2e5c51d8d2d44ed66bfec955f2112042":[4,0,4,1],
+"__version_8py.html#a4885a753420be77886cd9ba0ce20ee0b":[4,0,4,3],
 "__version_8py.html#a7d7e23855bc71604a0e0479f481b42bd":[4,0,4,0],
+"__version_8py.html#ab3efd36fa2f3f5ad7ade7c0e57f738eb":[4,0,4,2],
 "algorithm_2all_8hpp.html":[4,0,6],
 "algorithm_2all_8hpp_source.html":[4,0,6],
 "algorithm_8hpp.html":[4,0,5],
@@ -247,7 +249,5 @@ var NAVTREEINDEX0 =
 "classopenjij_1_1graph_1_1Square.html#ad7e14dfec5722d6d1e3c4c6e35ab478a":[3,0,1,1,8,18],
 "classopenjij_1_1graph_1_1Square.html#adae56563403f5a039359304a0f573fff":[3,0,1,1,8,1],
 "classopenjij_1_1graph_1_1Square.html#aed586eee9ca88f5ed9b6e5fffbc86e4e":[3,0,1,1,8,7],
-"classopenjij_1_1graph_1_1Square.html#af23676a7a926c1966de30474ebffb187":[3,0,1,1,8,6],
-"classopenjij_1_1graph_1_1Square.html#af2a2bdbb0fe60b2c17ae106c2d0d9630":[3,0,1,1,8,15],
-"classopenjij_1_1sampler_1_1SASampler.html":[3,0,1,2,5]
+"classopenjij_1_1graph_1_1Square.html#af23676a7a926c1966de30474ebffb187":[3,0,1,1,8,6]
 };

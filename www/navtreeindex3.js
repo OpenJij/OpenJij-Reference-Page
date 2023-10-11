@@ -1,5 +1,7 @@
 var NAVTREEINDEX3 =
 {
+"namespacefmath.html#affa4ce71de9b2037b529ee4465f34d5f":[2,0,0,2],
+"namespacefmath_1_1local.html":[2,0,0,0],
 "namespacefmath_1_1local.html#a1ede62469f663c4b1736f925ae2f5fdf":[2,0,0,0,12],
 "namespacefmath_1_1local.html#a311aaf6d898817ed7c6b294465b2eccc":[2,0,0,0,6],
 "namespacefmath_1_1local.html#a3b151e66012caa9b107c68c8995ed078":[2,0,0,0,13],
@@ -50,7 +52,9 @@ var NAVTREEINDEX3 =
 "namespaceopenjij.html#ae6980a95f2f481b126c61d37ca8e6269":[2,0,1,31],
 "namespaceopenjij_1_1__version.html":[2,0,1,0],
 "namespaceopenjij_1_1__version.html#a2e5c51d8d2d44ed66bfec955f2112042":[2,0,1,0,1],
+"namespaceopenjij_1_1__version.html#a4885a753420be77886cd9ba0ce20ee0b":[2,0,1,0,3],
 "namespaceopenjij_1_1__version.html#a7d7e23855bc71604a0e0479f481b42bd":[2,0,1,0,0],
+"namespaceopenjij_1_1__version.html#ab3efd36fa2f3f5ad7ade7c0e57f738eb":[2,0,1,0,2],
 "namespaceopenjij_1_1algorithm.html":[2,0,1,1],
 "namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9f":[2,0,1,1,3],
 "namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa52186bba0a3e7af22a70ebb93de1b146":[2,0,1,1,3,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX3 =
 "sa__sampler_8hpp.html":[4,0,60],
 "sa__sampler_8hpp.html#abe72fd80495f1587c5005d37b6db7f75":[4,0,60,1],
 "sa__sampler_8hpp_source.html":[4,0,60],
-"sa__sampler_8py.html":[4,0,61],
-"sa__sampler_8py.html#a8b49acd2b2f9fbdd14a642deb03def2c":[4,0,61,2],
-"sa__sampler_8py.html#a9ef1c6b599701db5d7ad82be539aec3f":[4,0,61,1],
-"sa__system_8hpp.html":[4,0,62],
-"sa__system_8hpp_source.html":[4,0,62]
+"sa__sampler_8py.html":[4,0,61]
 };

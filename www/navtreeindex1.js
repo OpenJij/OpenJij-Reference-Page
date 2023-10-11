@@ -1,5 +1,7 @@
 var NAVTREEINDEX1 =
 {
+"classopenjij_1_1graph_1_1Square.html#af2a2bdbb0fe60b2c17ae106c2d0d9630":[3,0,1,1,8,15],
+"classopenjij_1_1sampler_1_1SASampler.html":[3,0,1,2,5],
 "classopenjij_1_1sampler_1_1SASampler.html#a0147f82a4f1707d02d3e886a76039b48":[3,0,1,2,5,36],
 "classopenjij_1_1sampler_1_1SASampler.html#a05971fffafcc7f33ad4923ebceb754f3":[3,0,1,2,5,24],
 "classopenjij_1_1sampler_1_1SASampler.html#a08c698d37f5218ec72b723d3c9a7e547":[3,0,1,2,5,25],
@@ -247,7 +249,5 @@ var NAVTREEINDEX1 =
 "csr__sparse_8hpp_source.html":[4,0,27],
 "cublas_8hpp.html":[4,0,28],
 "cublas_8hpp_source.html":[4,0,28],
-"cxx__cast_8py.html":[4,0,29],
-"cxx__cast_8py.html#a3fbac3b01760c730aad69527dae899e3":[4,0,29,2],
-"cxx__cast_8py.html#abaef5c51c23b59e729bf1a5ef8bf4516":[4,0,29,1]
+"cxx__cast_8py.html":[4,0,29]
 };

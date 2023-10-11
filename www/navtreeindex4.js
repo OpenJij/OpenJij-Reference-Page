@@ -1,5 +1,9 @@
 var NAVTREEINDEX4 =
 {
+"sa__sampler_8py.html#a8b49acd2b2f9fbdd14a642deb03def2c":[4,0,61,2],
+"sa__sampler_8py.html#a9ef1c6b599701db5d7ad82be539aec3f":[4,0,61,1],
+"sa__system_8hpp.html":[4,0,62],
+"sa__system_8hpp_source.html":[4,0,62],
 "sampler_2____init_____8py.html":[4,0,2],
 "sampler_2____init_____8py.html#a98b43b7f455a4cfe538b0ee9e466a3dc":[4,0,2,0],
 "sampler_2____init_____8py.html#add805dbe03eb79f50c87dbe50ce503d7":[4,0,2,1],
@@ -245,9 +249,5 @@ var NAVTREEINDEX4 =
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsingPolynomial_3_01GraphType_01_4_01_4.html#af0a2a1a4793f0f8f5ffe0c90eebeec12":[3,0,1,4,8,4],
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html":[3,0,1,4,6],
 "structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html#a75d42209c690bba40898a9bf8d8eef14":[3,0,1,4,6,1],
-"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html#aa0deb0f6595a4f3636a0770525ca7f31":[3,0,1,4,6,0],
-"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html#accac653c668ac5674afe53fa4008f57d":[3,0,1,4,6,2],
-"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html":[3,0,1,4,7],
-"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a30f0ecbc1a347468b2bc7650710029e6":[3,0,1,4,7,1],
-"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a35d400477f54de0e27ec9be4c6ef05d5":[3,0,1,4,7,2]
+"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html#aa0deb0f6595a4f3636a0770525ca7f31":[3,0,1,4,6,0]
 };

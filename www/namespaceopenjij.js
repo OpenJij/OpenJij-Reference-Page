@@ -2,7 +2,9 @@ var namespaceopenjij =
 [
     [ "_version", "namespaceopenjij_1_1__version.html", [
       [ "__version__", "namespaceopenjij_1_1__version.html#a7d7e23855bc71604a0e0479f481b42bd", null ],
-      [ "__version_tuple__", "namespaceopenjij_1_1__version.html#a2e5c51d8d2d44ed66bfec955f2112042", null ]
+      [ "__version_tuple__", "namespaceopenjij_1_1__version.html#a2e5c51d8d2d44ed66bfec955f2112042", null ],
+      [ "TYPE_CHECKING", "namespaceopenjij_1_1__version.html#ab3efd36fa2f3f5ad7ade7c0e57f738eb", null ],
+      [ "VERSION_TUPLE", "namespaceopenjij_1_1__version.html#a4885a753420be77886cd9ba0ce20ee0b", null ]
     ] ],
     [ "algorithm", "namespaceopenjij_1_1algorithm.html", "namespaceopenjij_1_1algorithm" ],
     [ "graph", "namespaceopenjij_1_1graph.html", "namespaceopenjij_1_1graph" ],

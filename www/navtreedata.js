@@ -88,11 +88,11 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "____init_____8py.html",
-"classopenjij_1_1sampler_1_1SASampler.html#a0147f82a4f1707d02d3e886a76039b48",
-"cxx__cast_8py.html#ac4676ac049d644314795c003c4c57f6a",
-"namespacefmath_1_1local.html#a1ede62469f663c4b1736f925ae2f5fdf",
-"sampler_2____init_____8py.html",
-"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1TransverseIsing_3_01GraphType_01_4_01_4.html#a8c4e94b51349eb24f280b2f36a984c8e"
+"classopenjij_1_1graph_1_1Square.html#af2a2bdbb0fe60b2c17ae106c2d0d9630",
+"cxx__cast_8py.html#a3fbac3b01760c730aad69527dae899e3",
+"namespacefmath.html#affa4ce71de9b2037b529ee4465f34d5f",
+"sa__sampler_8py.html#a8b49acd2b2f9fbdd14a642deb03def2c",
+"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html#accac653c668ac5674afe53fa4008f57d"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';
