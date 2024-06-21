@@ -22,7 +22,7 @@ var searchData=
   ['chimera_5fto_5find_92',['chimera_to_ind',['../namespaceopenjij_1_1utils_1_1graph__utils.html#a0f977d7d5d30d9033262045db4923504',1,'openjij::utils::graph_utils']]],
   ['chimeradir_93',['ChimeraDir',['../namespaceopenjij_1_1graph.html#ab44b344be095f9f484ff5a8f5cb5dddf',1,'openjij::graph']]],
   ['chimeraindex_94',['ChimeraIndex',['../namespaceopenjij_1_1graph.html#ab3ab5083636f31f19ad0927540b5ff89',1,'openjij::graph']]],
-  ['chimeramodel_95',['ChimeraModel',['../namespaceopenjij_1_1model_1_1chimera__model.html#a472e045cef1720a6cd6e7ca56f2374c8',1,'openjij::model::chimera_model']]],
+  ['chimeramodel_95',['ChimeraModel',['../namespaceopenjij_1_1model_1_1chimera__model.html#ab613dc171cb16d914c0ee44a5f3cae88',1,'openjij::model::chimera_model']]],
   ['classical_5fconstraint_5fsystem_96',['classical_constraint_system',['../structopenjij_1_1system_1_1classical__constraint__system.html',1,'openjij::system']]],
   ['classical_5fising_2ehpp_97',['classical_ising.hpp',['../classical__ising_8hpp.html',1,'']]],
   ['classical_5fising_5fpolynomial_2ehpp_98',['classical_ising_polynomial.hpp',['../classical__ising__polynomial_8hpp.html',1,'']]],

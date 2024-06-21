@@ -1,7 +1,7 @@
 <map id="openjij.sampler.sampler.BaseSampler.sample" name="openjij.sampler.sampler.BaseSampler.sample">
 <area shape="rect" id="node1" title=" " alt="" coords="5,119,188,161"/>
 <area shape="rect" id="node2" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#ae26e9e76ac578367325d3745e0787cb4" title=" " alt="" coords="237,54,434,95"/>
-<area shape="rect" id="node11" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#aad6149e8fc6dc08656cdeda77dbdcfe5" title=" " alt="" coords="483,185,747,226"/>
+<area shape="rect" id="node11" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#ae583a15acad87806b3df60721d95713b" title=" " alt="" coords="483,185,747,226"/>
 <area shape="rect" id="node12" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a8f27e6f9c03b80b99eb85d3550446cea" title=" " alt="" coords="236,119,435,161"/>
 <area shape="rect" id="node3" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a0dcda3019247d94d43301c040a996381" title=" " alt="" coords="511,54,719,95"/>
 <area shape="rect" id="node6" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#aa5cd16c3774036f5d322da427c872793" title=" " alt="" coords="506,119,723,161"/>

@@ -1,7 +1,7 @@
 var namespaceopenjij_1_1model =
 [
     [ "chimera_model", "namespaceopenjij_1_1model_1_1chimera__model.html", [
-      [ "ChimeraModel", "namespaceopenjij_1_1model_1_1chimera__model.html#a472e045cef1720a6cd6e7ca56f2374c8", null ],
+      [ "ChimeraModel", "namespaceopenjij_1_1model_1_1chimera__model.html#ab613dc171cb16d914c0ee44a5f3cae88", null ],
       [ "make_ChimeraModel", "namespaceopenjij_1_1model_1_1chimera__model.html#ab0d6c4ef968eb5df887672a0ac8a0987", null ],
       [ "make_ChimeraModel_from_JSON", "namespaceopenjij_1_1model_1_1chimera__model.html#aba4f77fd8d2757731e9bd31540327a13", null ],
       [ "_chimera_index", "namespaceopenjij_1_1model_1_1chimera__model.html#a1e0b0cf019f5f5019e275ccbe56a99dd", null ],

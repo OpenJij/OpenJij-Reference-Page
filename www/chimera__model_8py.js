@@ -1,6 +1,6 @@
 var chimera__model_8py =
 [
-    [ "ChimeraModel", "chimera__model_8py.html#a472e045cef1720a6cd6e7ca56f2374c8", null ],
+    [ "ChimeraModel", "chimera__model_8py.html#ab613dc171cb16d914c0ee44a5f3cae88", null ],
     [ "make_ChimeraModel", "chimera__model_8py.html#ab0d6c4ef968eb5df887672a0ac8a0987", null ],
     [ "make_ChimeraModel_from_JSON", "chimera__model_8py.html#aba4f77fd8d2757731e9bd31540327a13", null ],
     [ "_chimera_index", "chimera__model_8py.html#a1e0b0cf019f5f5019e275ccbe56a99dd", null ],
