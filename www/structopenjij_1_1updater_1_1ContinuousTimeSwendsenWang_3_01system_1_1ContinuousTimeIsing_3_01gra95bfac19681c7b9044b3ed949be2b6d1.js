@@ -4,8 +4,8 @@ var structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1Continu
     [ "CutPoint", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#ab4a27fa14c226711fd76bc7553f67aff", null ],
     [ "GraphType", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#aa904a90190bf10f515c5bfc0998d1122", null ],
     [ "TimeType", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#ace6721f3a4e0978354a41f6cb9db8945", null ],
-    [ "create_timeline", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#a64d8478b7618000bb457f8e4ef06bc15", null ],
-    [ "create_timeline_easy", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#aeb35f0b588f61323a5fba3a25d035048", null ],
-    [ "generate_poisson_points", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#a589d0f803e9b0001441df39307f6a1f5", null ],
+    [ "create_timeline", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#ad1f99ace019328e1cbf5d8c9da2cb455", null ],
+    [ "create_timeline_easy", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#aa1b667733b63ee92281dcc5d7a13101e", null ],
+    [ "generate_poisson_points", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#ae00d4a2c656acaf00c1081d224486033", null ],
     [ "update", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html#a5ce39dff4e3463f51b8b1ca6ae852965", null ]
 ];

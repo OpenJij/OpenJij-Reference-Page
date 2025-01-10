@@ -1,4 +1,6 @@
 <map id="openjij::declare_TransverseFieldUpdaterParameter" name="openjij::declare_TransverseFieldUpdaterParameter">
-<area shape="rect" id="node1" title=" " alt="" coords="204,5,403,47"/>
-<area shape="rect" id="node2" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,13,156,39"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,29,403,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="341,18,328,11,303,8,282,10,269,15,265,21,267,28,262,30,259,20,266,10,281,5,303,3,329,6,343,13"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,37,156,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="190,52,157,52,157,47,190,47"/>
 </map>

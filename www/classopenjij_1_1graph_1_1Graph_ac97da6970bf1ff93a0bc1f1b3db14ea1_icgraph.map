@@ -1,8 +1,26 @@
 <map id="openjij::graph::Graph::size" name="openjij::graph::Graph::size">
-<area shape="rect" id="node1" title="get number of spins" alt="" coords="749,39,908,80"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Polynomial.html#ab51c8997853d877d7779500f3458ebf9" title="Check if the input keys are valid." alt="" coords="509,5,701,47"/>
-<area shape="rect" id="node5" href="$classopenjij_1_1graph_1_1Polynomial.html#a00bd0f6d60163a66bcb8d19ec70f6b32" title="Return the total energy corresponding to the input variables, Spins or Binaries." alt="" coords="509,71,701,112"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Polynomial.html#a0b7c839025b8f1f35b766233965c26b5" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="257,13,461,39"/>
-<area shape="rect" id="node4" href="$classopenjij_1_1graph_1_1Polynomial.html#af77b5bcfe44d7b3763fc7319eb81bd9c" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="5,13,209,39"/>
-<area shape="rect" id="node6" href="$classopenjij_1_1graph_1_1Polynomial.html#a01ce435e9005c8036fb8add2545e7ffa" title="Return the total energy corresponding to the input variables, Spins or Binaries." alt="" coords="263,71,455,112"/>
+<area shape="rect" id="Node000001" title="get number of spins" alt="" coords="749,174,908,214"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Polynomial.html#ab51c8997853d877d7779500f3458ebf9" title="Check if the input keys are valid." alt="" coords="509,117,701,157"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="736,173,683,159,684,154,738,168"/>
+<area shape="rect" id="Node000009" href="$namespaceopenjij.html#ab32b60ed03b9d5607fe0cdfe1641e5e6" title=" " alt="" coords="521,181,689,207"/>
+<area shape="poly" id="edge8_Node000001_Node000009" title=" " alt="" coords="735,197,690,197,690,191,735,191"/>
+<area shape="rect" id="Node000011" href="$classopenjij_1_1graph_1_1Polynomial.html#a00bd0f6d60163a66bcb8d19ec70f6b32" title="Return the total energy corresponding to the input variables, Spins or Binaries." alt="" coords="509,255,701,295"/>
+<area shape="poly" id="edge10_Node000001_Node000011" title=" " alt="" coords="761,221,662,258,660,253,759,216"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Polynomial.html#a1afbb1d15f6a38dd7a75abadf3b00102" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="257,79,461,104"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="495,119,428,107,429,101,496,114"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1graph_1_1Polynomial.html#ad37ef585577851490ddaca92b6d69a5c" title="Return the interaction corresponding to the input argument." alt="" coords="257,128,461,153"/>
+<area shape="poly" id="edge7_Node000002_Node000008" title=" " alt="" coords="496,141,462,142,462,136,496,136"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Polynomial.html#a32c1aee1a4c4a4f725022ce9110b7008" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="5,5,209,31"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="309,77,209,45,165,33,167,28,210,39,310,72"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Polynomial.html#a3573f59e6271c09e8f85f646f04658ba" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="5,55,209,80"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="244,83,209,80,210,74,244,78"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Polynomial.html#a4ad7d4e5bd92623e19c69a89c21bc1ba" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="5,104,209,129"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="244,106,210,109,209,104,244,100"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Polynomial.html#a64b3bef73c7a8c67d965127d00be4eac" title="Return the interaction corresponding to the input argument." alt="" coords="5,153,209,179"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="281,110,258,118,235,130,210,143,170,156,168,151,208,138,232,126,256,113,280,105"/>
+<area shape="rect" id="Node000010" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="284,181,435,207"/>
+<area shape="poly" id="edge9_Node000009_Node000010" title=" " alt="" coords="508,197,435,197,435,191,508,191"/>
+<area shape="poly" id="edge12_Node000011_Node000011" title=" " alt="" coords="643,244,630,237,605,234,584,236,571,241,567,247,569,254,564,256,561,246,568,236,583,231,605,229,631,232,645,239"/>
+<area shape="rect" id="Node000012" href="$classopenjij_1_1graph_1_1Polynomial.html#a01ce435e9005c8036fb8add2545e7ffa" title="Return the total energy corresponding to the input variables, Spins or Binaries." alt="" coords="263,255,455,295"/>
+<area shape="poly" id="edge11_Node000011_Node000012" title=" " alt="" coords="496,278,456,278,456,273,496,273"/>
 </map>

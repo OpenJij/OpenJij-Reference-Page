@@ -1,5 +1,7 @@
 <map id="converter.hpp" name="converter.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="100,5,211,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,143,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="167,80,309,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="100,5,211,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,143,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="144,33,99,72,96,68,141,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="167,79,309,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,29,216,67,212,72,167,33"/>
 </map>

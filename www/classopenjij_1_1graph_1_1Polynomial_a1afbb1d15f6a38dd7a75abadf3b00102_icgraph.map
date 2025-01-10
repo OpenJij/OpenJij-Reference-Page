@@ -1,0 +1,11 @@
+<map id="openjij::graph::Polynomial::J" name="openjij::graph::Polynomial::J">
+<area shape="rect" id="Node000001" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="257,80,461,105"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Polynomial.html#a32c1aee1a4c4a4f725022ce9110b7008" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="5,5,209,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="310,78,209,45,166,33,167,28,210,39,312,73"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Polynomial.html#a3573f59e6271c09e8f85f646f04658ba" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="5,55,209,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="244,84,209,80,210,75,244,78"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Polynomial.html#a4ad7d4e5bd92623e19c69a89c21bc1ba" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="5,104,209,129"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="244,106,210,110,209,104,244,101"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Polynomial.html#a64b3bef73c7a8c67d965127d00be4eac" title="Return the interaction corresponding to the input argument." alt="" coords="5,153,209,179"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="309,112,210,143,163,156,161,151,209,138,307,107"/>
+</map>

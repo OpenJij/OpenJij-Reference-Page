@@ -1,17 +1,14 @@
 var searchData=
 [
-  ['lambda_338',['lambda',['../structopenjij_1_1utility_1_1UpdaterParameter_3_01system_1_1classical__constraint__system_01_4.html#abaa48dba7b59ff42b49e8d24d6411a74',1,'openjij::utility::UpdaterParameter&lt; system::classical_constraint_system &gt;']]],
-  ['len_339',['LEN',['../structfmath_1_1local_1_1LogVar.html#a5ad9a228a44e9c301552f791d22c1448a9cd92b10a14da1491d2ee11b1b990ba5',1,'fmath::local::LogVar']]],
-  ['linear_340',['LINEAR',['../namespaceopenjij_1_1utility.html#a4b524c59b5aed5ea0bd580c36b189576aaac544aacc3615aada24897a215f5046',1,'openjij::utility']]],
-  ['linear_5fising_5fschedule_341',['linear_ising_schedule',['../namespaceopenjij_1_1sampler_1_1sqa__sampler.html#ae78de7ec7672523d3532a172a2da7d50',1,'openjij::sampler::sqa_sampler']]],
-  ['log_342',['log',['../namespacefmath.html#a8d7e069e304bd8d5dcde3f4927ac41a3',1,'fmath']]],
-  ['log2_343',['log2',['../namespacefmath.html#a6d88d47d1bf9930b30d2b20d447b4fd5',1,'fmath']]],
-  ['log_5fpd_344',['log_pd',['../namespacefmath.html#a6477db3793426f1a9416439a69381384',1,'fmath']]],
-  ['log_5fps_345',['log_ps',['../namespacefmath.html#aa231e7a9fff68eb495ba898f74b71504',1,'fmath']]],
-  ['log_5ftable_5fsize_346',['LOG_TABLE_SIZE',['../namespacefmath_1_1local.html#a3b151e66012caa9b107c68c8995ed078',1,'fmath::local']]],
-  ['logger_347',['logger',['../namespaceopenjij_1_1utils_1_1benchmark.html#ab321df4b5801c43d13f2781728792009',1,'openjij::utils::benchmark']]],
-  ['logvar_348',['LogVar',['../structfmath_1_1local_1_1LogVar.html',1,'fmath::local']]],
-  ['logvar_349',['logVar',['../structfmath_1_1local_1_1C.html#ae28e2b75d0d0eb48d56832eac7bf44c8',1,'fmath::local::C']]],
-  ['logvar_350',['LogVar',['../structfmath_1_1local_1_1LogVar.html#a7a0f2824ba8a62727c51769e5dea1f4d',1,'fmath::local::LogVar']]],
-  ['logvar_3c_20log_5ftable_5fsize_20_3e_351',['LogVar&lt; LOG_TABLE_SIZE &gt;',['../structfmath_1_1local_1_1LogVar.html',1,'fmath::local']]]
+  ['k_20local_20update_20mdash_0',['the system for k-local update-------------&amp;mdash;',['../classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#autotoc_md1',1,'']]],
+  ['k_5flocal_2ehpp_1',['k_local.hpp',['../k__local_8hpp.html',1,'']]],
+  ['k_5flocal_5fpolynomial_2ehpp_2',['k_local_polynomial.hpp',['../k__local__polynomial_8hpp.html',1,'']]],
+  ['kernel_2ehpp_3',['kernel.hpp',['../kernel_8hpp.html',1,'']]],
+  ['key_5fvalue_5flist_5f_4',['key_value_list_',['../classopenjij_1_1graph_1_1BinaryPolynomialModel.html#adf58cfd3c63b52db7977d4f5197a3282',1,'openjij::graph::BinaryPolynomialModel::key_value_list_'],['../classopenjij_1_1graph_1_1IsingPolynomialModel.html#a2ce1c84c66c0a7375a3b28b670b134ab',1,'openjij::graph::IsingPolynomialModel::key_value_list_'],['../classopenjij_1_1system_1_1SASystem_3_01graph_1_1BinaryPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#aafc249c199d864b06c6b73565514f6d6',1,'openjij::system::SASystem&lt; graph::BinaryPolynomialModel&lt; FloatType &gt;, RandType &gt;::key_value_list_'],['../classopenjij_1_1system_1_1SASystem_3_01graph_1_1IsingPolynomialModel_3_01FloatType_01_4_00_01RandType_01_4.html#a78f0a950286e77ff5fe00debb195c515',1,'openjij::system::SASystem&lt; graph::IsingPolynomialModel&lt; FloatType &gt;, RandType &gt;::key_value_list_']]],
+  ['king_5fgraph_2epy_5',['king_graph.py',['../king__graph_8py.html',1,'']]],
+  ['kinggraph_6',['KingGraph',['../namespaceopenjij_1_1model_1_1king__graph.html#a4d2465e449796f4fe9283c7f2c1a66f9',1,'openjij::model::king_graph']]],
+  ['klocal_7',['KLocal',['../structopenjij_1_1updater_1_1KLocal.html',1,'openjij::updater']]],
+  ['klocal_3c_20system_3a_3aklocalpolynomial_3c_20graphtype_20_3e_20_3e_8',['KLocal&lt; system::KLocalPolynomial&lt; GraphType &gt; &gt;',['../structopenjij_1_1updater_1_1KLocal_3_01system_1_1KLocalPolynomial_3_01GraphType_01_4_01_4.html',1,'openjij::updater']]],
+  ['klocalpolynomial_9',['klocalpolynomial',['../classopenjij_1_1system_1_1KLocalPolynomial.html',1,'openjij::system::KLocalPolynomial&lt; GraphType &gt;'],['../classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a41227b8570f49b60eb15340a2e3c58f6',1,'openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::KLocalPolynomial(const graph::Binaries &amp;init_binaries, const graph::Polynomial&lt; FloatType &gt; &amp;poly_graph)'],['../classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a3c8d5395b86dcf8024755520bec2f6fb',1,'openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::KLocalPolynomial(const graph::Binaries &amp;init_binaries, const nlohmann::json &amp;j)']]],
+  ['klocalpolynomial_3c_20graph_3a_3apolynomial_3c_20floattype_20_3e_20_3e_10',['KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;',['../classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html',1,'openjij::system']]]
 ];

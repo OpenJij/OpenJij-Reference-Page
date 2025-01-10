@@ -1,0 +1,6 @@
+<map id="openjij::graph::Sparse::adj_nodes" name="openjij::graph::Sparse::adj_nodes">
+<area shape="rect" id="Node000001" title="list of adjacent nodes" alt="" coords="5,29,168,69"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="216,29,363,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,47,202,47,202,52,168,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="251,30,249,20,255,11,269,5,289,3,313,6,326,13,323,18,311,11,289,8,270,10,258,15,254,21,256,28"/>
+</map>

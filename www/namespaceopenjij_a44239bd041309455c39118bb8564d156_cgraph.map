@@ -1,0 +1,12 @@
+<map id="openjij::declare_CSRSparse" name="openjij::declare_CSRSparse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,57,204,82"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1CSRSparse.html#a0cbf16143729d29ad40f8ecfbc23a948" title="calculate total energy" alt="" coords="252,49,441,89"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="204,67,238,67,238,72,204,72"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1CSRSparse.html#a44cdc271d044ea9deaf4acba8e3b09fe" title="calculate total energy" alt="" coords="489,49,679,89"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,67,476,67,476,72,441,72"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="727,5,885,45"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="678,48,713,41,714,46,680,53"/>
+<area shape="rect" id="Node000005" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="733,93,879,133"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="680,86,720,94,719,99,678,91"/>
+<area shape="poly" id="edge5_Node000005_Node000005" title=" " alt="" coords="765,94,762,84,769,74,784,69,806,67,832,70,846,77,844,82,830,75,806,72,785,74,772,79,767,85,770,92"/>
+</map>

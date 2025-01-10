@@ -1,5 +1,7 @@
 <map id="openjij::system::inhomogeneous_transverse_field_system" name="openjij::system::inhomogeneous_transverse_field_system">
-<area shape="rect" id="node1" title="inhomogeneous transverse field system" alt="" coords="5,184,240,225"/>
-<area shape="rect" id="node2" href="$structopenjij_1_1system_1_1quantum__system.html" title="quantum monte carlo system" alt="" coords="29,95,217,136"/>
-<area shape="rect" id="node3" href="$structopenjij_1_1system_1_1mc__system.html" title="monte carlo system tag" alt="" coords="47,5,198,47"/>
+<area shape="rect" id="Node000001" title="inhomogeneous transverse field system" alt="" coords="5,181,240,221"/>
+<area shape="rect" id="Node000002" href="$structopenjij_1_1system_1_1quantum__system.html" title="quantum monte carlo system" alt="" coords="29,93,217,133"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="125,147,125,181,120,181,120,147"/>
+<area shape="rect" id="Node000003" href="$structopenjij_1_1system_1_1mc__system.html" title="monte carlo system tag" alt="" coords="47,5,198,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="125,59,125,93,120,93,120,59"/>
 </map>

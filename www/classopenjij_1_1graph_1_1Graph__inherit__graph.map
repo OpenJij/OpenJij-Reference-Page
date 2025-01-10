@@ -1,10 +1,17 @@
 <map id="openjij::graph::Graph" name="openjij::graph::Graph">
-<area shape="rect" id="node1" title="Abstract graph class." alt="" coords="5,143,164,170"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Sparse.html" title=" " alt="" coords="227,5,389,47"/>
-<area shape="rect" id="node4" href="$classopenjij_1_1graph_1_1CSRSparse.html" title="CSRSparse graph: just store CSR Sparse Matrix (Eigen::Sparse) The Hamiltonian is like." alt="" coords="213,71,403,112"/>
-<area shape="rect" id="node5" href="$classopenjij_1_1graph_1_1Dense.html" title="two&#45;body all&#45;to&#45;all interactions The Hamiltonian is like" alt="" coords="228,136,388,177"/>
-<area shape="rect" id="node6" href="$classopenjij_1_1graph_1_1Polynomial.html" title="Polynomial graph class, which can treat many&#45;body interactions." alt="" coords="212,201,404,243"/>
-<area shape="rect" id="node7" href="$classopenjij_1_1graph_1_1Sparse.html" title="Sparse graph: two&#45;body intereactions with O(1) connectivity The Hamiltonian is like." alt="" coords="227,267,389,308"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Chimera.html" title="chimera lattice graph" alt="" coords="452,5,627,47"/>
-<area shape="rect" id="node8" href="$classopenjij_1_1graph_1_1Square.html" title="square lattice graph" alt="" coords="457,267,621,308"/>
+<area shape="rect" id="Node000001" title="Abstract graph class." alt="" coords="5,141,164,166"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Sparse.html" title=" " alt="" coords="227,5,389,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="108,129,154,92,211,55,237,43,239,48,213,60,157,96,111,134"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1CSRSparse.html" title="CSRSparse graph: just store CSR Sparse Matrix (Eigen::Sparse) The Hamiltonian is like." alt="" coords="213,69,403,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="143,134,237,107,238,112,144,139"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Dense.html" title="two&#45;body all&#45;to&#45;all interactions The Hamiltonian is like" alt="" coords="228,133,388,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="178,151,228,151,228,156,178,156"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Polynomial.html" title="Polynomial graph class, which can treat many&#45;body interactions." alt="" coords="212,197,404,237"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="144,167,238,195,237,200,143,173"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Sparse.html" title="Sparse graph: two&#45;body intereactions with O(1) connectivity The Hamiltonian is like." alt="" coords="227,261,389,301"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="111,173,157,210,213,247,239,259,237,264,211,252,154,215,108,177"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Chimera.html" title="chimera lattice graph" alt="" coords="452,229,627,269"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="403,266,452,259,452,264,404,271"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1graph_1_1Square.html" title="square lattice graph" alt="" coords="457,293,621,333"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="404,292,457,299,457,305,403,297"/>
 </map>

@@ -1,0 +1,29 @@
+<map id="openjij::declare_Sparse" name="openjij::declare_Sparse">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,212,179,237"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Sparse.html#a191f530cee623682979e5408097e35ad" title="calculate total energy" alt="" coords="227,175,389,215"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="179,210,213,205,214,211,179,215"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Sparse.html#a192d369653ca6c86b378f3b15137023c" title="access h_{i} (local field)" alt="" coords="648,183,827,208"/>
+<area shape="poly" id="edge17_Node000001_Node000005" title=" " alt="" coords="179,229,372,235,486,233,600,225,679,209,680,214,600,230,486,239,372,241,179,234"/>
+<area shape="rect" id="Node000006" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="1091,230,1238,270"/>
+<area shape="poly" id="edge19_Node000001_Node000006" title=" " alt="" coords="119,235,186,266,283,304,339,321,398,335,458,345,517,349,739,349,839,341,938,322,1027,297,1100,272,1102,277,1029,302,939,327,840,346,739,354,517,354,457,350,397,341,338,326,282,309,184,271,117,240"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1graph_1_1Sparse.html#a92c61fd612fd9b1dd46ec886e3b266a5" title="access J_{ij}" alt="" coords="650,129,825,155"/>
+<area shape="poly" id="edge18_Node000001_Node000008" title=" " alt="" coords="113,209,163,183,226,161,334,141,445,132,548,130,636,132,636,137,548,135,445,137,335,147,227,166,165,188,115,214"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1" title="calculate total energy" alt="" coords="437,175,600,215"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="390,193,424,193,424,198,390,198"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="1085,15,1244,55"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="546,173,602,134,681,87,774,43,824,25,874,11,925,4,976,3,1072,13,1072,18,976,8,925,9,875,16,826,30,776,48,684,92,605,139,549,177"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="600,193,635,193,635,198,600,198"/>
+<area shape="poly" id="edge16_Node000003_Node000006" title=" " alt="" coords="601,209,648,217,761,232,875,241,1078,247,1077,252,875,246,761,237,648,222,600,214"/>
+<area shape="poly" id="edge12_Node000003_Node000008" title=" " alt="" coords="600,173,670,155,672,161,601,178"/>
+<area shape="poly" id="edge5_Node000005_Node000004" title=" " alt="" coords="795,180,825,164,841,144,847,124,855,103,873,84,908,69,957,57,1071,40,1072,46,958,62,909,74,876,88,860,106,852,126,845,147,828,168,798,185"/>
+<area shape="poly" id="edge6_Node000005_Node000006" title=" " alt="" coords="811,205,875,215,1078,239,1077,244,874,220,810,210"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="875,122,1037,162"/>
+<area shape="poly" id="edge8_Node000005_Node000007" title=" " alt="" coords="790,180,861,162,862,167,791,185"/>
+<area shape="poly" id="edge7_Node000006_Node000006" title=" " alt="" coords="1126,230,1123,220,1129,211,1143,205,1165,203,1189,206,1202,213,1200,218,1187,211,1165,209,1145,210,1133,215,1128,221,1131,229"/>
+<area shape="poly" id="edge9_Node000007_Node000004" title=" " alt="" coords="995,119,1111,59,1113,64,997,124"/>
+<area shape="poly" id="edge10_Node000007_Node000006" title=" " alt="" coords="1001,160,1039,178,1117,221,1115,225,1036,183,999,164"/>
+<area shape="poly" id="edge11_Node000007_Node000007" title=" " alt="" coords="917,122,915,112,921,103,935,97,956,95,980,98,994,105,991,110,979,103,956,101,936,102,924,107,920,113,922,121"/>
+<area shape="poly" id="edge13_Node000008_Node000004" title=" " alt="" coords="749,127,799,81,835,58,874,39,923,27,975,20,1072,21,1072,26,975,26,924,32,876,44,837,62,803,86,752,131"/>
+<area shape="poly" id="edge14_Node000008_Node000006" title=" " alt="" coords="789,152,1079,226,1078,231,788,157"/>
+<area shape="poly" id="edge15_Node000008_Node000007" title=" " alt="" coords="825,139,861,139,861,145,825,145"/>
+</map>

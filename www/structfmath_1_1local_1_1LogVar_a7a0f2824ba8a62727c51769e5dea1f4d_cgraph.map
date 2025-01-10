@@ -1,5 +1,8 @@
 <map id="fmath::local::LogVar::LogVar" name="fmath::local::LogVar::LogVar">
-<area shape="rect" id="node1" title=" " alt="" coords="5,23,157,65"/>
-<area shape="rect" id="node2" href="$namespacefmath.html#a8d7e069e304bd8d5dcde3f4927ac41a3" title=" " alt="" coords="205,5,295,32"/>
-<area shape="rect" id="node3" href="$namespacefmath_1_1local.html#aeeeb445903225ce0c8dadc6c5b5343f6" title=" " alt="" coords="343,31,487,57"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,23,157,63"/>
+<area shape="rect" id="Node000002" href="$namespacefmath.html#a8d7e069e304bd8d5dcde3f4927ac41a3" title=" " alt="" coords="205,5,295,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="157,29,191,24,192,29,158,35"/>
+<area shape="rect" id="Node000003" href="$namespacefmath_1_1local.html#aeeeb445903225ce0c8dadc6c5b5343f6" title=" " alt="" coords="343,31,487,56"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="158,41,329,41,329,46,158,46"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="295,22,329,27,329,33,294,27"/>
 </map>

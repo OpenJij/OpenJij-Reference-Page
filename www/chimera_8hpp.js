@@ -1,6 +1,6 @@
 var chimera_8hpp =
 [
-    [ "Chimera", "classopenjij_1_1graph_1_1Chimera.html", "classopenjij_1_1graph_1_1Chimera" ],
+    [ "openjij::graph::Chimera< FloatType >", "classopenjij_1_1graph_1_1Chimera.html", "classopenjij_1_1graph_1_1Chimera" ],
     [ "ChimeraIndex", "chimera_8hpp.html#ab3ab5083636f31f19ad0927540b5ff89", null ],
     [ "ChimeraDir", "chimera_8hpp.html#ab44b344be095f9f484ff5a8f5cb5dddf", [
       [ "PLUS_R", "chimera_8hpp.html#ab44b344be095f9f484ff5a8f5cb5dddfac97d27cd9c17d9a2960177cdcb2eca63", null ],

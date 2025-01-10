@@ -1,6 +1,9 @@
 <map id="index_type.hpp" name="index_type.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="66,5,189,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,73,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="98,80,157,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="181,80,244,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="66,5,189,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,73,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="115,33,66,72,63,68,112,29"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="98,79,157,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="130,31,130,65,125,65,125,31"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="181,79,244,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="143,29,190,68,187,72,139,33"/>
 </map>

@@ -1,6 +1,9 @@
 <map id="fmath::local::C&lt; EXP_N, LOG_N, EXPD_N &gt;" name="fmath::local::C&lt; EXP_N, LOG_N, EXPD_N &gt;">
-<area shape="rect" id="node1" title=" " alt="" coords="281,71,448,112"/>
-<area shape="rect" id="node2" href="$structfmath_1_1local_1_1ExpdVar.html" title=" " alt="" coords="5,5,176,47"/>
-<area shape="rect" id="node3" href="$structfmath_1_1local_1_1LogVar.html" title=" " alt="" coords="9,71,172,112"/>
-<area shape="rect" id="node4" href="$structfmath_1_1local_1_1ExpVar.html" title=" " alt="" coords="11,136,171,177"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="281,69,448,109"/>
+<area shape="rect" id="Node000002" href="$structfmath_1_1local_1_1ExpVar.html" title=" " alt="" coords="11,5,171,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="185,44,282,67,280,73,183,50"/>
+<area shape="rect" id="Node000003" href="$structfmath_1_1local_1_1LogVar.html" title=" " alt="" coords="9,69,172,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="186,87,281,87,281,92,186,92"/>
+<area shape="rect" id="Node000004" href="$structfmath_1_1local_1_1ExpdVar.html" title=" " alt="" coords="5,133,176,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="189,128,280,106,281,111,190,133"/>
 </map>

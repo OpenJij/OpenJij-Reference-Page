@@ -33,13 +33,12 @@ var hierarchy =
     [ "openjij::utility::get_eigen_matrix_type< graph::Sparse< FloatType >, Options >", "structopenjij_1_1utility_1_1get__eigen__matrix__type_3_01graph_1_1Sparse_3_01FloatType_01_4_00_01Options_01_4.html", null ],
     [ "openjij::system::get_system_type< System >", "structopenjij_1_1system_1_1get__system__type.html", null ],
     [ "openjij::graph::Graph", "classopenjij_1_1graph_1_1Graph.html", [
-      [ "openjij::graph::Sparse< double >", "classopenjij_1_1graph_1_1Sparse.html", [
-        [ "openjij::graph::Chimera< FloatType >", "classopenjij_1_1graph_1_1Chimera.html", null ]
-      ] ],
+      [ "openjij::graph::Sparse< double >", "classopenjij_1_1graph_1_1Sparse.html", null ],
       [ "openjij::graph::CSRSparse< FloatType >", "classopenjij_1_1graph_1_1CSRSparse.html", null ],
       [ "openjij::graph::Dense< FloatType >", "classopenjij_1_1graph_1_1Dense.html", null ],
       [ "openjij::graph::Polynomial< FloatType >", "classopenjij_1_1graph_1_1Polynomial.html", null ],
       [ "openjij::graph::Sparse< FloatType >", "classopenjij_1_1graph_1_1Sparse.html", [
+        [ "openjij::graph::Chimera< FloatType >", "classopenjij_1_1graph_1_1Chimera.html", null ],
         [ "openjij::graph::Square< FloatType >", "classopenjij_1_1graph_1_1Square.html", null ]
       ] ]
     ] ],

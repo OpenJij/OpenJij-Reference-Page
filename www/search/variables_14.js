@@ -1,4 +1,7 @@
 var searchData=
 [
-  ['w_1267',['w',['../classopenjij_1_1utility_1_1Xorshift.html#a72bd6a22c39672af21fdaa5b0698246c',1,'openjij::utility::Xorshift']]]
+  ['variables_0',['variables',['../classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a0e70db2e41f22b2e0c9670efef68d24e',1,'openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::variables'],['../classopenjij_1_1sampler_1_1response_1_1Response.html#aafe0b6629e11e59f71d4631a7a52ffaf',1,'openjij::sampler.response.Response.variables']]],
+  ['vartype_1',['vartype',['../classopenjij_1_1system_1_1ClassicalIsingPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#ab08e64a4278ab5685cd1ed993e1db9a6',1,'openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::vartype'],['../classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a7d6ee535ab35f9c54e572657a97d6ae0',1,'openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::vartype'],['../namespaceopenjij_1_1variable__type.html#a5e58469bb414a5792a074d3e211a1a24',1,'openjij.variable_type.Vartype']]],
+  ['version_2',['version',['../namespaceopenjij_1_1__version.html#a3d04f92e7b58ee92629ed6b0449f5348',1,'openjij::_version']]],
+  ['version_5ftuple_3',['version_tuple',['../namespaceopenjij_1_1__version.html#a4885a753420be77886cd9ba0ce20ee0b',1,'openjij._version.VERSION_TUPLE'],['../namespaceopenjij_1_1__version.html#a459b12ad6437a67625dd2e0b93cabed2',1,'openjij._version.version_tuple']]]
 ];

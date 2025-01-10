@@ -1,5 +1,7 @@
 <map id="fmath::pow_ps" name="fmath::pow_ps">
-<area shape="rect" id="node1" title=" " alt="" coords="5,31,124,57"/>
-<area shape="rect" id="node2" href="$namespacefmath.html#aa9f926dd80a492c4f08ae4b8e290a666" title=" " alt="" coords="172,5,287,32"/>
-<area shape="rect" id="node3" href="$namespacefmath.html#aa231e7a9fff68eb495ba898f74b71504" title=" " alt="" coords="174,56,285,83"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,31,124,56"/>
+<area shape="rect" id="Node000002" href="$namespacefmath.html#aa9f926dd80a492c4f08ae4b8e290a666" title=" " alt="" coords="172,5,287,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="124,32,158,26,159,32,124,37"/>
+<area shape="rect" id="Node000003" href="$namespacefmath.html#aa231e7a9fff68eb495ba898f74b71504" title=" " alt="" coords="174,55,285,80"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="124,49,161,55,160,60,124,55"/>
 </map>

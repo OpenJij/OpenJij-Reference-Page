@@ -11,10 +11,10 @@ var classopenjij_1_1graph_1_1Dense =
     [ "energy", "classopenjij_1_1graph_1_1Dense.html#a76b5bd5d350228f43d19d077cd4df4a3", null ],
     [ "energy", "classopenjij_1_1graph_1_1Dense.html#a5e44f0e517894774e11b46c4fec4a2c3", null ],
     [ "get_interactions", "classopenjij_1_1graph_1_1Dense.html#ad1da86645b3f8a7c99998e62441779e1", null ],
-    [ "h", "classopenjij_1_1graph_1_1Dense.html#a61cecf6e86b3d06d6ce9f0e6789d409d", null ],
-    [ "h", "classopenjij_1_1graph_1_1Dense.html#a9607aa4b8ffee8a917c449f3517eae53", null ],
-    [ "J", "classopenjij_1_1graph_1_1Dense.html#aaec085e0666f41ce6c82fa2164043231", null ],
-    [ "J", "classopenjij_1_1graph_1_1Dense.html#a13b8cb6cb1dbce7be896f49cd18ad06f", null ],
+    [ "h", "classopenjij_1_1graph_1_1Dense.html#af0ef5ba424979b16d2b5476f1beb0955", null ],
+    [ "h", "classopenjij_1_1graph_1_1Dense.html#acdb6cf1565185349d8d3777239831a28", null ],
+    [ "J", "classopenjij_1_1graph_1_1Dense.html#a5ba184723e12567adaca99f3c8314ede", null ],
+    [ "J", "classopenjij_1_1graph_1_1Dense.html#ae9532216e24f3e1895e9b5975e7609d3", null ],
     [ "set_interaction_matrix", "classopenjij_1_1graph_1_1Dense.html#a86d50cf33cf572d32e01ae691a5cc92a", null ],
     [ "_J", "classopenjij_1_1graph_1_1Dense.html#a6aeec173203c1742f1d940c3393d6116", null ]
 ];

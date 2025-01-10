@@ -1,6 +1,6 @@
 var algorithm_8hpp =
 [
-    [ "Algorithm", "structopenjij_1_1algorithm_1_1Algorithm.html", "structopenjij_1_1algorithm_1_1Algorithm" ],
+    [ "openjij::algorithm::Algorithm< Updater >", "structopenjij_1_1algorithm_1_1Algorithm.html", "structopenjij_1_1algorithm_1_1Algorithm" ],
     [ "MCMC", "algorithm_8hpp.html#a92d447fd09fbe02915144cf03d1691e0", null ],
     [ "RandomNumberEngine", "algorithm_8hpp.html#a4d22db93d01ad33a00e2c853c1c0d604", [
       [ "XORSHIFT", "algorithm_8hpp.html#a4d22db93d01ad33a00e2c853c1c0d604a92174a14545bae50d8a83c5e4eac89d3", null ],
@@ -11,5 +11,5 @@ var algorithm_8hpp =
       [ "METROPOLIS", "algorithm_8hpp.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa927bbbfc6e23f42b7a6d80edade77733", null ],
       [ "HEAT_BATH", "algorithm_8hpp.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa52186bba0a3e7af22a70ebb93de1b146", null ]
     ] ],
-    [ "GenerateRandomNumberEngineClass", "algorithm_8hpp.html#aeae5e1197c7b64ce9ec56a0cc6c2c7f0", null ]
+    [ "GenerateRandomNumberEngineClass", "algorithm_8hpp.html#a0a15763fde949a53dde9e1f179cd8793", null ]
 ];

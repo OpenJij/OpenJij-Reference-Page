@@ -1,4 +1,6 @@
 <map id="openjij::declare_TemperatureSchedule" name="openjij::declare_TemperatureSchedule">
-<area shape="rect" id="node1" title=" " alt="" coords="204,5,415,47"/>
-<area shape="rect" id="node2" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,13,156,39"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,29,415,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="348,18,334,11,309,8,288,10,274,15,270,21,272,28,267,30,264,20,271,10,286,5,309,3,336,6,350,13"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,37,156,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="190,52,156,52,156,47,190,47"/>
 </map>

@@ -1,7 +1,11 @@
 <map id="graph.hpp" name="graph.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="139,5,225,32"/>
-<area shape="rect" id="node2" title=" " alt="" coords="5,80,76,107"/>
-<area shape="rect" id="node3" title=" " alt="" coords="101,80,173,107"/>
-<area shape="rect" id="node4" title=" " alt="" coords="197,80,260,107"/>
-<area shape="rect" id="node5" title=" " alt="" coords="285,80,431,107"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="139,5,225,31"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,79,76,104"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="160,33,77,75,75,70,158,28"/>
+<area shape="rect" id="Node000003" title=" " alt="" coords="101,79,173,104"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="177,32,154,69,149,66,172,30"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="197,79,260,104"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="192,30,216,66,211,69,187,32"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="285,79,431,104"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="211,28,317,71,315,76,209,33"/>
 </map>

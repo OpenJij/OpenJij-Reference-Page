@@ -1,5 +1,8 @@
 <map id="openjij::updater::ContinuousTimeSwendsenWang&lt; system::ContinuousTimeIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt; &gt;::update" name="openjij::updater::ContinuousTimeSwendsenWang&lt; system::ContinuousTimeIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt; &gt;::update">
-<area shape="rect" id="node1" title="continuous time Swendsen&#45;Wang updater for transverse ising model" alt="" coords="5,5,228,91"/>
-<area shape="rect" id="node2" href="$structopenjij_1_1utility_1_1UnionFind.html#a13d279717a4e3ab1282dd1a7b722e38a" title=" " alt="" coords="508,27,692,69"/>
-<area shape="rect" id="node3" href="$structopenjij_1_1utility_1_1UnionFind.html#af09259023f688ea8a08518c0102e3056" title=" " alt="" coords="276,57,460,98"/>
+<area shape="rect" id="Node000001" title="continuous time Swendsen&#45;Wang updater for transverse ising model" alt="" coords="5,5,228,89"/>
+<area shape="rect" id="Node000002" href="$structopenjij_1_1utility_1_1UnionFind.html#a13d279717a4e3ab1282dd1a7b722e38a" title=" " alt="" coords="508,27,692,67"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,42,276,41,460,41,494,41,494,47,460,46,276,46,228,47"/>
+<area shape="rect" id="Node000003" href="$structopenjij_1_1utility_1_1UnionFind.html#af09259023f688ea8a08518c0102e3056" title=" " alt="" coords="276,55,460,95"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="228,57,263,61,262,66,228,62"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="460,62,494,57,494,63,461,67"/>
 </map>

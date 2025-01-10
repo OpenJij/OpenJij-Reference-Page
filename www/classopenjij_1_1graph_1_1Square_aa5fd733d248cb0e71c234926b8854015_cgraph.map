@@ -1,4 +1,8 @@
 <map id="openjij::graph::Square::to_rc" name="openjij::graph::Square::to_rc">
-<area shape="rect" id="node1" title="convert from global index to (row x column) index" alt="" coords="5,5,169,47"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="217,5,376,47"/>
+<area shape="rect" id="Node000001" title="convert from global index to (row x column) index" alt="" coords="5,49,169,89"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="217,5,376,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,49,203,42,204,47,170,55"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="223,93,370,133"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,84,211,93,209,98,169,89"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="258,94,255,84,261,74,275,69,297,67,321,70,334,77,332,82,319,75,297,72,277,74,265,79,260,85,263,92"/>
 </map>

@@ -1,0 +1,19 @@
+<map id="openjij.sampler.sampler.BaseSampler._set_params" name="openjij.sampler.sampler.BaseSampler._set_params">
+<area shape="rect" id="Node000001" title=" " alt="" coords="612,117,807,157"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#acf99c74c79af45484831139e1340c036" title=" " alt="" coords="352,5,512,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="653,113,563,75,511,58,513,53,565,70,655,108"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a0dcda3019247d94d43301c040a996381" title=" " alt="" coords="328,85,536,125"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="598,127,536,119,537,114,599,121"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#aa5cd16c3774036f5d322da427c872793" title=" " alt="" coords="323,149,541,189"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="599,152,541,159,541,153,598,147"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html#a8b012bf7b6991ec7d98750687cab9c8c" title=" " alt="" coords="300,213,564,253"/>
+<area shape="poly" id="edge9_Node000001_Node000008" title=" " alt="" coords="657,165,565,203,525,215,523,210,563,198,655,160"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#af365277ca54ea3bafbb9df63686c9621" title=" " alt="" coords="5,13,252,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="338,35,252,35,252,30,338,30"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#ae2054043eac5a3eb17895fd6094b661f" title=" " alt="" coords="30,149,227,189"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="324,130,225,151,223,146,323,125"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a49ec158ed2d6fac524b6ad80163cd690" title=" " alt="" coords="29,85,228,125"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="314,107,228,107,228,102,314,102"/>
+<area shape="poly" id="edge7_Node000007_Node000005" title=" " alt="" coords="309,171,227,171,227,166,309,166"/>
+<area shape="poly" id="edge8_Node000007_Node000006" title=" " alt="" coords="323,148,223,127,225,122,324,143"/>
+</map>

@@ -1,0 +1,12 @@
+<map id="openjij::graph::Dense::h" name="openjij::graph::Dense::h">
+<area shape="rect" id="Node000001" title="access h_{i} (local field)" alt="" coords="5,59,181,85"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="449,5,608,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="154,57,229,44,336,33,436,27,436,32,337,38,230,49,155,62"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Dense.html#a5ba184723e12567adaca99f3c8314ede" title="access J_{ij}" alt="" coords="229,59,401,85"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="181,69,215,69,215,75,181,75"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="455,96,602,136"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="154,82,230,95,340,105,441,111,441,116,339,110,229,100,153,87"/>
+<area shape="poly" id="edge3_Node000003_Node000002" title=" " alt="" coords="374,57,435,43,436,48,375,62"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="378,82,442,96,441,101,377,87"/>
+<area shape="poly" id="edge5_Node000004_Node000004" title=" " alt="" coords="489,96,486,86,493,77,507,71,529,69,554,72,567,80,565,84,552,77,529,75,508,77,496,81,491,87,494,95"/>
+</map>

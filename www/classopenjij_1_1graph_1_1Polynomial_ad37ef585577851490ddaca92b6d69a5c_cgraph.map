@@ -1,5 +1,11 @@
 <map id="openjij::graph::Polynomial::J" name="openjij::graph::Polynomial::J">
-<area shape="rect" id="node1" title="Return the interaction corresponding to the input argument." alt="" coords="5,13,209,39"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Polynomial.html#ab51c8997853d877d7779500f3458ebf9" title="Check if the input keys are valid." alt="" coords="257,5,449,47"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins" alt="" coords="497,5,656,47"/>
+<area shape="rect" id="Node000001" title="Return the interaction corresponding to the input argument." alt="" coords="5,66,209,91"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Polynomial.html#ab51c8997853d877d7779500f3458ebf9" title="Check if the input keys are valid." alt="" coords="257,87,449,127"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="210,88,244,92,244,97,209,93"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="503,29,650,69"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="209,70,489,52,490,57,210,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="431,84,489,69,491,74,433,89"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins" alt="" coords="497,93,656,133"/>
+<area shape="poly" id="edge4_Node000002_Node000004" title=" " alt="" coords="450,107,484,108,484,113,449,112"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="535,30,533,20,539,10,554,5,577,3,603,6,617,13,614,18,601,11,577,8,555,10,543,15,538,21,540,28"/>
 </map>

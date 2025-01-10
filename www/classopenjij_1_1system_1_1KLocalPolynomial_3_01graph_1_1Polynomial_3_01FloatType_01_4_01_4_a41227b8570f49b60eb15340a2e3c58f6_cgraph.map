@@ -1,5 +1,7 @@
 <map id="openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::KLocalPolynomial" name="openjij::system::KLocalPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::KLocalPolynomial">
-<area shape="rect" id="node1" title="Constructor of KLocalPolynomial system class." alt="" coords="5,31,252,87"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Polynomial.html#afb0ced491842e00c43c7822d5b69d6f7" title="Get the PolynomialKeyList object (all the keys of polynomial interactions)." alt="" coords="300,5,492,47"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Polynomial.html#a1cc48e60eec6c38ddc83fcf8366d23a5" title="Get the PolynomialValueList object (all the values of polynomial interactions)." alt="" coords="300,71,492,112"/>
+<area shape="rect" id="Node000001" title="Constructor of KLocalPolynomial system class." alt="" coords="5,30,252,85"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Polynomial.html#a2d388878c1804ebe9aa58c780358f039" title="Get the PolynomialKeyList object (all the keys of polynomial interactions)." alt="" coords="300,5,492,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="252,40,286,36,287,41,253,45"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Polynomial.html#a789e9c1015defdd950dd46d7975c62d9" title="Get the PolynomialValueList object (all the values of polynomial interactions)." alt="" coords="300,69,492,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="253,69,287,74,286,79,252,75"/>
 </map>

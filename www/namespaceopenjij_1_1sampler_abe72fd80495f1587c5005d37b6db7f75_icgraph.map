@@ -1,6 +1,4 @@
 <map id="openjij::sampler::make_sa_sampler" name="openjij::sampler::make_sa_sampler">
-<area shape="rect" id="node1" title=" " alt="" coords="549,46,720,87"/>
-<area shape="rect" id="node2" href="$namespaceopenjij_1_1sampler_1_1base__sa__sample__hubo.html#a5c56a512992e279666c7a831518e4442" title=" " alt="" coords="314,5,487,61"/>
-<area shape="rect" id="node4" href="$namespaceopenjij.html#ae6980a95f2f481b126c61d37ca8e6269" title=" " alt="" coords="300,85,501,112"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ac747b0a92705852a2d731ec3fb228e15" title=" " alt="" coords="5,13,252,54"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,29,176,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="119,17,109,11,91,8,75,10,65,15,61,21,63,28,58,30,56,20,61,11,73,5,91,3,111,6,122,13"/>
 </map>

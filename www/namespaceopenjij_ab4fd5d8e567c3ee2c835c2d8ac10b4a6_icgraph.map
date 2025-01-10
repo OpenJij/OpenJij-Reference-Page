@@ -1,4 +1,6 @@
 <map id="openjij::declare_UpdateMethod" name="openjij::declare_UpdateMethod">
-<area shape="rect" id="node1" title=" " alt="" coords="204,5,429,32"/>
-<area shape="rect" id="node2" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,5,156,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,29,429,55"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="359,20,348,11,317,8,292,10,278,15,275,20,282,27,279,31,270,21,275,11,290,5,317,3,350,7,362,16"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,29,156,55"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="190,45,156,45,156,39,190,39"/>
 </map>

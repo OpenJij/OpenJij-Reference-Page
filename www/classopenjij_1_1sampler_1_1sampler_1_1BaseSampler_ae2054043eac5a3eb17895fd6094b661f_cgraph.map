@@ -1,0 +1,22 @@
+<map id="openjij.sampler.sampler.BaseSampler.sample_ising" name="openjij.sampler.sampler.BaseSampler.sample_ising">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,85,203,125"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#ac75a71a869de4368e326a79dae7cb420" title=" " alt="" coords="268,21,451,61"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="184,82,265,61,266,67,185,87"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#a0dcda3019247d94d43301c040a996381" title=" " alt="" coords="255,85,463,125"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="203,102,242,102,242,107,203,107"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#aa5cd16c3774036f5d322da427c872793" title=" " alt="" coords="251,153,468,193"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="180,122,271,147,270,152,179,127"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3a6f1d444e5ce26a0040ee9129a8b6aa" title=" " alt="" coords="529,85,723,125"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="463,102,515,102,515,107,463,107"/>
+<area shape="rect" id="Node000005" href="$namespaceopenjij_1_1sampler_1_1sa__sampler.html#a23a53d9c443343a195a584f7fa1872be" title=" " alt="" coords="531,5,721,60"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="434,82,517,59,519,64,435,87"/>
+<area shape="poly" id="edge10_Node000006_Node000004" title=" " alt="" coords="438,150,533,125,535,131,439,155"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#ab13d17ed681df57a5db66ecb37701ca0" title=" " alt="" coords="521,149,731,204"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="468,172,507,172,507,178,468,177"/>
+<area shape="rect" id="Node000010" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a2025ac7a4bb12cc488b67930cacfec46" title=" " alt="" coords="516,229,736,269"/>
+<area shape="poly" id="edge9_Node000006_Node000010" title=" " alt="" coords="431,190,543,222,541,227,430,195"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ae2521a275d2d8a5baf40062040dbab14" title=" " alt="" coords="784,109,999,164"/>
+<area shape="poly" id="edge7_Node000007_Node000008" title=" " alt="" coords="731,158,770,152,771,158,732,163"/>
+<area shape="rect" id="Node000009" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a756b20aca3799e889d88df14270fd99b" title=" " alt="" coords="784,188,999,243"/>
+<area shape="poly" id="edge8_Node000007_Node000009" title=" " alt="" coords="732,189,771,195,770,200,731,195"/>
+</map>

@@ -1,9 +1,23 @@
 <map id="openjij::graph::Square::Square" name="openjij::graph::Square::Square">
-<area shape="rect" id="node1" title="square lattice graph constructor" alt="" coords="5,68,169,109"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Sparse.html#a337f18d08a33bdffcfb033e4f3781faf" title="access J_{ij}" alt="" coords="217,42,392,69"/>
-<area shape="rect" id="node5" href="$classopenjij_1_1graph_1_1Square.html#af2a2bdbb0fe60b2c17ae106c2d0d9630" title="convert from (row x column) index to global index" alt="" coords="223,100,387,141"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="652,5,811,47"/>
-<area shape="rect" id="node4" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="441,35,603,76"/>
-<area shape="rect" id="node6" href="$classopenjij_1_1graph_1_1Square.html#aa77842091b3cc86d56f3d8e141561770" title="mod function (a mod num_column)" alt="" coords="440,100,604,141"/>
-<area shape="rect" id="node7" href="$classopenjij_1_1graph_1_1Square.html#a11e705f0de4f6377bf4cdf531ba146bf" title="mod function (a mod num_row)" alt="" coords="440,165,604,207"/>
+<area shape="rect" id="Node000001" title="square lattice graph constructor" alt="" coords="5,160,169,200"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Sparse.html#a92c61fd612fd9b1dd46ec886e3b266a5" title="access J_{ij}" alt="" coords="217,89,392,114"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="142,158,255,116,257,121,144,163"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="658,129,805,169"/>
+<area shape="poly" id="edge9_Node000001_Node000004" title=" " alt="" coords="170,174,644,151,644,156,170,179"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Square.html#af2a2bdbb0fe60b2c17ae106c2d0d9630" title="convert from (row x column) index to global index" alt="" coords="223,243,387,283"/>
+<area shape="poly" id="edge10_Node000001_Node000006" title=" " alt="" coords="142,198,239,235,238,240,140,203"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="652,32,811,72"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="318,87,369,48,403,28,439,14,497,4,556,5,612,13,662,26,660,31,611,19,555,10,497,9,441,19,405,33,372,52,322,91"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="393,109,645,137,644,142,392,114"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="441,52,603,92"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="392,87,427,82,427,88,392,92"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="692,130,690,120,696,111,710,105,731,103,756,106,769,113,766,118,754,111,731,108,711,110,699,115,695,121,697,128"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="604,62,638,58,639,64,604,67"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="578,90,665,122,663,127,576,95"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="483,52,481,42,487,33,501,28,522,25,546,28,560,36,557,40,545,33,522,31,502,33,490,37,486,43,488,51"/>
+<area shape="poly" id="edge11_Node000006_Node000004" title=" " alt="" coords="387,246,491,225,603,196,670,172,672,177,605,201,492,230,388,252"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Square.html#aa77842091b3cc86d56f3d8e141561770" title="mod function (a mod num_column)" alt="" coords="440,268,604,308"/>
+<area shape="poly" id="edge12_Node000006_Node000007" title=" " alt="" coords="387,270,427,274,426,280,387,275"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1graph_1_1Square.html#a11e705f0de4f6377bf4cdf531ba146bf" title="mod function (a mod num_row)" alt="" coords="440,332,604,372"/>
+<area shape="poly" id="edge13_Node000006_Node000008" title=" " alt="" coords="353,281,441,318,458,325,456,329,439,323,351,285"/>
 </map>

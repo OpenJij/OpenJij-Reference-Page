@@ -1,6 +1,6 @@
 var square_8hpp =
 [
-    [ "Square", "classopenjij_1_1graph_1_1Square.html", "classopenjij_1_1graph_1_1Square" ],
+    [ "openjij::graph::Square< FloatType >", "classopenjij_1_1graph_1_1Square.html", "classopenjij_1_1graph_1_1Square" ],
     [ "RowColumn", "square_8hpp.html#a867f7848204eeab089a3b890c111c03a", null ],
     [ "Dir", "square_8hpp.html#adfb6c50d54400635b2768417ac912907", [
       [ "PLUS_R", "square_8hpp.html#adfb6c50d54400635b2768417ac912907ac97d27cd9c17d9a2960177cdcb2eca63", null ],

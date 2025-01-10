@@ -1,0 +1,7 @@
+<map id="openjij::graph::Graph::gen_spin" name="openjij::graph::Graph::gen_spin">
+<area shape="rect" id="Node000001" title="generate spins randomly." alt="" coords="420,5,579,45"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij.html#ab32b60ed03b9d5607fe0cdfe1641e5e6" title=" " alt="" coords="204,13,372,38"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="406,28,372,28,372,23,406,23"/>
+<area shape="rect" id="Node000003" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,13,156,38"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="190,28,157,28,157,23,190,23"/>
+</map>

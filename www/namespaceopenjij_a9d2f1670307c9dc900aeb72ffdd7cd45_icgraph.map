@@ -1,4 +1,6 @@
 <map id="openjij::declare_ClassicalUpdaterParameter" name="openjij::declare_ClassicalUpdaterParameter">
-<area shape="rect" id="node1" title=" " alt="" coords="204,5,391,47"/>
-<area shape="rect" id="node2" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,13,156,39"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="204,29,391,69"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="334,18,321,11,297,8,277,10,264,15,260,21,262,28,257,30,254,20,261,10,275,5,297,3,323,6,336,13"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,37,156,62"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="190,52,156,52,156,47,190,47"/>
 </map>

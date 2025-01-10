@@ -1,5 +1,11 @@
 <map id="openjij::graph::CSRSparse::energy" name="openjij::graph::CSRSparse::energy">
-<area shape="rect" id="node1" title="calculate total energy" alt="" coords="243,39,432,80"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1CSRSparse.html#a0cbf16143729d29ad40f8ecfbc23a948" title="calculate total energy" alt="" coords="5,5,195,47"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1CSRSparse.html#a5d14055257f43382a61836bcf0a30964" title=" " alt="" coords="5,71,195,112"/>
+<area shape="rect" id="Node000001" title="calculate total energy" alt="" coords="489,69,679,109"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1CSRSparse.html#ae75de8203a2940a0d97137eff9e066ef" title=" " alt="" coords="252,5,441,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="495,68,421,48,422,43,497,63"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1CSRSparse.html#a0cbf16143729d29ad40f8ecfbc23a948" title="calculate total energy" alt="" coords="252,69,441,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="476,92,441,92,441,87,476,87"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1CSRSparse.html#a5d14055257f43382a61836bcf0a30964" title=" " alt="" coords="252,133,441,173"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="497,116,422,136,421,131,495,110"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij.html#a44239bd041309455c39118bb8564d156" title=" " alt="" coords="5,77,204,102"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="238,92,204,92,204,87,238,87"/>
 </map>

@@ -1,0 +1,6 @@
+<map id="openjij::graph::IsingPolynomialModel::CalculateEnergy" name="openjij::graph::IsingPolynomialModel::CalculateEnergy">
+<area shape="rect" id="Node000001" title="Calculate energy corresponding to the variable configuration." alt="" coords="5,29,228,69"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="276,29,423,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="228,47,262,47,262,52,228,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="306,30,303,20,310,10,326,5,349,3,376,6,391,13,389,18,375,11,349,8,327,10,314,15,309,21,311,28"/>
+</map>

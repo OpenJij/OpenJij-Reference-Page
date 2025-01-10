@@ -1,0 +1,12 @@
+<map id="openjij::graph::Chimera::spin" name="openjij::graph::Chimera::spin">
+<area shape="rect" id="Node000001" title="derive spin value at the index (row x column)" alt="" coords="5,61,180,101"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="242,29,389,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,66,228,59,229,64,181,71"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Chimera.html#ae4aa11fec389a2318e7fe75494a96e8b" title="convert from (row x column x in&#45;chimera) index to global index" alt="" coords="228,93,403,133"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="181,91,215,96,214,102,180,97"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="274,30,271,20,278,10,293,5,315,3,341,6,355,13,353,18,340,11,315,8,294,10,281,15,277,21,279,28"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Chimera.html#a507595e51f0f839826c474d93ab693d8" title="mod function (a mod num_column)" alt="" coords="451,61,625,101"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="403,98,437,93,438,98,403,103"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Chimera.html#a0145a75817091e8ce1ad47f33d6527b5" title="mod function (a mod num_row)" alt="" coords="451,125,625,165"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="403,123,438,128,437,134,403,129"/>
+</map>

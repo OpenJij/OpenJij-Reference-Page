@@ -1,4 +1,5 @@
 <map id="openjij::system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::ClassicalIsing" name="openjij::system::ClassicalIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::ClassicalIsing">
-<area shape="rect" id="node1" title="Constructor to initialize spin and interaction." alt="" coords="5,5,232,61"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="280,13,439,54"/>
+<area shape="rect" id="Node000001" title="Constructor to initialize spin and interaction." alt="" coords="5,5,232,60"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="280,13,439,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="232,30,266,30,266,35,232,35"/>
 </map>

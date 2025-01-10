@@ -1,4 +1,5 @@
 <map id="fmath::exp" name="fmath::exp">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,99,32"/>
-<area shape="rect" id="node2" href="$namespacefmath_1_1local.html#aeeeb445903225ce0c8dadc6c5b5343f6" title=" " alt="" coords="147,5,291,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,99,31"/>
+<area shape="rect" id="Node000002" href="$namespacefmath_1_1local.html#aeeeb445903225ce0c8dadc6c5b5343f6" title=" " alt="" coords="147,5,291,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="99,15,133,15,133,21,99,21"/>
 </map>

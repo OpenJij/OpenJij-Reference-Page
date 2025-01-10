@@ -1,6 +1,9 @@
 <map id="fmath::expd" name="fmath::expd">
-<area shape="rect" id="node1" title=" " alt="" coords="336,31,437,57"/>
-<area shape="rect" id="node2" href="$namespacefmath.html#aafa779b8749cfc17d0adf38d7da65225" title=" " alt="" coords="172,5,288,32"/>
-<area shape="rect" id="node4" href="$namespacefmath.html#aca7b2a26214601204474ba7d5c546934" title=" " alt="" coords="172,56,288,83"/>
-<area shape="rect" id="node3" href="$namespacefmath.html#adf6ad6d23d69da95e121469bbf18c545" title=" " alt="" coords="5,5,124,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="336,31,437,56"/>
+<area shape="rect" id="Node000002" href="$namespacefmath.html#aafa779b8749cfc17d0adf38d7da65225" title=" " alt="" coords="172,5,288,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="322,36,288,30,289,25,323,30"/>
+<area shape="rect" id="Node000004" href="$namespacefmath.html#aca7b2a26214601204474ba7d5c546934" title=" " alt="" coords="172,55,288,80"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="323,56,289,61,288,56,322,51"/>
+<area shape="rect" id="Node000003" href="$namespacefmath.html#adf6ad6d23d69da95e121469bbf18c545" title=" " alt="" coords="5,5,124,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="158,21,124,21,124,15,158,15"/>
 </map>

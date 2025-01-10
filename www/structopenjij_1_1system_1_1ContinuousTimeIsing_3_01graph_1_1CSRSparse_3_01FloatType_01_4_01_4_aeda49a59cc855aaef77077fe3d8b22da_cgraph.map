@@ -1,4 +1,5 @@
 <map id="openjij::system::ContinuousTimeIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::ContinuousTimeIsing" name="openjij::system::ContinuousTimeIsing&lt; graph::CSRSparse&lt; FloatType &gt; &gt;::ContinuousTimeIsing">
-<area shape="rect" id="node1" title="ContinuousTimeIsing constructor." alt="" coords="5,5,280,61"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="328,13,487,54"/>
+<area shape="rect" id="Node000001" title="ContinuousTimeIsing constructor." alt="" coords="5,5,280,60"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="328,13,487,53"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="280,30,314,30,314,35,280,35"/>
 </map>

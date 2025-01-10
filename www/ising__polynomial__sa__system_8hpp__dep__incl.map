@@ -1,9 +1,17 @@
 <map id="ising_polynomial_sa_system.hpp" name="ising_polynomial_sa_system.hpp">
-<area shape="rect" id="node1" title=" " alt="" coords="96,5,251,47"/>
-<area shape="rect" id="node2" href="$system_2all_8hpp.html" title=" " alt="" coords="140,95,207,121"/>
-<area shape="rect" id="node3" href="$get__solution_8hpp.html" title=" " alt="" coords="5,169,136,196"/>
-<area shape="rect" id="node5" href="$declare_8hpp.html" title=" " alt="" coords="124,319,223,345"/>
-<area shape="rect" id="node7" href="$sa__sampler_8hpp.html" title=" " alt="" coords="211,244,335,271"/>
-<area shape="rect" id="node4" href="$result_2all_8hpp.html" title=" " alt="" coords="53,244,120,271"/>
-<area shape="rect" id="node6" href="$main_8cpp.html" title=" " alt="" coords="132,393,215,420"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="13,5,167,45"/>
+<area shape="rect" id="Node000002" href="$system_2all_8hpp.html" title=" " alt="" coords="57,93,123,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="93,59,93,93,87,93,87,59"/>
+<area shape="rect" id="Node000003" href="$declare_8hpp.html" title=" " alt="" coords="23,313,122,339"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="55,128,32,145,15,168,9,187,9,208,21,249,43,285,64,312,60,315,39,288,16,251,3,209,4,187,10,165,29,141,52,123"/>
+<area shape="rect" id="Node000005" href="$get__solution_8hpp.html" title=" " alt="" coords="25,167,155,192"/>
+<area shape="poly" id="edge4_Node000002_Node000005" title=" " alt="" coords="93,132,93,167,87,167,87,132"/>
+<area shape="rect" id="Node000007" href="$sa__sampler_8hpp.html" title=" " alt="" coords="131,240,255,265"/>
+<area shape="poly" id="edge7_Node000002_Node000007" title=" " alt="" coords="124,124,148,142,170,165,187,205,194,239,189,240,182,206,165,168,145,146,121,128"/>
+<area shape="rect" id="Node000004" href="$main_8cpp.html" title=" " alt="" coords="31,387,114,412"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="75,352,75,387,70,387,70,352"/>
+<area shape="rect" id="Node000006" href="$result_2all_8hpp.html" title=" " alt="" coords="39,240,106,265"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="87,206,78,241,73,239,81,205"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="75,279,75,313,70,313,70,279"/>
+<area shape="poly" id="edge8_Node000007_Node000003" title=" " alt="" coords="163,275,94,315,91,311,160,270"/>
 </map>

@@ -1,0 +1,7 @@
+<map id="openjij.sampler.sa_sampler.geometric_hubo_beta_schedule" name="openjij.sampler.sa_sampler.geometric_hubo_beta_schedule">
+<area shape="rect" id="Node000001" title=" " alt="" coords="508,5,699,60"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#acf99c74c79af45484831139e1340c036" title=" " alt="" coords="300,5,460,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="494,35,460,35,460,30,494,30"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#af365277ca54ea3bafbb9df63686c9621" title=" " alt="" coords="5,13,252,53"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="287,35,252,35,252,30,287,30"/>
+</map>

@@ -1,0 +1,5 @@
+var continuous__time__swendsen__wang_8hpp =
+[
+    [ "openjij::updater::ContinuousTimeSwendsenWang< system::ContinuousTimeIsing< graph::Sparse< FloatType > > >", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra8e0a36304a7a08edfd6f7bc1c47e64ba.html", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra8e0a36304a7a08edfd6f7bc1c47e64ba" ],
+    [ "openjij::updater::ContinuousTimeSwendsenWang< system::ContinuousTimeIsing< graph::CSRSparse< FloatType > > >", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1.html", "structopenjij_1_1updater_1_1ContinuousTimeSwendsenWang_3_01system_1_1ContinuousTimeIsing_3_01gra95bfac19681c7b9044b3ed949be2b6d1" ]
+];

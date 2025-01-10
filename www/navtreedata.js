@@ -25,37 +25,12 @@
 var NAVTREE =
 [
   [ "openjij", "index.html", [
-    [ "OpenJij : Framework for the Ising model and QUBO.", "index.html", [
-      [ "Coverage Graph", "index.html#autotoc_md3", [
-        [ "Change <strong>IMPORT</strong>", "index.html#autotoc_md4", null ]
-      ] ],
-      [ "install", "index.html#autotoc_md5", [
-        [ "install via pip", "index.html#autotoc_md6", null ],
-        [ "install via pip from source codes", "index.html#autotoc_md7", [
-          [ "cmake setup", "index.html#autotoc_md8", null ],
-          [ "install OpenJij", "index.html#autotoc_md9", null ]
-        ] ],
-        [ "install from github repository", "index.html#autotoc_md10", null ]
-      ] ],
-      [ "For Contributor", "index.html#autotoc_md11", null ],
-      [ "Test", "index.html#autotoc_md12", [
-        [ "Python", "index.html#autotoc_md13", null ],
-        [ "C++", "index.html#autotoc_md14", null ]
-      ] ],
-      [ "Python Documentation", "index.html#autotoc_md15", null ],
-      [ "How to use", "index.html#autotoc_md16", [
-        [ "Python example", "index.html#autotoc_md17", null ]
-      ] ],
-      [ "Community", "index.html#autotoc_md18", null ],
-      [ "About us", "index.html#autotoc_md19", [
-        [ "Licences", "index.html#autotoc_md20", null ]
-      ] ]
-    ] ],
+    [ "OpenJij : Framework for the Ising model and QUBO.", "index.html", "index" ],
     [ "Deprecated List", "deprecated.html", null ],
     [ "Namespaces", "namespaces.html", [
       [ "Namespace List", "namespaces.html", "namespaces_dup" ],
       [ "Namespace Members", "namespacemembers.html", [
-        [ "All", "namespacemembers.html", null ],
+        [ "All", "namespacemembers.html", "namespacemembers_dup" ],
         [ "Functions", "namespacemembers_func.html", null ],
         [ "Variables", "namespacemembers_vars.html", null ],
         [ "Typedefs", "namespacemembers_type.html", null ],
@@ -88,11 +63,14 @@ var NAVTREE =
 var NAVTREEINDEX =
 [
 "____init_____8py.html",
-"classopenjij_1_1graph_1_1Square.html#af2a2bdbb0fe60b2c17ae106c2d0d9630",
-"cxx__cast_8py.html#a3fbac3b01760c730aad69527dae899e3",
-"namespacefmath.html#affa4ce71de9b2037b529ee4465f34d5f",
-"sa__sampler_8py.html#a8b49acd2b2f9fbdd14a642deb03def2c",
-"structopenjij_1_1updater_1_1SingleSpinFlip_3_01system_1_1ClassicalIsing_3_01GraphType_01_4_01_4.html#accac653c668ac5674afe53fa4008f57d"
+"classopenjij_1_1graph_1_1Graph.html",
+"classopenjij_1_1sampler_1_1SASampler.html#aad7765d2d3d1c1d90fc3a0955b098cb1",
+"classopenjij_1_1system_1_1KLocalPolynomial_3_01graph_1_1Polynomial_3_01FloatType_01_4_01_4.html#a7b257423afcbc4cd8b8e03c25da0c2f1",
+"fmath_8hpp.html#a6c81f35e06bfa7eb20afe119853626f7",
+"namespaceopenjij.html#a1ca8ea315efc86f59f6bb4a8e54c280c",
+"sa__sampler_8py.html#a1ae1620ee35a05ce02693191c1072ede",
+"structopenjij_1_1system_1_1ContinuousTimeIsing_3_01graph_1_1Sparse_3_01FloatType_01_4_01_4.html#a7ef058f5b2312452151e060e4e1215e3",
+"structopenjij_1_1utility_1_1Schedule.html"
 ];
 
 var SYNCONMSG = 'click to disable panel synchronisation';

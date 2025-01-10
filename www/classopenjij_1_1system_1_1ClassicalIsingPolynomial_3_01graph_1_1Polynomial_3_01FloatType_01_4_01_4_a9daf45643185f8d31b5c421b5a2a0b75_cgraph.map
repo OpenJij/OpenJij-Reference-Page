@@ -1,5 +1,7 @@
 <map id="openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::SetInteractions" name="openjij::system::ClassicalIsingPolynomial&lt; graph::Polynomial&lt; FloatType &gt; &gt;::SetInteractions">
-<area shape="rect" id="node1" title="Set interactions from Polynomial graph." alt="" coords="5,24,193,95"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Polynomial.html#afb0ced491842e00c43c7822d5b69d6f7" title="Get the PolynomialKeyList object (all the keys of polynomial interactions)." alt="" coords="241,5,433,47"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Polynomial.html#a1cc48e60eec6c38ddc83fcf8366d23a5" title="Get the PolynomialValueList object (all the values of polynomial interactions)." alt="" coords="241,71,433,112"/>
+<area shape="rect" id="Node000001" title="Set interactions from Polynomial graph." alt="" coords="5,23,193,92"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Polynomial.html#a2d388878c1804ebe9aa58c780358f039" title="Get the PolynomialKeyList object (all the keys of polynomial interactions)." alt="" coords="241,5,433,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="193,42,227,37,228,43,194,47"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Polynomial.html#a789e9c1015defdd950dd46d7975c62d9" title="Get the PolynomialValueList object (all the values of polynomial interactions)." alt="" coords="241,69,433,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="194,67,228,72,227,77,193,73"/>
 </map>

@@ -1,6 +1,6 @@
 var graph_8hpp =
 [
-    [ "Graph", "classopenjij_1_1graph_1_1Graph.html", "classopenjij_1_1graph_1_1Graph" ],
+    [ "openjij::graph::Graph", "classopenjij_1_1graph_1_1Graph.html", "classopenjij_1_1graph_1_1Graph" ],
     [ "Binaries", "graph_8hpp.html#a367bece07df716fc31c3bb24d9c74174", null ],
     [ "Binary", "graph_8hpp.html#a8278a76e143fb61abb6ade277ae8ca7e", null ],
     [ "Index", "graph_8hpp.html#afa7c9a5b1b2f2ba4b79da795eceae690", null ],

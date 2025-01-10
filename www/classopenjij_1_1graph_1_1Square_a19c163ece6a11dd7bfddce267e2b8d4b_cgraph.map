@@ -1,5 +1,11 @@
 <map id="openjij::graph::Square::_checkpair" name="openjij::graph::Square::_checkpair">
-<area shape="rect" id="node1" title="check if the pair has a valid connection" alt="" coords="5,5,169,47"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Square.html#aa5fd733d248cb0e71c234926b8854015" title="convert from global index to (row x column) index" alt="" coords="217,5,381,47"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="429,5,588,47"/>
+<area shape="rect" id="Node000001" title="check if the pair has a valid connection" alt="" coords="5,59,169,99"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="435,29,582,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="169,70,422,53,422,58,170,76"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Square.html#aa5fd733d248cb0e71c234926b8854015" title="convert from global index to (row x column) index" alt="" coords="217,87,381,127"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="170,87,204,91,204,97,169,92"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="470,30,467,20,473,10,487,5,509,3,533,6,546,13,544,18,531,11,509,8,489,10,477,15,472,21,475,28"/>
+<area shape="poly" id="edge5_Node000003_Node000002" title=" " alt="" coords="372,84,421,70,423,76,374,89"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="429,93,588,133"/>
+<area shape="poly" id="edge4_Node000003_Node000004" title=" " alt="" coords="382,107,416,108,415,113,382,112"/>
 </map>

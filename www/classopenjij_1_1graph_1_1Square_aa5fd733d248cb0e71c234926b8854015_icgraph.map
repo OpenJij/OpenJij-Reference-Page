@@ -1,5 +1,7 @@
 <map id="openjij::graph::Square::to_rc" name="openjij::graph::Square::to_rc">
-<area shape="rect" id="node1" title="convert from global index to (row x column) index" alt="" coords="429,5,593,47"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Square.html#a19c163ece6a11dd7bfddce267e2b8d4b" title="check if the pair has a valid connection" alt="" coords="217,5,381,47"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Square.html#adae56563403f5a039359304a0f573fff" title="Square constructor (from nlohmann::json)" alt="" coords="5,5,169,47"/>
+<area shape="rect" id="Node000001" title="convert from global index to (row x column) index" alt="" coords="429,5,593,45"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Square.html#a19c163ece6a11dd7bfddce267e2b8d4b" title="check if the pair has a valid connection" alt="" coords="217,5,381,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,28,381,28,381,23,416,23"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Square.html#adae56563403f5a039359304a0f573fff" title="Square constructor (from nlohmann::json)" alt="" coords="5,5,169,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="204,28,169,28,169,23,204,23"/>
 </map>

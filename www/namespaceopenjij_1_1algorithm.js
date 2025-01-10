@@ -11,5 +11,5 @@ var namespaceopenjij_1_1algorithm =
       [ "METROPOLIS", "namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa927bbbfc6e23f42b7a6d80edade77733", null ],
       [ "HEAT_BATH", "namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9fa52186bba0a3e7af22a70ebb93de1b146", null ]
     ] ],
-    [ "GenerateRandomNumberEngineClass", "namespaceopenjij_1_1algorithm.html#aeae5e1197c7b64ce9ec56a0cc6c2c7f0", null ]
+    [ "GenerateRandomNumberEngineClass", "namespaceopenjij_1_1algorithm.html#a0a15763fde949a53dde9e1f179cd8793", null ]
 ];

@@ -1,0 +1,13 @@
+<map id="openjij.sampler.csqa_sampler.CSQASampler.sample_ising" name="openjij.sampler.csqa_sampler.CSQASampler.sample_ising">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,123,269,163"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#ab13d17ed681df57a5db66ecb37701ca0" title=" " alt="" coords="322,44,533,99"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="218,121,308,98,309,103,219,126"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a2025ac7a4bb12cc488b67930cacfec46" title=" " alt="" coords="317,123,537,163"/>
+<area shape="poly" id="edge4_Node000001_Node000005" title=" " alt="" coords="270,141,304,141,304,146,270,146"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1sampler_1_1sampler_1_1BaseSampler.html#a3a6f1d444e5ce26a0040ee9129a8b6aa" title=" " alt="" coords="330,187,525,227"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="229,161,324,182,323,187,228,166"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html#ae2521a275d2d8a5baf40062040dbab14" title=" " alt="" coords="585,5,800,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="532,53,571,48,572,53,533,59"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html#a756b20aca3799e889d88df14270fd99b" title=" " alt="" coords="585,84,800,139"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="533,85,572,90,571,96,532,90"/>
+</map>

@@ -1,7 +1,11 @@
 <map id="openjij.sampler.sampler.BaseSampler" name="openjij.sampler.sampler.BaseSampler">
-<area shape="rect" id="node1" title=" " alt="" coords="86,80,269,121"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html" title=" " alt="" coords="5,169,163,211"/>
-<area shape="rect" id="node4" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html" title=" " alt="" coords="187,169,354,211"/>
-<area shape="rect" id="node2" title=" " alt="" coords="115,5,240,32"/>
-<area shape="rect" id="node5" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html" title=" " alt="" coords="183,259,358,300"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="86,79,269,119"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1sampler_1_1sa__sampler_1_1SASampler.html" title=" " alt="" coords="5,167,163,207"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="148,130,106,168,103,164,145,126"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html" title=" " alt="" coords="187,167,354,207"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="210,126,252,164,248,168,206,130"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="115,5,240,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="180,44,180,79,175,79,175,44"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1sampler_1_1csqa__sampler_1_1CSQASampler.html" title=" " alt="" coords="183,255,358,295"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="273,221,273,254,268,254,268,221"/>
 </map>

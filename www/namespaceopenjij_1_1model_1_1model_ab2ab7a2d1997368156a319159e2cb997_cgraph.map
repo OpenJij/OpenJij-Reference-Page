@@ -1,0 +1,11 @@
+<map id="openjij.model.model.BinaryPolynomialModel" name="openjij.model.model.BinaryPolynomialModel">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,78,208,118"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1model_1_1model.html#a344632bed7484fbf7fff7895d07779e2" title=" " alt="" coords="256,5,440,60"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="181,75,242,59,243,64,182,80"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1model_1_1model.html#af69f8acb1f9fac4134ff80c6c9c7d0f4" title=" " alt="" coords="488,78,648,118"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="208,95,474,95,474,101,208,101"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1model_1_1model.html#a07e2c5616059db7c8c8edd7737e525fd" title=" " alt="" coords="256,136,440,191"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="182,116,243,132,242,137,181,121"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="441,57,488,71,486,77,439,63"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="439,133,486,119,488,125,441,139"/>
+</map>

@@ -1,5 +1,7 @@
 <map id="openjij::graph::Chimera&lt; FloatType &gt;" name="openjij::graph::Chimera&lt; FloatType &gt;">
-<area shape="rect" id="node1" title="chimera lattice graph" alt="" coords="5,169,180,211"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Sparse.html" title=" " alt="" coords="11,80,174,121"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Graph.html" title="Abstract graph class." alt="" coords="13,5,172,32"/>
+<area shape="rect" id="Node000001" title="chimera lattice graph" alt="" coords="5,167,180,207"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Sparse.html" title="Sparse graph: two&#45;body intereactions with O(1) connectivity The Hamiltonian is like." alt="" coords="11,79,174,119"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="95,133,95,166,90,166,90,133"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Graph.html" title="Abstract graph class." alt="" coords="13,5,172,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="95,44,95,79,90,79,90,44"/>
 </map>

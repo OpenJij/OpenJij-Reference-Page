@@ -1,4 +1,5 @@
 <map id="openjij::utility::make_classical_constraint_schedule_list" name="openjij::utility::make_classical_constraint_schedule_list">
-<area shape="rect" id="node1" title="helper function for making classical constraint schedule list with geometric series of inverse temper..." alt="" coords="204,5,361,61"/>
-<area shape="rect" id="node2" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,20,156,47"/>
+<area shape="rect" id="Node000001" title="helper function for making classical constraint schedule list with geometric series of inverse temper..." alt="" coords="204,5,361,60"/>
+<area shape="rect" id="Node000002" href="$main_8cpp.html#aa9253edd16ada578e635b5a4e1279d8c" title=" " alt="" coords="5,20,156,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="190,35,156,35,156,30,190,30"/>
 </map>

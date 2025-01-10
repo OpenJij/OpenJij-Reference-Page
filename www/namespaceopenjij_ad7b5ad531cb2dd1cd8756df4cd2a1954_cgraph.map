@@ -1,0 +1,6 @@
+<map id="openjij::declare_Polynomial" name="openjij::declare_Polynomial">
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,37,208,62"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="256,29,403,69"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="208,47,242,47,242,52,208,52"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="288,30,285,20,292,10,307,5,329,3,355,6,369,13,367,18,354,11,329,8,308,10,295,15,291,21,293,28"/>
+</map>

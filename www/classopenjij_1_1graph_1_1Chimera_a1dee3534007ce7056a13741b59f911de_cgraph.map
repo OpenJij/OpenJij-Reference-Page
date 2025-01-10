@@ -1,9 +1,21 @@
 <map id="openjij::graph::Chimera::Chimera" name="openjij::graph::Chimera::Chimera">
-<area shape="rect" id="node1" title="chimera lattice graph constructor" alt="" coords="5,68,180,109"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Sparse.html#a337f18d08a33bdffcfb033e4f3781faf" title="access J_{ij}" alt="" coords="228,42,403,69"/>
-<area shape="rect" id="node5" href="$classopenjij_1_1graph_1_1Chimera.html#ae4aa11fec389a2318e7fe75494a96e8b" title="convert from (row x column x in&#45;chimera) index to global index" alt="" coords="228,100,403,141"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="673,5,832,47"/>
-<area shape="rect" id="node4" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="457,35,619,76"/>
-<area shape="rect" id="node6" href="$classopenjij_1_1graph_1_1Chimera.html#a507595e51f0f839826c474d93ab693d8" title="mod function (a mod num_column)" alt="" coords="451,100,625,141"/>
-<area shape="rect" id="node7" href="$classopenjij_1_1graph_1_1Chimera.html#a0145a75817091e8ce1ad47f33d6527b5" title="mod function (a mod num_row)" alt="" coords="451,165,625,207"/>
+<area shape="rect" id="Node000001" title="chimera lattice graph constructor" alt="" coords="5,160,180,200"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Sparse.html#a92c61fd612fd9b1dd46ec886e3b266a5" title="access J_{ij}" alt="" coords="228,110,403,135"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="170,157,251,136,253,141,172,163"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Chimera.html#ae4aa11fec389a2318e7fe75494a96e8b" title="convert from (row x column x in&#45;chimera) index to global index" alt="" coords="228,188,403,228"/>
+<area shape="poly" id="edge9_Node000001_Node000006" title=" " alt="" coords="181,188,215,193,214,198,180,194"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="673,5,832,45"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="329,108,380,70,414,50,450,35,503,22,557,15,659,14,659,19,558,21,504,27,451,40,416,55,383,74,333,112"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="679,105,826,145"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="403,122,451,123,665,123,665,128,451,128,403,127"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="457,73,619,113"/>
+<area shape="poly" id="edge5_Node000002_Node000005" title=" " alt="" coords="403,109,442,103,443,109,403,114"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="713,106,710,96,717,86,731,81,753,79,778,82,791,89,789,94,776,87,753,84,732,86,720,91,715,97,718,104"/>
+<area shape="poly" id="edge6_Node000005_Node000003" title=" " alt="" coords="601,71,675,47,677,52,603,76"/>
+<area shape="poly" id="edge7_Node000005_Node000004" title=" " alt="" coords="620,103,666,110,665,115,619,108"/>
+<area shape="poly" id="edge8_Node000005_Node000005" title=" " alt="" coords="498,74,496,64,502,54,516,49,538,47,563,50,577,57,574,62,561,55,538,52,518,54,505,59,501,65,503,72"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Chimera.html#a507595e51f0f839826c474d93ab693d8" title="mod function (a mod num_column)" alt="" coords="451,188,625,228"/>
+<area shape="poly" id="edge10_Node000006_Node000007" title=" " alt="" coords="403,205,437,205,437,211,403,211"/>
+<area shape="rect" id="Node000008" href="$classopenjij_1_1graph_1_1Chimera.html#a0145a75817091e8ce1ad47f33d6527b5" title="mod function (a mod num_row)" alt="" coords="451,252,625,292"/>
+<area shape="poly" id="edge11_Node000006_Node000008" title=" " alt="" coords="386,226,455,246,454,251,385,231"/>
 </map>

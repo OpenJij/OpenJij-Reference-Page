@@ -1,8 +1,26 @@
 <map id="openjij::graph::Sparse::energy" name="openjij::graph::Sparse::energy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,142,168,184"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1" title="calculate total energy" alt="" coords="216,88,379,129"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="864,62,1023,104"/>
-<area shape="rect" id="node4" href="$classopenjij_1_1graph_1_1Sparse.html#a6c742b9b2fad5a5a8be230becf27ff11" title="access h_{i} (local field)" alt="" coords="427,58,605,84"/>
-<area shape="rect" id="node6" href="$classopenjij_1_1graph_1_1Sparse.html#a337f18d08a33bdffcfb033e4f3781faf" title="access J_{ij}" alt="" coords="429,108,603,135"/>
-<area shape="rect" id="node5" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="653,62,816,104"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,129,168,169"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1" title="calculate total energy" alt="" coords="216,129,379,169"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="168,146,202,146,202,151,168,151"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="864,11,1023,51"/>
+<area shape="poly" id="edge16_Node000001_Node000003" title=" " alt="" coords="144,126,240,96,365,60,508,28,653,7,735,3,816,7,851,11,850,17,816,13,735,8,654,13,508,34,367,66,241,101,146,131"/>
+<area shape="rect" id="Node000005" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="870,251,1017,291"/>
+<area shape="poly" id="edge17_Node000001_Node000005" title=" " alt="" coords="133,166,263,219,344,246,427,267,490,278,539,282,653,283,735,286,816,283,856,280,856,285,816,289,735,291,653,289,539,287,489,284,426,273,343,251,261,224,131,171"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="345,126,426,96,537,56,587,42,653,30,755,22,850,23,850,28,755,27,654,35,589,47,539,61,428,101,347,131"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Sparse.html#a192d369653ca6c86b378f3b15137023c" title="access h_{i} (local field)" alt="" coords="427,111,605,136"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="379,137,413,133,414,138,379,142"/>
+<area shape="poly" id="edge15_Node000002_Node000005" title=" " alt="" coords="351,166,428,196,539,241,588,259,654,273,699,278,734,278,816,273,856,272,856,277,816,278,734,283,699,283,653,278,587,264,537,246,426,201,349,171"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Sparse.html#a92c61fd612fd9b1dd46ec886e3b266a5" title="access J_{ij}" alt="" coords="429,160,603,185"/>
+<area shape="poly" id="edge11_Node000002_Node000007" title=" " alt="" coords="379,155,415,159,415,164,379,160"/>
+<area shape="poly" id="edge4_Node000004_Node000003" title=" " alt="" coords="539,108,590,83,653,61,754,41,850,32,850,37,755,46,654,66,592,88,542,113"/>
+<area shape="poly" id="edge5_Node000004_Node000005" title=" " alt="" coords="605,117,655,119,709,125,764,137,817,156,848,173,876,195,920,239,916,243,872,199,845,177,815,161,763,142,708,131,655,125,605,122"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="653,194,816,234"/>
+<area shape="poly" id="edge7_Node000004_Node000006" title=" " alt="" coords="572,134,606,145,689,185,686,190,604,150,571,139"/>
+<area shape="poly" id="edge6_Node000005_Node000005" title=" " alt="" coords="904,252,902,242,908,233,922,227,943,225,968,228,981,235,978,240,966,233,943,230,923,232,911,237,907,243,909,250"/>
+<area shape="poly" id="edge8_Node000006_Node000003" title=" " alt="" coords="762,192,814,149,910,60,914,63,818,153,765,196"/>
+<area shape="poly" id="edge9_Node000006_Node000005" title=" " alt="" coords="809,232,858,245,856,250,807,237"/>
+<area shape="poly" id="edge10_Node000006_Node000006" title=" " alt="" coords="696,194,693,184,699,175,713,169,735,167,759,170,772,178,770,182,757,175,735,173,715,175,703,179,698,185,701,193"/>
+<area shape="poly" id="edge12_Node000007_Node000003" title=" " alt="" coords="562,158,605,145,873,54,875,59,606,150,564,163"/>
+<area shape="poly" id="edge13_Node000007_Node000005" title=" " alt="" coords="537,183,588,215,620,231,654,244,705,256,758,264,856,270,856,276,757,269,704,261,653,249,618,236,585,219,534,188"/>
+<area shape="poly" id="edge14_Node000007_Node000006" title=" " alt="" coords="584,183,640,194,639,199,583,188"/>
 </map>

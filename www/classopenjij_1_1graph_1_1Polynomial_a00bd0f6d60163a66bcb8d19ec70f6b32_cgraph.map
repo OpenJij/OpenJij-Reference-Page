@@ -1,4 +1,9 @@
 <map id="openjij::graph::Polynomial::energy" name="openjij::graph::Polynomial::energy">
-<area shape="rect" id="node1" title="Return the total energy corresponding to the input variables, Spins or Binaries." alt="" coords="5,5,197,47"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins" alt="" coords="245,5,404,47"/>
+<area shape="rect" id="Node000001" title="Return the total energy corresponding to the input variables, Spins or Binaries." alt="" coords="5,61,197,101"/>
+<area shape="poly" id="edge1_Node000001_Node000001" title=" " alt="" coords="60,62,57,52,64,42,79,37,101,35,127,38,141,45,139,50,126,43,101,40,80,42,67,47,63,53,65,60"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="251,29,398,69"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="197,65,237,59,238,64,198,70"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins" alt="" coords="245,93,404,133"/>
+<area shape="poly" id="edge4_Node000001_Node000003" title=" " alt="" coords="198,92,232,97,231,103,197,98"/>
+<area shape="poly" id="edge3_Node000002_Node000002" title=" " alt="" coords="283,30,281,20,287,10,302,5,325,3,351,6,365,13,362,18,349,11,325,8,303,10,291,15,286,21,288,28"/>
 </map>

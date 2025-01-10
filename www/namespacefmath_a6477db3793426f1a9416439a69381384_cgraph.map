@@ -1,5 +1,7 @@
 <map id="fmath::log_pd" name="fmath::log_pd">
-<area shape="rect" id="node1" title=" " alt="" coords="5,5,117,32"/>
-<area shape="rect" id="node2" href="$namespacefmath.html#a8d7e069e304bd8d5dcde3f4927ac41a3" title=" " alt="" coords="165,5,255,32"/>
-<area shape="rect" id="node3" href="$namespacefmath_1_1local.html#aeeeb445903225ce0c8dadc6c5b5343f6" title=" " alt="" coords="303,5,447,32"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,5,117,31"/>
+<area shape="rect" id="Node000002" href="$namespacefmath.html#a8d7e069e304bd8d5dcde3f4927ac41a3" title=" " alt="" coords="165,5,255,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="117,15,152,15,152,21,117,21"/>
+<area shape="rect" id="Node000003" href="$namespacefmath_1_1local.html#aeeeb445903225ce0c8dadc6c5b5343f6" title=" " alt="" coords="303,5,447,31"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="255,15,289,15,289,21,255,21"/>
 </map>

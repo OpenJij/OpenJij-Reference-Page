@@ -1,5 +1,12 @@
 <map id="openjij::graph::Dense::energy" name="openjij::graph::Dense::energy">
-<area shape="rect" id="node1" title=" " alt="" coords="5,35,165,76"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Dense.html#a5e44f0e517894774e11b46c4fec4a2c3" title="calculate total energy" alt="" coords="213,5,373,47"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="421,35,580,76"/>
+<area shape="rect" id="Node000001" title=" " alt="" coords="5,56,165,96"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Dense.html#a5e44f0e517894774e11b46c4fec4a2c3" title="calculate total energy" alt="" coords="213,56,373,96"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="165,73,199,73,199,79,165,79"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="421,5,580,45"/>
+<area shape="poly" id="edge5_Node000001_Node000003" title=" " alt="" coords="156,53,213,41,313,30,407,24,408,30,314,35,214,47,157,59"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="427,100,574,140"/>
+<area shape="poly" id="edge6_Node000001_Node000004" title=" " alt="" coords="156,93,214,105,317,115,414,118,414,124,317,121,213,111,155,99"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="373,54,407,45,409,51,374,59"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="374,90,415,99,413,104,373,96"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="462,100,460,90,466,81,480,75,501,73,525,76,538,84,535,88,523,81,501,79,481,81,469,85,465,91,467,99"/>
 </map>

@@ -1,0 +1,34 @@
+<map id="openjij::graph::Sparse::h" name="openjij::graph::Sparse::h">
+<area shape="rect" id="Node000001" title="access h_{i} (local field)" alt="" coords="697,313,876,338"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Chimera.html#a27fb8ff6e7e62287f191a72cda452d59" title="Square constructor (from nlohmann::json)" alt="" coords="467,5,641,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="776,300,760,251,733,189,696,123,673,93,648,66,620,48,623,43,651,62,677,90,701,120,738,186,765,249,781,298"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij.html#adea101a331926559ea3600d501c6943a" title=" " alt="" coords="5,131,179,157"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="771,301,752,266,725,224,690,182,648,149,591,119,541,99,493,88,447,84,400,86,349,93,227,111,176,121,131,134,129,129,175,116,226,105,348,87,400,81,448,79,494,83,542,94,594,114,651,144,694,179,729,221,757,263,776,299"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Sparse.html#afe3a672a14df1b57e52e69a4d895f3b1" title="calculate total energy" alt="" coords="473,159,635,199"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="762,305,712,259,681,234,648,213,623,201,626,196,651,208,684,230,716,255,766,301"/>
+<area shape="rect" id="Node000008" href="$namespaceopenjij_1_1utility.html#aa8289a451643f7d0b041bc7eeebc2aaa" title="generate Eigen Sparse Matrix from Sparse graph" alt="" coords="477,223,631,263"/>
+<area shape="poly" id="edge8_Node000001_Node000008" title=" " alt="" coords="738,310,648,277,614,265,616,260,650,272,740,305"/>
+<area shape="rect" id="Node000009" href="$classopenjij_1_1graph_1_1Square.html#a8bc329c94444b988db27e03a059d7f1f" title="access h(row, colum) (local field)" alt="" coords="464,287,644,313"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="683,317,644,312,644,307,684,311"/>
+<area shape="rect" id="Node000011" href="$classopenjij_1_1graph_1_1Square.html#a1454a0553577ffccbd925c2b2ddbb402" title="access h(row, colum) (local field)" alt="" coords="464,337,644,362"/>
+<area shape="poly" id="edge11_Node000001_Node000011" title=" " alt="" coords="684,339,644,343,644,337,683,333"/>
+<area shape="rect" id="Node000012" href="$classopenjij_1_1graph_1_1Chimera.html#a9bb19f2cf4bfc0af1301ceb35f1a6754" title="access h(row, colum, in&#45;chimera) (local field)" alt="" coords="459,386,649,411"/>
+<area shape="poly" id="edge12_Node000001_Node000012" title=" " alt="" coords="741,346,650,377,609,389,608,383,649,372,739,341"/>
+<area shape="rect" id="Node000014" href="$classopenjij_1_1graph_1_1Chimera.html#ad7d6298227b90874eb2985b30d35ef47" title="access h(row, colum, in&#45;chimera) (local field)" alt="" coords="459,435,649,461"/>
+<area shape="poly" id="edge14_Node000001_Node000014" title=" " alt="" coords="763,349,713,389,650,426,620,438,618,433,648,422,710,384,759,345"/>
+<area shape="rect" id="Node000015" href="$classopenjij_1_1graph_1_1Sparse.html#a421a5211edffe0fc81007913c5a1b5ae" title="Sparse constructor (from nlohmann::json)" alt="" coords="473,485,635,525"/>
+<area shape="poly" id="edge15_Node000001_Node000015" title=" " alt="" coords="771,351,722,412,689,446,651,476,628,488,626,483,648,471,685,442,718,409,767,347"/>
+<area shape="rect" id="Node000016" href="$classopenjij_1_1graph_1_1Square.html#adae56563403f5a039359304a0f573fff" title="Square constructor (from nlohmann::json)" alt="" coords="472,549,636,589"/>
+<area shape="poly" id="edge16_Node000001_Node000016" title=" " alt="" coords="778,352,760,393,732,443,696,495,651,539,632,551,629,547,648,535,692,491,728,440,755,391,773,350"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Sparse.html#ab67641ad945dc99e877ee135f526598a" title=" " alt="" coords="237,120,400,160"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="459,166,400,156,401,151,460,161"/>
+<area shape="rect" id="Node000006" href="$classopenjij_1_1graph_1_1Sparse.html#a191f530cee623682979e5408097e35ad" title="calculate total energy" alt="" coords="237,184,400,224"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="460,191,401,198,400,193,459,186"/>
+<area shape="rect" id="Node000007" href="$classopenjij_1_1graph_1_1Sparse.html#ad040bdaa0f54840c3ecaad5b3f6797e1" title=" " alt="" coords="237,248,400,288"/>
+<area shape="poly" id="edge7_Node000004_Node000007" title=" " alt="" coords="477,206,460,213,412,238,382,250,380,245,410,234,458,208,475,201"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="228,183,140,159,141,154,230,178"/>
+<area shape="rect" id="Node000010" href="$namespaceopenjij.html#ab055a9c4170926b5ac72fd6449a29b04" title=" " alt="" coords="231,313,406,338"/>
+<area shape="poly" id="edge10_Node000009_Node000010" title=" " alt="" coords="450,314,407,319,406,313,450,309"/>
+<area shape="rect" id="Node000013" href="$namespaceopenjij.html#a066af23b2c3cfd9fc71a1c9570e4767f" title=" " alt="" coords="227,386,411,411"/>
+<area shape="poly" id="edge13_Node000012_Node000013" title=" " alt="" coords="445,401,411,401,411,396,445,396"/>
+</map>

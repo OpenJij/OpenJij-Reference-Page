@@ -1,5 +1,12 @@
 <map id="openjij::graph::Polynomial::calc_energy" name="openjij::graph::Polynomial::calc_energy">
-<area shape="rect" id="node1" title="Return the total energy corresponding to the input variables, Spins or Binaries." alt="" coords="5,5,197,47"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Polynomial.html#a00bd0f6d60163a66bcb8d19ec70f6b32" title="Return the total energy corresponding to the input variables, Spins or Binaries." alt="" coords="245,5,437,47"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins" alt="" coords="485,5,644,47"/>
+<area shape="rect" id="Node000001" title="Return the total energy corresponding to the input variables, Spins or Binaries." alt="" coords="5,61,197,101"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Polynomial.html#a00bd0f6d60163a66bcb8d19ec70f6b32" title="Return the total energy corresponding to the input variables, Spins or Binaries." alt="" coords="245,101,437,141"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="198,95,232,100,231,106,197,100"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="491,29,638,69"/>
+<area shape="poly" id="edge6_Node000001_Node000003" title=" " alt="" coords="197,67,245,63,477,50,478,55,246,68,198,73"/>
+<area shape="poly" id="edge2_Node000002_Node000002" title=" " alt="" coords="300,102,297,92,304,82,319,77,341,75,367,78,381,85,379,90,366,83,341,80,320,82,307,87,303,93,305,100"/>
+<area shape="poly" id="edge3_Node000002_Node000003" title=" " alt="" coords="403,99,488,71,490,76,405,104"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins" alt="" coords="485,101,644,141"/>
+<area shape="poly" id="edge5_Node000002_Node000004" title=" " alt="" coords="438,119,472,119,472,124,438,124"/>
+<area shape="poly" id="edge4_Node000003_Node000003" title=" " alt="" coords="523,30,521,20,527,10,542,5,565,3,591,6,605,13,602,18,589,11,565,8,543,10,531,15,526,21,528,28"/>
 </map>

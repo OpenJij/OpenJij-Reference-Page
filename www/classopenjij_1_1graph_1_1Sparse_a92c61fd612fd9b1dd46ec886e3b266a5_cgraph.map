@@ -1,0 +1,13 @@
+<map id="openjij::graph::Sparse::J" name="openjij::graph::Sparse::J">
+<area shape="rect" id="Node000001" title="access J_{ij}" alt="" coords="5,81,180,106"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Graph.html#a965df938bd88f3ebd33ecd98418b9375" title="get number of spins" alt="" coords="439,5,597,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="116,78,166,55,227,35,278,26,329,21,425,18,425,24,330,26,278,31,229,40,168,60,118,83"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="445,105,591,145"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="137,104,181,114,228,123,334,129,431,128,431,133,333,134,228,128,180,120,136,109"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Sparse.html#a8ff84bec819c064a26f5a54e8ea7a093" title="add adjacent node from &quot;from&quot; Index to &quot;to&quot; Index" alt="" coords="228,73,391,113"/>
+<area shape="poly" id="edge4_Node000001_Node000004" title=" " alt="" coords="180,91,214,91,214,96,180,96"/>
+<area shape="poly" id="edge3_Node000003_Node000003" title=" " alt="" coords="479,106,477,96,483,86,497,81,518,79,542,82,556,89,553,94,541,87,518,84,498,86,486,91,482,97,484,104"/>
+<area shape="poly" id="edge5_Node000004_Node000002" title=" " alt="" coords="371,71,442,47,444,52,372,76"/>
+<area shape="poly" id="edge6_Node000004_Node000003" title=" " alt="" coords="391,103,431,109,430,115,390,108"/>
+<area shape="poly" id="edge7_Node000004_Node000004" title=" " alt="" coords="270,74,268,64,274,54,288,49,309,47,334,50,347,57,344,62,332,55,309,52,289,54,277,59,273,65,275,72"/>
+</map>

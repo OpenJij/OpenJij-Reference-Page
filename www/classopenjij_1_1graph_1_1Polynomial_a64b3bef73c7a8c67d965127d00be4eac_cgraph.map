@@ -1,6 +1,14 @@
 <map id="openjij::graph::Polynomial::J" name="openjij::graph::Polynomial::J">
-<area shape="rect" id="node1" title="Return the interaction corresponding to the input argument." alt="" coords="5,13,209,39"/>
-<area shape="rect" id="node2" href="$classopenjij_1_1graph_1_1Polynomial.html#a0b7c839025b8f1f35b766233965c26b5" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="257,13,461,39"/>
-<area shape="rect" id="node3" href="$classopenjij_1_1graph_1_1Polynomial.html#ab51c8997853d877d7779500f3458ebf9" title="Check if the input keys are valid." alt="" coords="509,5,701,47"/>
-<area shape="rect" id="node4" href="$classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins" alt="" coords="749,5,908,47"/>
+<area shape="rect" id="Node000001" title="Return the interaction corresponding to the input argument." alt="" coords="5,110,209,135"/>
+<area shape="rect" id="Node000002" href="$classopenjij_1_1graph_1_1Polynomial.html#a1afbb1d15f6a38dd7a75abadf3b00102" title="Access the interaction corresponding to the input argument to set an interaction." alt="" coords="257,85,461,110"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="209,110,243,106,244,112,210,115"/>
+<area shape="rect" id="Node000004" href="$namespaceopenjij_1_1graph.html#a6e1b93d476a89ec6c66a6c0f79d7ba02" title="parse json object from bqm.to_serializable" alt="" coords="755,93,902,133"/>
+<area shape="poly" id="edge7_Node000001_Node000004" title=" " alt="" coords="209,121,461,120,742,113,742,119,461,125,209,126"/>
+<area shape="rect" id="Node000003" href="$classopenjij_1_1graph_1_1Polynomial.html#ab51c8997853d877d7779500f3458ebf9" title="Check if the input keys are valid." alt="" coords="509,20,701,60"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="414,82,505,61,507,66,415,87"/>
+<area shape="poly" id="edge6_Node000002_Node000004" title=" " alt="" coords="461,98,742,108,742,113,461,103"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="668,58,755,87,754,92,666,63"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Graph.html#ac97da6970bf1ff93a0bc1f1b3db14ea1" title="get number of spins" alt="" coords="749,5,908,45"/>
+<area shape="poly" id="edge5_Node000003_Node000005" title=" " alt="" coords="701,31,735,29,736,34,702,36"/>
+<area shape="poly" id="edge4_Node000004_Node000004" title=" " alt="" coords="787,94,785,84,791,74,806,69,829,67,855,70,869,77,866,82,853,75,829,72,807,74,795,79,790,85,792,92"/>
 </map>

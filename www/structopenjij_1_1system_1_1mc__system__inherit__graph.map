@@ -1,9 +1,15 @@
 <map id="openjij::system::mc_system" name="openjij::system::mc_system">
-<area shape="rect" id="node1" title="monte carlo system tag" alt="" coords="5,71,156,112"/>
-<area shape="rect" id="node2" href="$structopenjij_1_1system_1_1classical__constraint__system.html" title="classical monte carlo system with a constraint (using beta (inverse temperature) for annealing parame..." alt="" coords="205,5,391,47"/>
-<area shape="rect" id="node3" href="$structopenjij_1_1system_1_1classical__system.html" title="classical monte carlo system (using beta (inverse temperature) for annealing parameter)" alt="" coords="205,71,391,112"/>
-<area shape="rect" id="node4" href="$structopenjij_1_1system_1_1quantum__system.html" title="quantum monte carlo system" alt="" coords="204,136,392,177"/>
-<area shape="rect" id="node5" href="$structopenjij_1_1system_1_1inhomogeneous__transverse__field__system.html" title="inhomogeneous transverse field system" alt="" coords="440,71,675,112"/>
-<area shape="rect" id="node6" href="$structopenjij_1_1system_1_1nonstoquastic__system.html" title="nonstoquastic quantum system" alt="" coords="447,136,668,177"/>
-<area shape="rect" id="node7" href="$structopenjij_1_1system_1_1transverse__field__system.html" title="ordinary homogeneous transverse field system (using beta and annealing schedule (s) for annealing par..." alt="" coords="458,201,657,243"/>
+<area shape="rect" id="Node000001" title="monte carlo system tag" alt="" coords="5,69,156,109"/>
+<area shape="rect" id="Node000002" href="$structopenjij_1_1system_1_1classical__constraint__system.html" title="classical monte carlo system with a constraint (using beta (inverse temperature) for annealing parame..." alt="" coords="205,5,391,45"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="161,63,229,43,230,48,163,68"/>
+<area shape="rect" id="Node000003" href="$structopenjij_1_1system_1_1classical__system.html" title="classical monte carlo system (using beta (inverse temperature) for annealing parameter)" alt="" coords="205,69,391,109"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="170,87,205,87,205,92,170,92"/>
+<area shape="rect" id="Node000004" href="$structopenjij_1_1system_1_1quantum__system.html" title="quantum monte carlo system" alt="" coords="204,133,392,173"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="163,111,230,131,229,136,161,116"/>
+<area shape="rect" id="Node000005" href="$structopenjij_1_1system_1_1inhomogeneous__transverse__field__system.html" title="inhomogeneous transverse field system" alt="" coords="440,69,675,109"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="392,127,475,107,476,112,394,133"/>
+<area shape="rect" id="Node000006" href="$structopenjij_1_1system_1_1nonstoquastic__system.html" title="nonstoquastic quantum system" alt="" coords="447,133,668,173"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="406,151,446,151,446,156,406,156"/>
+<area shape="rect" id="Node000007" href="$structopenjij_1_1system_1_1transverse__field__system.html" title="ordinary homogeneous transverse field system (using beta and annealing schedule (s) for annealing par..." alt="" coords="458,197,657,237"/>
+<area shape="poly" id="edge6_Node000004_Node000007" title=" " alt="" coords="394,174,476,195,475,200,392,179"/>
 </map>

@@ -1,9 +1,9 @@
 var searchData=
 [
-  ['base_5fsample_5fhubo_874',['base_sample_hubo',['../namespaceopenjij_1_1sampler_1_1base__sa__sample__hubo.html#a5c56a512992e279666c7a831518e4442',1,'openjij::sampler::base_sa_sample_hubo']]],
-  ['binarypolynomialmodel_875',['BinaryPolynomialModel',['../classopenjij_1_1graph_1_1BinaryPolynomialModel.html#a3ff49e7e275d5c2a976d5ef0efb861c6',1,'openjij::graph::BinaryPolynomialModel::BinaryPolynomialModel()'],['../namespaceopenjij_1_1model_1_1model.html#a9f025d5e85c57753714474db362ebaf5',1,'openjij.model.model.BinaryPolynomialModel(*args, **kwargs)']]],
-  ['binaryquadraticmodel_876',['BinaryQuadraticModel',['../namespaceopenjij_1_1model_1_1model.html#a304965ab5d32a3851449693812343658',1,'openjij::model::model']]],
-  ['bqm_5ffrom_5fising_877',['bqm_from_ising',['../namespaceopenjij_1_1model_1_1model.html#aa79d7be7e5635fe9f315273f53aee2d4',1,'openjij::model::model']]],
-  ['bqm_5ffrom_5fnumpy_5fmatrix_878',['bqm_from_numpy_matrix',['../namespaceopenjij_1_1model_1_1model.html#ab9afd9610b04584ac1507109f6a2050f',1,'openjij::model::model']]],
-  ['bqm_5ffrom_5fqubo_879',['bqm_from_qubo',['../namespaceopenjij_1_1model_1_1model.html#a09a1b31e4c31c51b320ecde869ffa8f9',1,'openjij::model::model']]]
+  ['base_5fsample_5fhubo_0',['base_sample_hubo',['../namespaceopenjij_1_1sampler_1_1base__sa__sample__hubo.html#a5c56a512992e279666c7a831518e4442',1,'openjij::sampler::base_sa_sample_hubo']]],
+  ['binarypolynomialmodel_1',['binarypolynomialmodel',['../classopenjij_1_1graph_1_1BinaryPolynomialModel.html#ae4981cc39706b88089ce886dba36936a',1,'openjij::graph::BinaryPolynomialModel::BinaryPolynomialModel()'],['../namespaceopenjij_1_1model_1_1model.html#ab2ab7a2d1997368156a319159e2cb997',1,'openjij.model.model.BinaryPolynomialModel(*args, **kwargs)']]],
+  ['binaryquadraticmodel_2',['BinaryQuadraticModel',['../namespaceopenjij_1_1model_1_1model.html#a1cd131b157b6eb13f1d35684f25d8274',1,'openjij::model::model']]],
+  ['bqm_5ffrom_5fising_3',['bqm_from_ising',['../namespaceopenjij_1_1model_1_1model.html#aafe94e5d3ed78dc326627bc1bfe95ec7',1,'openjij::model::model']]],
+  ['bqm_5ffrom_5fnumpy_5fmatrix_4',['bqm_from_numpy_matrix',['../namespaceopenjij_1_1model_1_1model.html#a565082404ac9b92b644106b3cd50fd82',1,'openjij::model::model']]],
+  ['bqm_5ffrom_5fqubo_5',['bqm_from_qubo',['../namespaceopenjij_1_1model_1_1model.html#a969fe7848a2a857d3c9f2cc30d5a038a',1,'openjij::model::model']]]
 ];

@@ -1,0 +1,13 @@
+<map id="openjij::graph::Dense::J" name="openjij::graph::Dense::J">
+<area shape="rect" id="Node000001" title="access J_{ij}" alt="" coords="448,69,620,95"/>
+<area shape="rect" id="Node000002" href="$namespaceopenjij.html#a40295df4719a63a4544e69a4a51de429" title=" " alt="" coords="5,5,176,31"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="493,66,449,48,399,34,342,25,284,19,177,17,177,12,284,14,343,19,401,29,451,43,495,61"/>
+<area shape="rect" id="Node000003" href="$namespaceopenjij_1_1utility.html#a083cc677520da6239e05939e40d2cb27" title="generate Eigen Dense Matrix from Dense graph" alt="" coords="13,66,168,106"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="434,86,168,88,168,83,434,80"/>
+<area shape="rect" id="Node000004" href="$classopenjij_1_1graph_1_1Dense.html#af0ef5ba424979b16d2b5476f1beb0955" title="access h_{i} (local field)" alt="" coords="224,44,400,69"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="434,73,400,69,400,64,435,68"/>
+<area shape="rect" id="Node000005" href="$classopenjij_1_1graph_1_1Dense.html#acdb6cf1565185349d8d3777239831a28" title="access h_{i} (local field)" alt="" coords="224,145,400,171"/>
+<area shape="poly" id="edge6_Node000001_Node000005" title=" " alt="" coords="484,102,351,148,349,143,482,97"/>
+<area shape="poly" id="edge4_Node000004_Node000002" title=" " alt="" coords="225,44,163,33,164,28,226,39"/>
+<area shape="poly" id="edge5_Node000004_Node000003" title=" " alt="" coords="211,73,169,78,168,73,210,68"/>
+</map>

@@ -1,6 +1,6 @@
 var namespaceopenjij_1_1sampler_1_1sqa__sampler =
 [
     [ "SQASampler", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler.html", "classopenjij_1_1sampler_1_1sqa__sampler_1_1SQASampler" ],
-    [ "linear_ising_schedule", "namespaceopenjij_1_1sampler_1_1sqa__sampler.html#ae78de7ec7672523d3532a172a2da7d50", null ],
-    [ "quartic_ising_schedule", "namespaceopenjij_1_1sampler_1_1sqa__sampler.html#a26709ee639db9e8007c8325d5cc2e59b", null ]
+    [ "linear_ising_schedule", "namespaceopenjij_1_1sampler_1_1sqa__sampler.html#ac65f3a15213845f96d934560a4d258b4", null ],
+    [ "quartic_ising_schedule", "namespaceopenjij_1_1sampler_1_1sqa__sampler.html#a59e16faf1010d7c66916775c30d0c281", null ]
 ];
