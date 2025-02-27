@@ -1,5 +1,6 @@
 var NAVTREEINDEX5 =
 {
+"namespaceopenjij.html#a1b054be06a99e5475d248dfa02c5a7b7":[2,0,1,36],
 "namespaceopenjij.html#a1ca8ea315efc86f59f6bb4a8e54c280c":[2,0,1,28],
 "namespaceopenjij.html#a369b1cb423f80c7a36aba109a6877a34":[2,0,1,44],
 "namespaceopenjij.html#a3bc05ab10972efff0e9a12c481cdb8b6":[2,0,1,32],
@@ -29,12 +30,13 @@ var NAVTREEINDEX5 =
 "namespaceopenjij.html#ae430c106f42c4a4912f24e5e3644bb5d":[2,0,1,41],
 "namespaceopenjij.html#ae6980a95f2f481b126c61d37ca8e6269":[2,0,1,31],
 "namespaceopenjij_1_1__version.html":[2,0,1,0],
-"namespaceopenjij_1_1__version.html#a0bb235be31cd73f72fe565d551335ec1":[2,0,1,0,1],
-"namespaceopenjij_1_1__version.html#a3d04f92e7b58ee92629ed6b0449f5348":[2,0,1,0,3],
-"namespaceopenjij_1_1__version.html#a459b12ad6437a67625dd2e0b93cabed2":[2,0,1,0,5],
-"namespaceopenjij_1_1__version.html#a4885a753420be77886cd9ba0ce20ee0b":[2,0,1,0,4],
-"namespaceopenjij_1_1__version.html#a9c62b3cf764d66dc466bc37839fe8607":[2,0,1,0,0],
-"namespaceopenjij_1_1__version.html#ab3efd36fa2f3f5ad7ade7c0e57f738eb":[2,0,1,0,2],
+"namespaceopenjij_1_1__version.html#a0bb235be31cd73f72fe565d551335ec1":[2,0,1,0,2],
+"namespaceopenjij_1_1__version.html#a2f02b43131c9dd1a21b8af16191c2af7":[2,0,1,0,0],
+"namespaceopenjij_1_1__version.html#a3d04f92e7b58ee92629ed6b0449f5348":[2,0,1,0,4],
+"namespaceopenjij_1_1__version.html#a459b12ad6437a67625dd2e0b93cabed2":[2,0,1,0,6],
+"namespaceopenjij_1_1__version.html#a4885a753420be77886cd9ba0ce20ee0b":[2,0,1,0,5],
+"namespaceopenjij_1_1__version.html#a9c62b3cf764d66dc466bc37839fe8607":[2,0,1,0,1],
+"namespaceopenjij_1_1__version.html#ab3efd36fa2f3f5ad7ade7c0e57f738eb":[2,0,1,0,3],
 "namespaceopenjij_1_1algorithm.html":[2,0,1,1],
 "namespaceopenjij_1_1algorithm.html#a0a15763fde949a53dde9e1f179cd8793":[2,0,1,1,4],
 "namespaceopenjij_1_1algorithm.html#a3c8888ac2e12ec4cfe4488ae5df85d9f":[2,0,1,1,3],
@@ -247,7 +249,5 @@ var NAVTREEINDEX5 =
 "result_2all_8hpp.html":[4,0,0,0,2,0],
 "result_2all_8hpp_source.html":[4,0,0,0,2,0],
 "sa__sampler_8hpp.html":[4,0,0,0,3,0],
-"sa__sampler_8hpp.html#abe72fd80495f1587c5005d37b6db7f75":[4,0,0,0,3,0,1],
-"sa__sampler_8hpp_source.html":[4,0,0,0,3,0],
-"sa__sampler_8py.html":[4,0,1,1,4]
+"sa__sampler_8hpp.html#abe72fd80495f1587c5005d37b6db7f75":[4,0,0,0,3,0,1]
 };

@@ -1,6 +1,7 @@
 var namespaceopenjij =
 [
     [ "_version", "namespaceopenjij_1_1__version.html", [
+      [ "__all__", "namespaceopenjij_1_1__version.html#a2f02b43131c9dd1a21b8af16191c2af7", null ],
       [ "__version__", "namespaceopenjij_1_1__version.html#a9c62b3cf764d66dc466bc37839fe8607", null ],
       [ "__version_tuple__", "namespaceopenjij_1_1__version.html#a0bb235be31cd73f72fe565d551335ec1", null ],
       [ "TYPE_CHECKING", "namespaceopenjij_1_1__version.html#ab3efd36fa2f3f5ad7ade7c0e57f738eb", null ],
